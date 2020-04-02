@@ -1,4 +1,4 @@
-[
+fam([
 {"q":"[id: 102] sebutkan sesuatu yang biasa dilakukan sebelum tidur?","a":["berdoa","sikat gigi","bersihkan wajah","lihat ponsel","dengar musik","baca","nonton tv"]},
 {"q":"[id: 46] untuk belajar apa orang pergi ke china?","a":["silat","bahasa","pengobatan","dagang","seni"]},
 {"q":"[id: 238] kegiatan apa yang mengharuskan seseorang membungkuk berkali-kali?","a":["sholat","cangkul","olahraga","pel"]},
@@ -1962,4 +1962,4 @@
 {"q":"[id: 888] film animasi jepang?","a":["my neighbour totori","princess mononoke","nausicaa of the valley of wind","grave of the fireflies","castle in the sky","only yesterday","kikis delivery service"]},
 {"q":"[id: 864] macam-macam kuda?","a":["kuda nil","kuda poni","kuda laut","kuda zebra","kuda terbang","kuda liar"]},
 {"q":"[id: 861] benda yang sering ada dalam kantong celana?","a":["dompet","uang","sisir","hp","kondom","nota","koin"]},
-{"q":"[id: 891] sebutkan jenis ice cream di indonesia?","a":["heart","conello","magnum","paddle pop","feast","popeye"]}]
+{"q":"[id: 891] sebutkan jenis ice cream di indonesia?","a":["heart","conello","magnum","paddle pop","feast","popeye"]}])
