@@ -1,6 +1,0 @@
-covid([
-{"q":"[id: 102] sebutkan sesuatu yang biasa dilakukan sebelum tidur?","a":["berdoa","sikat gigi","bersihkan wajah","lihat ponsel","dengar musik","baca","nonton tv"]},
-{"q":"[id: 46] untuk belajar apa orang pergi ke china?","a":["silat","bahasa","pengobatan","dagang","seni"]},
-{"q":"[id: 238] kegiatan apa yang mengharuskan seseorang membungkuk berkali-kali?","a":["sholat","cangkul","olahraga","pel"]},
-{"q":"[id: 35] sebutkan alasan seseorang tidak masuk kantor?","a":["sakit","malas","kesiangan","urusan","macet","hujan"]},
-{"q":"[id: 479] apa julukan seseorang yang mudah tertidur dimana-mana?","a":["pelor","kebo","tuti","molor"]}])
