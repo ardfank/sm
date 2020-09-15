@@ -1,3 +1,3 @@
 # sm
 Software Mirrors
-<a href="https://cdn.software-mirrors.com/forticlientsslvpn_linux_4.0.2289.tar.gz">Download Forticlient SSLVPN CLI</a>
+<a href="https://cdn.software-mirrors.com/forticlientsslvpn_linux_4.4.2328.tar.gz" target="_blank">Download Forticlient SSLVPN CLI</a>
