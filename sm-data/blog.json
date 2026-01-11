@@ -149,13 +149,13 @@
       "served_by_colo": "SIN",
       "served_by_primary": true,
       "timings": {
-        "sql_duration_ms": 1.2972
+        "sql_duration_ms": 1.1594
       },
-      "duration": 1.2972,
+      "duration": 1.1594,
       "changes": 0,
       "last_row_id": 0,
       "changed_db": false,
-      "size_after": 1335296,
+      "size_after": 1343488,
       "rows_read": 28,
       "rows_written": 0,
       "total_attempts": 1
