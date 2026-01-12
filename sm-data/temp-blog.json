@@ -142,6 +142,23 @@
         "created_at": "2025-11-07"
       }
     ],
-    "success": true
+    "success": true,
+    "meta": {
+      "served_by": "v3-prod",
+      "served_by_region": "APAC",
+      "served_by_colo": "SIN",
+      "served_by_primary": true,
+      "timings": {
+        "sql_duration_ms": 2.2099
+      },
+      "duration": 2.2099,
+      "changes": 0,
+      "last_row_id": 0,
+      "changed_db": false,
+      "size_after": 1372160,
+      "rows_read": 28,
+      "rows_written": 0,
+      "total_attempts": 1
+    }
   }
 ]
