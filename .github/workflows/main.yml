@@ -1,7 +1,7 @@
 name: DB to JSON
 on:
   schedule:
-    - cron: "45 * * * *"
+    - cron: "5 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -19,13 +19,15 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: |
           ls -latrh sm-data/
-          wrangler d1 execute toko-suhada --remote --command="SELECT * FROM produk ORDER BY created_at DESC" --json > sm-data/product.json
+          wrangler d1 execute toko-suhada --remote --command="SELECT * FROM produk ORDER BY created_at DESC" --json > sm-data/temp-product.json
+          jq 'map(del(.meta))' sm-data/temp-product.json > sm-data/product.json
           ls -latrh sm-data/
       - name: Blog
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: |
-          wrangler d1 execute toko-suhada --remote --command="SELECT * FROM blog ORDER BY created_at DESC" --json > sm-data/blog.json
+          wrangler d1 execute toko-suhada --remote --command="SELECT * FROM blog ORDER BY created_at DESC" --json > sm-data/temp-blog.json
+          jq 'map(del(.meta))' sm-data/temp-blog.json > sm-data/blog.json
           ls -latrh sm-data/
       - name: Commit
         run: |
