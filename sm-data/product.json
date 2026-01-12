@@ -2835,9 +2835,9 @@
       "served_by_colo": "SIN",
       "served_by_primary": true,
       "timings": {
-        "sql_duration_ms": 64.4968
+        "sql_duration_ms": 15.4851
       },
-      "duration": 64.4968,
+      "duration": 15.4851,
       "changes": 0,
       "last_row_id": 0,
       "changed_db": false,
