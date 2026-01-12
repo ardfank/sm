@@ -21,6 +21,7 @@ jobs:
           ls -latrh sm-data/
           wrangler d1 execute toko-suhada --remote --command="SELECT * FROM produk ORDER BY created_at DESC" --json > sm-data/temp-product.json
           jq 'map(del(.meta))' sm-data/temp-product.json > sm-data/product.json
+          rm -f sm-data/temp-product.json
           ls -latrh sm-data/
       - name: Blog
         env:
@@ -28,6 +29,7 @@ jobs:
         run: |
           wrangler d1 execute toko-suhada --remote --command="SELECT * FROM blog ORDER BY created_at DESC" --json > sm-data/temp-blog.json
           jq 'map(del(.meta))' sm-data/temp-blog.json > sm-data/blog.json
+          rm -f sm-data/temp-blog.json
           ls -latrh sm-data/
       - name: Commit
         run: |
