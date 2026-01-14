@@ -2,6 +2,24 @@
   {
     "results": [
       {
+        "id": 73,
+        "name": "Trellix Stinger (Formerly McAfee Stinger) 13.0.0.588",
+        "slug": "trellix-stinger-formerly-mcafee-stinger",
+        "cat": "Antivirus",
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764506961/software-mirrors/laqnmlblhjje7yqr40x6.png\"]",
+        "normal_price": 0,
+        "price": 0,
+        "desc": "Among the biggest problems of computer find undoubtedly viruses. It is always advisable to have a good antivirus, but in cases where for some reason it is not available and the computer has been infected, we can use some software like McAfee Stinger.",
+        "created_at": "2026-01-14T08:17:35.839Z",
+        "review": "<p>Among the biggest problems of computer find undoubtedly viruses. It is always advisable to have a good antivirus, but in cases where for some reason it is not available and the computer has been infected, we can use some software like <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.software-mirrors.com/products/trellix-stinger-formerly-mcafee-stinger\"><strong>Trellix Stinger</strong></a>.</p><p><strong>Trellix Stinger</strong> has scored a very important both as simply running it gets removed a huge amount of virus actually extended. Thus, we give a breather to install a real antivirus with the computer completely free of worms. McAfee Stinger can remove Backdoor virus spread, Bagle, MyDoom, Sober, Zafi, Korgo, Bugbear, EPO and many more.</p><p>The amount of virus that recognizes and eliminates this software is really huge, which makes it one of the most efficient disinfection programs. <strong>Trellix Stinger</strong> interface is very simple and similar to the window scanner to open the vast majority of <em>antivirus </em>which shows the files that are being reviewed and viruses found.</p><p>Furthermore, it allows the analysis exactly configure and check the list of known viruses. Stinger is a type of missile developed in the United States and used by many armies, so if you want to kill viruses with guns, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.software-mirrors.com/products/trellix-stinger-formerly-mcafee-stinger\"><strong>Trellix Stinger</strong></a> is a good software to start.</p><h2 id=\"download\">Trellix Stinger Download Link:</h2><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://downloadcenter.trellix.com/products/mcafee-avert/Stinger/stinger32.exe\">Trellix Stinger 32bit</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://downloadcenter.trellix.com/products/mcafee-avert/Stinger/stinger64.exe\">Trellix Stinger 64bit</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://downloadcenter.trellix.com/products/mcafee-avert/Stinger/stinger32-epo.zip\">Trellix Stinger-ePO 32bit</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://downloadcenter.trellix.com/products/mcafee-avert/Stinger/stinger64-epo.zip\">Trellix Stinger-ePO 64bit</a></p></li></ul><pre><code>New Detections:\r\n-\tExploit-CVE2020-1058\r\n-\tExploit-CVE2020-1060.a\r\n-\tExploit-CVE2020-1060.b\r\n-\tExploit-cve2020-1062.a\r\n-\tExploit-cve2020-1135\r\n-\tExploit-cve2020-1143.a\r\n-\tExploit-cve2020-1153.a\r\n-\tFlyStudio-Agent\r\n-\tGeneric exploit.ma\r\n-\tGeneric trojan.kf\r\n-\tGeneric trojan.kg\r\n-\tGeneric trojan.kk\r\n-\tGeneric trojan.ky\r\n-\tLNK/Downloader.ch\r\n-\tRansom-LockBit\r\n-\tRansom-Sodnkibi\r\n-\tTrojan-AutoIt.p\r\n-\tTrojan-BlueNoroff\r\n-\tTrojan-Packed.c\r\n\r\n\r\nEnhanced Detections:\r\n-\tCoinminer.l\r\n-\tExploit-CVE2019-1367\r\n-\tFakeAV-DZ\r\n-\tGeneric Trojan.arc\r\n-\tGeneric Trojan.kg\r\n-\tGeneric Trojan.li\r\n-\tGeneric Trojan.lj\r\n-\tGeneric Trojan.ll\r\n-\tGeneric trojan.jz\r\n-\tGeneric trojan.kh\r\n-\tGeneric-Trojan.z\r\n-\tPS/Agent.bv\r\n-\tTrojan-AitInject.aq\r\n-\tTrojan-CoinMiner.n\r\n-\tTrojan-PWS.k\r\n-\tTrojan-Ransom.a\r\n-\tTrojan-Ransom.b\r\n-\tTrojan-Trickbot.d\r\n-\tVBObfus.g\r\n</code></pre>",
+        "buy": "",
+        "download": "#download",
+        "developer": "Musarubra US LLC",
+        "os": "Windows",
+        "rating": 4,
+        "dev_url": "https://www.trellix.com/"
+      },
+      {
         "id": 160,
         "name": "Wise Care 365 7.3.3.720 Pro (Lifetime license / 3 PCs) - Discount 40% OFF",
         "slug": "wise-care-365-pro-lifetime-license-3-pcs-discount-40-off",
@@ -1044,24 +1062,6 @@
         "os": "Windows / mac",
         "rating": 4.3,
         "dev_url": "https://www.virtualdj.com/"
-      },
-      {
-        "id": 73,
-        "name": "Trellix Stinger (Formerly McAfee Stinger) 13.0.0.586",
-        "slug": "trellix-stinger-formerly-mcafee-stinger",
-        "cat": "Antivirus",
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764506961/software-mirrors/laqnmlblhjje7yqr40x6.png\"]",
-        "normal_price": 0,
-        "price": 0,
-        "desc": "Among the biggest problems of computer find undoubtedly viruses. It is always advisable to have a good antivirus, but in cases where for some reason it is not available and the computer has been infected, we can use some software like McAfee Stinger.",
-        "created_at": "2026-01-06T08:17:27.994Z",
-        "review": "<p>Among the biggest problems of computer find undoubtedly viruses. It is always advisable to have a good antivirus, but in cases where for some reason it is not available and the computer has been infected, we can use some software like <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.software-mirrors.com/products/trellix-stinger-formerly-mcafee-stinger\"><strong>Trellix Stinger</strong></a>.</p><p><strong>Trellix Stinger</strong> has scored a very important both as simply running it gets removed a huge amount of virus actually extended. Thus, we give a breather to install a real antivirus with the computer completely free of worms. McAfee Stinger can remove Backdoor virus spread, Bagle, MyDoom, Sober, Zafi, Korgo, Bugbear, EPO and many more.</p><p>The amount of virus that recognizes and eliminates this software is really huge, which makes it one of the most efficient disinfection programs. <strong>Trellix Stinger</strong> interface is very simple and similar to the window scanner to open the vast majority of <em>antivirus </em>which shows the files that are being reviewed and viruses found.</p><p>Furthermore, it allows the analysis exactly configure and check the list of known viruses. Stinger is a type of missile developed in the United States and used by many armies, so if you want to kill viruses with guns, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.software-mirrors.com/products/trellix-stinger-formerly-mcafee-stinger\"><strong>Trellix Stinger</strong></a> is a good software to start.</p><h2 id=\"download\">Trellix Stinger Download Link:</h2><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://downloadcenter.trellix.com/products/mcafee-avert/Stinger/stinger32.exe\">Trellix Stinger 32bit</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://downloadcenter.trellix.com/products/mcafee-avert/Stinger/stinger64.exe\">Trellix Stinger 64bit</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://downloadcenter.trellix.com/products/mcafee-avert/Stinger/stinger32-epo.zip\">Trellix Stinger-ePO 32bit</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://downloadcenter.trellix.com/products/mcafee-avert/Stinger/stinger64-epo.zip\">Trellix Stinger-ePO 64bit</a></p></li></ul><pre><code>New Detections:\r\n-\tExploit-CVE2020-1058\r\n-\tExploit-CVE2020-1060.a\r\n-\tExploit-CVE2020-1060.b\r\n-\tExploit-cve2020-1062.a\r\n-\tExploit-cve2020-1135\r\n-\tExploit-cve2020-1143.a\r\n-\tExploit-cve2020-1153.a\r\n-\tFlyStudio-Agent\r\n-\tGeneric exploit.ma\r\n-\tGeneric trojan.kf\r\n-\tGeneric trojan.kg\r\n-\tGeneric trojan.kk\r\n-\tGeneric trojan.ky\r\n-\tLNK/Downloader.ch\r\n-\tRansom-LockBit\r\n-\tRansom-Sodnkibi\r\n-\tTrojan-AutoIt.p\r\n-\tTrojan-BlueNoroff\r\n-\tTrojan-Packed.c\r\n\r\n\r\nEnhanced Detections:\r\n-\tCoinminer.l\r\n-\tExploit-CVE2019-1367\r\n-\tFakeAV-DZ\r\n-\tGeneric Trojan.arc\r\n-\tGeneric Trojan.kg\r\n-\tGeneric Trojan.li\r\n-\tGeneric Trojan.lj\r\n-\tGeneric Trojan.ll\r\n-\tGeneric trojan.jz\r\n-\tGeneric trojan.kh\r\n-\tGeneric-Trojan.z\r\n-\tPS/Agent.bv\r\n-\tTrojan-AitInject.aq\r\n-\tTrojan-CoinMiner.n\r\n-\tTrojan-PWS.k\r\n-\tTrojan-Ransom.a\r\n-\tTrojan-Ransom.b\r\n-\tTrojan-Trickbot.d\r\n-\tVBObfus.g\r\n</code></pre>",
-        "buy": "",
-        "download": "#download",
-        "developer": "Musarubra US LLC",
-        "os": "Windows",
-        "rating": 4,
-        "dev_url": "https://www.trellix.com/"
       },
       {
         "id": 40,
