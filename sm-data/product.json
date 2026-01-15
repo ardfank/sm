@@ -2,14 +2,44 @@
   {
     "results": [
       {
-        "id": 163,
-        "name": "WinX DVD Ripper for Mac 6.8.4 (Lifetime License)",
-        "slug": "winx-dvd-ripper-for-mac-lifetime-license",
-        "cat": "Multimedia",
-        "price": 45.95,
-        "normal_price": 45.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1768486747/software-mirrors/oe3ihqbzchbjfseu7kcl.webp\"]",
+        "id": 144,
+        "name": "WebSite Auditor 4.61.11 Professional - Yearly",
+        "slug": "website-auditor-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 149,
+        "normal_price": 149,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
         "rating": 4.7
+      },
+      {
+        "id": 145,
+        "name": "WebSite Auditor 4.61.11 Enterprise - Yearly",
+        "slug": "website-auditor-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 359,
+        "normal_price": 359,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 97,
+        "name": "Steam Game Idler v2.5.22",
+        "slug": "steam-game-idler",
+        "cat": "Games",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765265729/software-mirrors/pjk89jnttzkexnmuvezn.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 46,
+        "name": "Digiarty WinX MediaTrans 8.2 (Lifetime License) - Discount 35% OFF",
+        "slug": "digiarty-winx-mediatrans",
+        "cat": "Multimedia",
+        "price": 24.9,
+        "normal_price": 39.9,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghuYdiVnToY4m_SZOeXHO-6nGXsxkpNPkNCO2Fzqq20HUXlIRMbk_to9ti-_Lr7gnwrcb9-tr_yLBktCU2EjrI43W3KLRG12cIUmUzyQkh54ZhI0b2bRapsA5QUeB-9o9HCxXp6hm4WfUuHbC8uyAIPd5eyhVKMjxRm-S5336Ze1ooqLjpGCK70kfyssw_/s500-rw/sm.png\"]",
+        "rating": 3.5
       },
       {
         "id": 45,
@@ -102,26 +132,6 @@
         "rating": 4.7
       },
       {
-        "id": 144,
-        "name": "WebSite Auditor 4.61.10 Professional - Yearly",
-        "slug": "website-auditor-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 149,
-        "normal_price": 149,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 145,
-        "name": "WebSite Auditor 4.61.10 Enterprise - Yearly",
-        "slug": "website-auditor-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 359,
-        "normal_price": 359,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 65,
         "name": "Atomix VirtualDJ Free Home Edition 2026 Build 9004",
         "slug": "atomix-virtualdj-free-home-edition",
@@ -150,6 +160,16 @@
         "normal_price": 499,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/SEO-Posersuite-Software-Mirrors.com.png\"]",
         "rating": 4.1
+      },
+      {
+        "id": 163,
+        "name": "WinX DVD Ripper for Mac 6.8.4 (Lifetime License)",
+        "slug": "winx-dvd-ripper-for-mac-lifetime-license",
+        "cat": "Multimedia",
+        "price": 45.95,
+        "normal_price": 45.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1768486747/software-mirrors/oe3ihqbzchbjfseu7kcl.webp\"]",
+        "rating": 4.7
       },
       {
         "id": 94,
@@ -1202,16 +1222,6 @@
         "rating": 4.6
       },
       {
-        "id": 97,
-        "name": "Steam Game Idler 2.5.17",
-        "slug": "steam-game-idler",
-        "cat": "Games",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765265729/software-mirrors/pjk89jnttzkexnmuvezn.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 96,
         "name": "MakeMKV 1.18.2",
         "slug": "makemkv",
@@ -1460,16 +1470,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg57WVSbnY7MWt_0NWuGVuSrew8TsPqEH7ofMKKVosQ-nvTB6dEDM4GTo59B7lveIh3mrSUy1y5lnGOxbGL-dJnhfh1-5oj51mo3hkfy6ZffBFw2tbrr49xJWY1Ii8v5plF16rrZ5wMwAg/s500-rw/pes6.software-mirrors.com.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsgfe2jTWPB6BFoxSWt25wL5VzADpxEtKZwzWALY-WrXneOhGbID0ao5-fAi1bDvnfPK7KQu7NaGTWeOqHR8hYhUpp9bhfK5OdJLfdX9lnn3DvAY_9fh5p1lqP0bCYqP9qWfWIONtROTU/s500-rw/PES6-Option-File.software-mirrors.com.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIJvk5N69gACkgVCG5SdU2f-jhPVorxf4HlxkxFzpJ9Pokdnn7Yzkc0s6RYVPesKktnZPnj3Yy6o6L3pH2Bh-pXJgtC19CrAUSUJMw17bRTEmo4EyaPMCDK_LxwBakvMNJXwawwU-Rwlw/s500-rw/pes6-software-mirrors.com.jpg\"]",
         "rating": 5
-      },
-      {
-        "id": 46,
-        "name": "Digiarty WinX MediaTrans",
-        "slug": "digiarty-winx-mediatrans",
-        "cat": "Multimedia",
-        "price": 24.9,
-        "normal_price": 39.9,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghuYdiVnToY4m_SZOeXHO-6nGXsxkpNPkNCO2Fzqq20HUXlIRMbk_to9ti-_Lr7gnwrcb9-tr_yLBktCU2EjrI43W3KLRG12cIUmUzyQkh54ZhI0b2bRapsA5QUeB-9o9HCxXp6hm4WfUuHbC8uyAIPd5eyhVKMjxRm-S5336Ze1ooqLjpGCK70kfyssw_/s500-rw/sm.png\"]",
-        "rating": 3.5
       },
       {
         "id": 47,
