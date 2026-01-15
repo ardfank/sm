@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 162,
+        "name": "Freemake Video Converter 5.0.0.18 Offline Installer",
+        "slug": "freemake-video-converter-offline-installer",
+        "cat": "Video Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1768460661/software-mirrors/wyuurcaromudqmdfvthz.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 161,
+        "name": "Freemake Video Downloader 5.0.0.17 Offline Installer",
+        "slug": "freemake-video-downloader-offline-installer",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1768448989/software-mirrors/igf28ctlbqqke7lsw1mf.webp\"]",
+        "rating": 4.5
+      },
+      {
         "id": 30,
         "name": "DroidKit 2.3.7 for Windows - Full Toolkit - 1-Year Subscription/5 Devices",
         "slug": "droidkit-for-windows-full-toolkit-1-year-subscription-5-devices",
@@ -723,7 +743,7 @@
       },
       {
         "id": 45,
-        "name": "WinX DVD Ripper Platinum Discount 50% OFF",
+        "name": "WinX DVD Ripper Platinum (Lifetime License + Free Gift) - Discount 50% OFF",
         "slug": "winx-dvd-ripper-platinum-discount-50-off",
         "cat": "Multimedia",
         "price": 29.95,
