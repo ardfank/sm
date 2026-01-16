@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 68,
+        "name": "Malwarebytes AdwCleaner 8.7.0",
+        "slug": "malwarebytes-adwcleaner",
+        "cat": "Antivirus",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi78HPgEWjfEOnjuXUFa7UoTxlr3BSRTHjqy7P8RhlWJhAp6h3Dgf1Pa_LmIlrHlNESrlyOfO3cC6VAlyA-ZQoO6hG-og41Il_G4bb9CPubrLQQ7mRRYaePDGu6ioQy7Fs0Mq2V5odAhDbrKktpxY-T2oiJTgtHeZlnOca4g24fPd8q_-qYaXwy_XkHWPM/s500-rw/Adwcleaner-software-mirrors.png\"]",
+        "rating": 4
+      },
+      {
         "id": 60,
         "name": "MacX DVD Ripper Pro V8.11.3 for Windows [Lifetime]",
         "slug": "macx-dvd-ripper-pro-for-windows-lifetime",
@@ -1380,16 +1390,6 @@
         "normal_price": 99,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvLcdXv9q7Xo1oZgntXEs-fE_iR3pAlq7FllZ_b7UMfRw1V_HYQFBIrnUp62k6Tdj7KFSE5sU04FASTROyDj2aSGvmLtmdUZKxyNU-_411dRDy4azxK_jYOo6pfSJ2xhVOc9UTHuMonjT95m5brYDvX17esCNo4y9HgJhejB1Fs8YzmzY3Woow7xZVhU/s512-rw/RankDots.png\"]",
         "rating": 4.2
-      },
-      {
-        "id": 68,
-        "name": "Malwarebytes AdwCleaner",
-        "slug": "malwarebytes-adwcleaner",
-        "cat": "Antivirus",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi78HPgEWjfEOnjuXUFa7UoTxlr3BSRTHjqy7P8RhlWJhAp6h3Dgf1Pa_LmIlrHlNESrlyOfO3cC6VAlyA-ZQoO6hG-og41Il_G4bb9CPubrLQQ7mRRYaePDGu6ioQy7Fs0Mq2V5odAhDbrKktpxY-T2oiJTgtHeZlnOca4g24fPd8q_-qYaXwy_XkHWPM/s500-rw/Adwcleaner-software-mirrors.png\"]",
-        "rating": 4
       },
       {
         "id": 69,
