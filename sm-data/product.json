@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 50,
+        "name": "Brave Browser Release v1.86.139 (Chromium 144.0.7559.59) Offline Installer",
+        "slug": "brave-browser-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 59,
+        "name": "Cursor 2.3.40",
+        "slug": "cursor",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
         "id": 95,
         "name": "SEO SpyGlass 6.63.11 Professional - Yearly",
         "slug": "seo-spyglass-professional-yearly",
@@ -280,16 +300,6 @@
         "normal_price": 29.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimOY1OGpc3Z1SXSqF5eFizp_pcTGHKdy64VVnAKRqI7mvr6iNK59dsg10y60Wmp6_mQeHv15-kHkbRsOPWB3cRze5EZdawzlGM78YqCN8L6ZrB2HEr4om0wcku6Kpsa4D88l50VbJ7giM8MPkdGQLQadTqdhrfd5wsoqpCyBfczZsVaz8ggQfcJ1UIhi6R/s1600-rw/5.png\",\"https://secure.2checkout.com/images/merchant/2387337ba1e0b0249ba90f55b2ba2521/products/1_box-200x200.png\"]",
         "rating": 4.7
-      },
-      {
-        "id": 59,
-        "name": "Cursor 2.3.35",
-        "slug": "cursor",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
-        "rating": 4.6
       },
       {
         "id": 8,
@@ -1020,16 +1030,6 @@
         "normal_price": 29.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766058254/software-mirrors/b4vmgth6gcavoyo939de.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 50,
-        "name": "Brave Browser 1.85.117 (Chromium 143.0.7499.146) Offline Installer",
-        "slug": "brave-browser-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
-        "rating": 4.9
       },
       {
         "id": 117,
