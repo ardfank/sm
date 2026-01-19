@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 54,
+        "name": "Movavi Video Editor 2026 26.7.0",
+        "slug": "movavi-video-editor-2026",
+        "cat": "Video Editor",
+        "price": 19.95,
+        "normal_price": 19.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s400-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s400-rw/Classi.Qzz.Io.webp\"]",
+        "rating": 4
+      },
+      {
+        "id": 127,
+        "name": "Movavi Video Editor 2026 26.7.0 (1 Year Subscription) - Discount 15% OFF",
+        "slug": "movavi-video-editor-2026-1-year-subscription-discount-15-off",
+        "cat": "Video Editor",
+        "price": 42.46,
+        "normal_price": 49.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s600-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s600-rw/Classi.Qzz.Io.webp\"]",
+        "rating": 4
+      },
+      {
+        "id": 4,
+        "name": "Malware Hunter Pro 1.211.0.842 - Discount 50% OFF",
+        "slug": "malware-hunter-pro-discount-50-off",
+        "cat": "Antivirus",
+        "price": 24.98,
+        "normal_price": 49.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXbY4B4FK4RzquPOgMHFdJzgq5tYSs3BZNLQ4RRNwKhr2paSImIqRF738FhIGa2xLqbuIPXXIbXoEraxxptiS3Sfz2oeb3SveZLcnWNqBgnDCxKzm81MrZDN6uJFyZvkptuiTKPP4FJDsWlGVV4QxEwikGSgJnCOrfH3aNr6z3jphq0_8D6fxrqXludXEh/s1600-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYOT_2U-0UNE5Sc6xV-gnpS5wbKczAOSZd7jvq-dqovjTBjgLzgxuv-4l7i8QlPOM52KlU_ME7sx88q6BN4S5ti1TJFPRNBvMjvQxhltluHxTddNQEwC54fq8XtTvDmXns3k6YMop0JqdVbboW3wIeJBnrzNAiVY1GMSKCkYqXpQmXbq9ih-zJWFtFKTZQ/s1600-rw/classi.qzz.io.png\"]",
+        "rating": 4.4
+      },
+      {
         "id": 16,
         "name": "Glary Utilities Pro 6.37 - Discount 50% OFF",
         "slug": "glary-utilities-pro-discount-50-off",
@@ -110,16 +140,6 @@
         "normal_price": 79.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766254143/software-mirrors/pbtqnkjtfbrnbbroq30v.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 4,
-        "name": "Malware Hunter Pro 1.210.0.841 - Discount 50% OFF",
-        "slug": "malware-hunter-pro-discount-50-off",
-        "cat": "Antivirus",
-        "price": 24.98,
-        "normal_price": 49.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXbY4B4FK4RzquPOgMHFdJzgq5tYSs3BZNLQ4RRNwKhr2paSImIqRF738FhIGa2xLqbuIPXXIbXoEraxxptiS3Sfz2oeb3SveZLcnWNqBgnDCxKzm81MrZDN6uJFyZvkptuiTKPP4FJDsWlGVV4QxEwikGSgJnCOrfH3aNr6z3jphq0_8D6fxrqXludXEh/s1600-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYOT_2U-0UNE5Sc6xV-gnpS5wbKczAOSZd7jvq-dqovjTBjgLzgxuv-4l7i8QlPOM52KlU_ME7sx88q6BN4S5ti1TJFPRNBvMjvQxhltluHxTddNQEwC54fq8XtTvDmXns3k6YMop0JqdVbboW3wIeJBnrzNAiVY1GMSKCkYqXpQmXbq9ih-zJWFtFKTZQ/s1600-rw/classi.qzz.io.png\"]",
-        "rating": 4.4
       },
       {
         "id": 58,
@@ -860,26 +880,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766240967/software-mirrors/erzmicbqjkxpynqox9du.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 54,
-        "name": "Movavi Video Editor 2026 26.6.0",
-        "slug": "movavi-video-editor-2026",
-        "cat": "Video Editor",
-        "price": 19.95,
-        "normal_price": 19.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s400-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s400-rw/Classi.Qzz.Io.webp\"]",
-        "rating": 4
-      },
-      {
-        "id": 127,
-        "name": "Movavi Video Editor 2026 26.6.0 (1 Year Subscription) - Discount 15% OFF",
-        "slug": "movavi-video-editor-2026-1-year-subscription-discount-15-off",
-        "cat": "Video Editor",
-        "price": 42.46,
-        "normal_price": 49.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s600-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s600-rw/Classi.Qzz.Io.webp\"]",
-        "rating": 4
       },
       {
         "id": 140,
