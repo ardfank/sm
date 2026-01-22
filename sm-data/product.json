@@ -22,6 +22,16 @@
         "rating": 4
       },
       {
+        "id": 165,
+        "name": "JRE ( Java Runtime Environment) Version 8 Update 481 Offline Installer",
+        "slug": "jre-java-runtime-environment-offline-installer",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769017092/software-mirrors/dij9khpeyjzact3ju52s.jpg\"]",
+        "rating": 4.7
+      },
+      {
         "id": 164,
         "name": "Revo Uninstaller 2.6.5 Free Download",
         "slug": "revo-uninstaller-free-download",
