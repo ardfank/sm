@@ -2,6 +2,46 @@
   {
     "results": [
       {
+        "id": 120,
+        "name": "Wise Registry Cleaner Pro 11.3.1.733 (1 year subscription / 3PCs) - Discount 40% OFF",
+        "slug": "wise-registry-cleaner-pro-1-year-subscription-3pcs-discount-40-off",
+        "cat": "Utilities",
+        "price": 17.97,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766058254/software-mirrors/b4vmgth6gcavoyo939de.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 167,
+        "name": "Wise Video Converter Pro 3.1.4.269 (1 year subscription / 3PCs) - Discount 40% OFF",
+        "slug": "wise-video-converter-pro-1-year-subscription-3pcs-discount-40-off",
+        "cat": "Multimedia",
+        "price": 17.97,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769276964/software-mirrors/vvc7aqajyottmlxdqhj7.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 80,
+        "name": "ABBYY FineReader PDF 16.0.14.7295 Corporate (yearly plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-corporate-yearly-plan-discount-10-off",
+        "cat": "Office Tools",
+        "price": 148.5,
+        "normal_price": 165,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 79,
+        "name": "ABBYY FineReader PDF 16.0.14.7295 Corporate (3-year plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-corporate-3-year-plan-discount-10-off",
+        "cat": "Office Tools",
+        "price": 401.4,
+        "normal_price": 446,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
+        "rating": 4.3
+      },
+      {
         "id": 99,
         "name": "Visual Studio Code (VSCode) 1.108.2",
         "slug": "visual-studio-code",
@@ -692,22 +732,12 @@
         "rating": 4.4
       },
       {
-        "id": 160,
-        "name": "Wise Care 365 7.3.3.720 Pro (Lifetime license / 3 PCs) - Discount 40% OFF",
-        "slug": "wise-care-365-pro-lifetime-license-3-pcs-discount-40-off",
+        "id": 10,
+        "name": "Wise Care 365 7.3.3.720 Pro (1 year subscription / 1 PC) - Discount 40% OFF",
+        "slug": "wise-care-365-pro-1-year-subscription-1-pc",
         "cat": "Utilities",
-        "price": 53.97,
-        "normal_price": 89.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimOY1OGpc3Z1SXSqF5eFizp_pcTGHKdy64VVnAKRqI7mvr6iNK59dsg10y60Wmp6_mQeHv15-kHkbRsOPWB3cRze5EZdawzlGM78YqCN8L6ZrB2HEr4om0wcku6Kpsa4D88l50VbJ7giM8MPkdGQLQadTqdhrfd5wsoqpCyBfczZsVaz8ggQfcJ1UIhi6R/s1600-rw/5.png\",\"https://secure.2checkout.com/images/merchant/2387337ba1e0b0249ba90f55b2ba2521/products/1_box-200x200.png\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 159,
-        "name": "Wise Care 365 7.3.3.720 Pro (1 year subscription / 3 PCs) - Discount 40% OFF",
-        "slug": "wise-care-365-pro-1-year-subscription-3-pcs-discount-40-off",
-        "cat": "Utilities",
-        "price": 23.97,
-        "normal_price": 39.95,
+        "price": 17.97,
+        "normal_price": 29.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimOY1OGpc3Z1SXSqF5eFizp_pcTGHKdy64VVnAKRqI7mvr6iNK59dsg10y60Wmp6_mQeHv15-kHkbRsOPWB3cRze5EZdawzlGM78YqCN8L6ZrB2HEr4om0wcku6Kpsa4D88l50VbJ7giM8MPkdGQLQadTqdhrfd5wsoqpCyBfczZsVaz8ggQfcJ1UIhi6R/s1600-rw/5.png\",\"https://secure.2checkout.com/images/merchant/2387337ba1e0b0249ba90f55b2ba2521/products/1_box-200x200.png\"]",
         "rating": 4.7
       },
@@ -722,12 +752,22 @@
         "rating": 4.7
       },
       {
-        "id": 10,
-        "name": "Wise Care 365 7.3.3.720 Pro (1 year subscription / 1 PC) - Discount 40% OFF",
-        "slug": "wise-care-365-pro-1-year-subscription-1-pc",
+        "id": 159,
+        "name": "Wise Care 365 7.3.3.720 Pro (1 year subscription / 3 PCs) - Discount 40% OFF",
+        "slug": "wise-care-365-pro-1-year-subscription-3-pcs-discount-40-off",
         "cat": "Utilities",
-        "price": 17.97,
-        "normal_price": 29.95,
+        "price": 23.97,
+        "normal_price": 39.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimOY1OGpc3Z1SXSqF5eFizp_pcTGHKdy64VVnAKRqI7mvr6iNK59dsg10y60Wmp6_mQeHv15-kHkbRsOPWB3cRze5EZdawzlGM78YqCN8L6ZrB2HEr4om0wcku6Kpsa4D88l50VbJ7giM8MPkdGQLQadTqdhrfd5wsoqpCyBfczZsVaz8ggQfcJ1UIhi6R/s1600-rw/5.png\",\"https://secure.2checkout.com/images/merchant/2387337ba1e0b0249ba90f55b2ba2521/products/1_box-200x200.png\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 160,
+        "name": "Wise Care 365 7.3.3.720 Pro (Lifetime license / 3 PCs) - Discount 40% OFF",
+        "slug": "wise-care-365-pro-lifetime-license-3-pcs-discount-40-off",
+        "cat": "Utilities",
+        "price": 53.97,
+        "normal_price": 89.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimOY1OGpc3Z1SXSqF5eFizp_pcTGHKdy64VVnAKRqI7mvr6iNK59dsg10y60Wmp6_mQeHv15-kHkbRsOPWB3cRze5EZdawzlGM78YqCN8L6ZrB2HEr4om0wcku6Kpsa4D88l50VbJ7giM8MPkdGQLQadTqdhrfd5wsoqpCyBfczZsVaz8ggQfcJ1UIhi6R/s1600-rw/5.png\",\"https://secure.2checkout.com/images/merchant/2387337ba1e0b0249ba90f55b2ba2521/products/1_box-200x200.png\"]",
         "rating": 4.7
       },
@@ -1232,16 +1272,6 @@
         "rating": 5
       },
       {
-        "id": 120,
-        "name": "Wise Registry Cleaner Pro (1 year subscription / 3PCs) - Discount 40% OFF",
-        "slug": "wise-registry-cleaner-pro-1-year-subscription-3pcs-discount-40-off",
-        "cat": "Utilities",
-        "price": 17.97,
-        "normal_price": 29.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766058254/software-mirrors/b4vmgth6gcavoyo939de.webp\"]",
-        "rating": 4.6
-      },
-      {
         "id": 117,
         "name": "Plane9 v2.5.1.3",
         "slug": "plane9",
@@ -1400,26 +1430,6 @@
         "normal_price": 48,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSf5KmbKuVf-r3blD_gmrqnIULM847OtBcqBO7SHtxH6g9uJrO81hmn19I2ZzHQIYvpx6KQ2W1ZbYXg3r2x2boZZGN6yingC66OaXmz4ycS_iBdKLaE9WDJfzH43aYNBQHYQU5FFXhcae9uu736OjVc8UTvEJlSpacyGSR6jLEa8euC9PrEzRMas39XLTP/s600-rw/classi.qzz.io.png\"]",
         "rating": 4
-      },
-      {
-        "id": 80,
-        "name": "ABBYY FineReader PDF Corporate (yearly plan) - Discount 50% OFF",
-        "slug": "abbyy-finereader-pdf-corporate-yearly-plan-discount-10-off",
-        "cat": "Office Tools",
-        "price": 148.5,
-        "normal_price": 165,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 79,
-        "name": "ABBYY FineReader PDF Corporate (3-year plan) - Discount 50% OFF",
-        "slug": "abbyy-finereader-pdf-corporate-3-year-plan-discount-10-off",
-        "cat": "Office Tools",
-        "price": 401.4,
-        "normal_price": 446,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
-        "rating": 4.3
       },
       {
         "id": 83,
