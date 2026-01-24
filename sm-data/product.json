@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 169,
+        "name": "Wise Data Recovery Pro 6.2.2.520 (1 Year / 3 PCs) - Discount 40% OFF",
+        "slug": "wise-data-recovery-pro-1-year-3-pcs-discount-40-off",
+        "cat": "Backup Tools",
+        "price": 59.99,
+        "normal_price": 99.98,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769281515/software-mirrors/jt0vqmtjyownpem0srh9.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 168,
+        "name": "Wise Data Recovery Pro 6.2.2.520 (1 Year / 1 PC) - Discount 40% OFF",
+        "slug": "wise-data-recovery-pro-1-year-1-pc-discount-40-off",
+        "cat": "Backup Tools",
+        "price": 47.97,
+        "normal_price": 79.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769281515/software-mirrors/jt0vqmtjyownpem0srh9.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 120,
         "name": "Wise Registry Cleaner Pro 11.3.1.733 (1 year subscription / 3PCs) - Discount 40% OFF",
         "slug": "wise-registry-cleaner-pro-1-year-subscription-3pcs-discount-40-off",
