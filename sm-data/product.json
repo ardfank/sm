@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 172,
+        "name": "Wise Duplicate Finder 2.1.9.71 (1 year subscription / 3 PCs) - Discount 20% OFF",
+        "slug": "wise-duplicate-finder-1-year-subscription-3-pcs-discount-20-off",
+        "cat": "Utilities",
+        "price": 15.96,
+        "normal_price": 19.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769332547/software-mirrors/iydlvgrueqywgv9yrtoj.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 171,
+        "name": "Wise Folder Hider Pro 5.0.9.239 (1 year subscription / 3PCs) - Discount 40% OFF",
+        "slug": "wise-folder-hider-pro-1-year-subscription-3pcs-discount-40-off",
+        "cat": "Utilities",
+        "price": 17.97,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769331656/software-mirrors/nxn4slhtvu6sgj2dqkeo.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 170,
+        "name": "Wise ImageX 1.6.1.18 (1 year subscription) - Discount 20% OFF",
+        "slug": "wise-imagex-1-year-subscription-discount-20-off",
+        "cat": "Image Editor",
+        "price": 15.96,
+        "normal_price": 19.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769330462/software-mirrors/horqlpgvk4fzskspwk5w.webp\"]",
+        "rating": 4.5
+      },
+      {
         "id": 96,
         "name": "MakeMKV 1.18.3",
         "slug": "makemkv",
