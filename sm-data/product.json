@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 64,
+        "name": "uBlock Origin 1.69.0 for Firefox, Chrome, Edge and Opera",
+        "slug": "ublock-origin-for-firefox-chrome-edge-and-opera",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAsSxWWykEn2wr38dDqTjqPGB7TQYg_1SuLU2rStyKM6b6VK4qvQ5miOgxNXkfcqUau28B7Tn8XfOOYZnB4YvxZGh7ynsVMnr9D8tLBq3hdRbyVx5JCBHxsghor4KaLuAXoSYlCn2cKwKC/s500-rw/uBlock_Origin-software-mirrors.jpg\"]",
+        "rating": 5
+      },
+      {
         "id": 37,
         "name": "Blumentals WeBuilder 18.5 Personal - Discount 20% OFF",
         "slug": "webuilder-2025-personal-discount-20-off",
@@ -1540,16 +1550,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764499913/software-mirrors/orlhece14mq8rjq3myif.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 64,
-        "name": "uBlock Origin 1.68.0 for Firefox, Chrome, Edge and Opera",
-        "slug": "ublock-origin-for-firefox-chrome-edge-and-opera",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAsSxWWykEn2wr38dDqTjqPGB7TQYg_1SuLU2rStyKM6b6VK4qvQ5miOgxNXkfcqUau28B7Tn8XfOOYZnB4YvxZGh7ynsVMnr9D8tLBq3hdRbyVx5JCBHxsghor4KaLuAXoSYlCn2cKwKC/s500-rw/uBlock_Origin-software-mirrors.jpg\"]",
-        "rating": 5
       },
       {
         "id": 66,
