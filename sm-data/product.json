@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 180,
+        "name": "K-Lite Codec Pack 19.4.5",
+        "slug": "k-lite-codec-pack",
+        "cat": "Multimedia",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769535544/software-mirrors/qeajoodtbqdivru56r3e.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 73,
+        "name": "Trellix Stinger (Formerly McAfee Stinger) 13.0.0.591",
+        "slug": "trellix-stinger-formerly-mcafee-stinger",
+        "cat": "Antivirus",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764506961/software-mirrors/laqnmlblhjje7yqr40x6.png\"]",
+        "rating": 4
+      },
+      {
+        "id": 109,
+        "name": "Malwarebytes 5.4.7.229 Offline Installer",
+        "slug": "malwarebytes-offline-installer",
+        "cat": "Antivirus",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765708149/software-mirrors/nifg4soyvbb9eagsmohy.webp\"]",
+        "rating": 4.8
+      },
+      {
         "id": 11,
         "name": "Aiseesoft Screen Recorder 3.1.36 for Windows - Discount 20% OFF",
         "slug": "aiseesoft-screen-recorder-discount-20-off",
@@ -572,16 +602,6 @@
         "rating": 4.3
       },
       {
-        "id": 73,
-        "name": "Trellix Stinger (Formerly McAfee Stinger) 13.0.0.590",
-        "slug": "trellix-stinger-formerly-mcafee-stinger",
-        "cat": "Antivirus",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764506961/software-mirrors/laqnmlblhjje7yqr40x6.png\"]",
-        "rating": 4
-      },
-      {
         "id": 165,
         "name": "JRE ( Java Runtime Environment) Version 8 Update 481 Offline Installer",
         "slug": "jre-java-runtime-environment-offline-installer",
@@ -1070,16 +1090,6 @@
         "normal_price": 22.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKQFvYy4B8bt7IhAH9vjWCqNtNvgArxORULGmE3EksfpZRGt9E0SpvGJ79u2N9AN5syS7fKiQEcqMUy3_u_CJFfyaXvglUsbUdIWud3IM858LvSVn1AecEdDNeowDuLLnHwJN4OrfFGIvT6GUUiTo8wXmZkKezz49LY4GCUyBS69GvlfcnMKW6y_Ep4kU/s500-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiLJNQe4VdkF-ljwSLqsbKyD8iMJ3qrhJMWIq1-IiaZenuEBytuo_FjU6zQ-KQ97cDySWMLbqS8w7tGxSPfH4Z-2TCC7yBUwma-1wzMLurFlCGn2CkV_d_NJpCkVU4SOg7Or4wZHUuwx4AIzTCFc3WQ29MpeylEteHSqvOrqUy606I6Mne0WhGpUW/s500-rw/classi.qzz.png\"]",
         "rating": 3.9
-      },
-      {
-        "id": 109,
-        "name": "Malwarebytes 5.4.6.227 Offline Installer",
-        "slug": "malwarebytes-offline-installer",
-        "cat": "Antivirus",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765708149/software-mirrors/nifg4soyvbb9eagsmohy.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 49,
