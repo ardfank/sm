@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 182,
+        "name": "Moltbot (formerly Clawd Bot) v2026.1.23",
+        "slug": "moltbot-formerly-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769579910/software-mirrors/gp6ghunrvfge9o4pf5ru.jpg\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 174,
+        "name": "XMedia Recode 3.6.2.3",
+        "slug": "xmedia-recode",
+        "cat": "Multimedia",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769417761/software-mirrors/uaivmjaacctjhtifadun.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 181,
+        "name": "Cloudflare WARP 2025.10.186.0",
+        "slug": "cloudflare-warp",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769573052/software-mirrors/yt7kmy2icjpqo8u6mse9.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 180,
         "name": "K-Lite Codec Pack 19.4.5",
         "slug": "k-lite-codec-pack",
@@ -289,16 +319,6 @@
         "price": 49.95,
         "normal_price": 49.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769436596/software-mirrors/p3jqwvlekoazahkxtjci.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 174,
-        "name": "XMedia Recode 3.6.2.2",
-        "slug": "xmedia-recode",
-        "cat": "Multimedia",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769417761/software-mirrors/uaivmjaacctjhtifadun.webp\"]",
         "rating": 4.7
       },
       {
