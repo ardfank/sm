@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 50,
+        "name": "Brave Browser Release v1.86.146 (Chromium 144.0.7559.110) Offline Installer",
+        "slug": "brave-browser-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
+        "rating": 4.9
+      },
+      {
         "id": 36,
         "name": "ChatGPT Atlas Browser 1.2026.21.3 for Mac",
         "slug": "chatgpt-atlas-browser-for-mac",
@@ -590,16 +600,6 @@
         "normal_price": 99.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769093359/software-mirrors/by2t89kgmatlw4mx25la.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 50,
-        "name": "Brave Browser Release v1.86.142 (Chromium 144.0.7559.97) Offline Installer",
-        "slug": "brave-browser-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
-        "rating": 4.9
       },
       {
         "id": 67,
