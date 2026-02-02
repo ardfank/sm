@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 192,
+        "name": "DBeaver 25.3.4 Community Edition",
+        "slug": "dbeaver-community-edition",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769994017/software-mirrors/jlqe2tqlpw5gvhb3yhpj.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 191,
         "name": "Shotcut 26.1.30",
         "slug": "shotcut",
