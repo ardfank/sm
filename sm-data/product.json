@@ -3,12 +3,42 @@
     "results": [
       {
         "id": 194,
-        "name": "Postman 11.82.6",
+        "name": "Postman 11.83.0",
         "slug": "postman",
         "cat": "Developer Tools",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.2.1",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 142,
+        "name": "CapCut APK For Android 16.6.0.apk",
+        "slug": "capcut-apk-for-android",
+        "cat": "Video Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767634443/software-mirrors/ohru8dccvyq5iahcaupj.jpg\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 195,
+        "name": "Opera One 127.0.5778.14 Offline Installer",
+        "slug": "opera-one-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
         "rating": 4.6
       },
       {
@@ -90,16 +120,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769935279/software-mirrors/eojiyajnr2eposuhnopo.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.1.30",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 59,
@@ -1439,16 +1459,6 @@
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrr8JpMlYizJEQhs6PKOt0NT0Sc-laL38UnX4CTJXPXj5zfqwxkEkjASKt_4DYGn4pD6wdFdLaHXonHLEgK8tKRGElv1sZcph1Wuont05TS3rauHMVUkqEL0Css5KNippAMOFRcdgNl5y_Cr2QvnUD6NayCe6TSWZ0xHempT3iSii-idRMlCJwD7syVtk/s500-rw/spotube-software-mirrors.png\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 142,
-        "name": "CapCut APK For Android 16.3.0",
-        "slug": "capcut-apk-for-android",
-        "cat": "Video Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767634443/software-mirrors/ohru8dccvyq5iahcaupj.jpg\"]",
         "rating": 4.8
       },
       {
