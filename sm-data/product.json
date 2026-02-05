@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 50,
+        "name": "Brave Browser Release v1.86.148 (Chromium 144.0.7559.133) Offline Installer",
+        "slug": "brave-browser-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 59,
+        "name": "Cursor 2.4.28",
+        "slug": "cursor",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
         "id": 36,
         "name": "ChatGPT Atlas Browser 1.2026.28.6 for Mac",
         "slug": "chatgpt-atlas-browser-for-mac",
@@ -220,16 +240,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769935279/software-mirrors/eojiyajnr2eposuhnopo.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 59,
-        "name": "Cursor 2.4.27",
-        "slug": "cursor",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
-        "rating": 4.6
       },
       {
         "id": 188,
@@ -610,16 +620,6 @@
         "normal_price": 83.19,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765990681/software-mirrors/fqeb6wuqptktdsjv8tf6.webp\"]",
         "rating": 3.4
-      },
-      {
-        "id": 50,
-        "name": "Brave Browser Release v1.86.146 (Chromium 144.0.7559.110) Offline Installer",
-        "slug": "brave-browser-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
-        "rating": 4.9
       },
       {
         "id": 101,
