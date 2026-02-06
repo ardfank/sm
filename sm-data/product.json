@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 204,
+        "name": "Quick CPU 6.2.1.0",
+        "slug": "quick-cpu",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770370214/software-mirrors/wycm03fprrysndtkwjim.jpg\"]",
+        "rating": 4.4
+      },
+      {
         "id": 174,
         "name": "XMedia Recode 3.6.2.5",
         "slug": "xmedia-recode",
