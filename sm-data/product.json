@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.2.3",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
         "id": 206,
         "name": "Maestro 0.14.5 - AI Agent Command Center",
         "slug": "maestro-ai-agent-command-center",
@@ -120,16 +130,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770300382/software-mirrors/wr5jftykatoo0cod5rdx.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.2.3",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 99,
