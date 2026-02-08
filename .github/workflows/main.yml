@@ -1,7 +1,7 @@
 name: DB to JSON
 on:
   schedule:
-    - cron: "5 */3 * * *"
+    - cron: "46 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
