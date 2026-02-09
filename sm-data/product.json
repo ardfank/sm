@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 59,
+        "name": "Cursor 2.4.31",
+        "slug": "cursor",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
         "id": 214,
         "name": "GitButler 0.19.1",
         "slug": "gitbutler",
@@ -330,16 +340,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
         "rating": 4.9
-      },
-      {
-        "id": 59,
-        "name": "Cursor 2.4.28",
-        "slug": "cursor",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
-        "rating": 4.6
       },
       {
         "id": 36,
