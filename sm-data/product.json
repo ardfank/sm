@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 130,
+        "name": "Opera GX 127.0.5778.53 Offline Installer",
+        "slug": "opera-gx",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
+        "rating": 4.5
+      },
+      {
         "id": 220,
         "name": "2026 IObit Valentine’s Day Sales Campaign: 92% OFF plus Extra 2 Months Free",
         "slug": "2026-iobit-valentine-s-day-sales-campaign-92-off-plus-extra-2-months-free",
@@ -240,16 +250,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769709693/software-mirrors/yzm9wiezqcnavdfcdla2.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 130,
-        "name": "Opera GX 127.0.5778.41 Offline Installer",
-        "slug": "opera-gx",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 133,
