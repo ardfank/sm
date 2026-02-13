@@ -2,23 +2,13 @@
   {
     "results": [
       {
-        "id": 95,
-        "name": "SEO SpyGlass 6.63.14 Professional - Yearly",
-        "slug": "seo-spyglass-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 129,
-        "normal_price": 129,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 143,
-        "name": "SEO SpyGlass 6.63.14 Enterprise - Yearly",
-        "slug": "seo-spyglass-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 259,
-        "normal_price": 259,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.2.12",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
         "rating": 4.8
       },
       {
@@ -142,6 +132,26 @@
         "rating": 4.2
       },
       {
+        "id": 95,
+        "name": "SEO SpyGlass 6.63.14 Professional - Yearly",
+        "slug": "seo-spyglass-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 129,
+        "normal_price": 129,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 143,
+        "name": "SEO SpyGlass 6.63.14 Enterprise - Yearly",
+        "slug": "seo-spyglass-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 259,
+        "normal_price": 259,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
+        "rating": 4.8
+      },
+      {
         "id": 36,
         "name": "ChatGPT Atlas Browser 1.2026.35.4 for Mac",
         "slug": "chatgpt-atlas-browser-for-mac",
@@ -260,16 +270,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
         "rating": 4.6
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.2.9",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 134,
