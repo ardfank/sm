@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 57,
+        "name": "BlueStacks 5.22.150.1014 offline installer",
+        "slug": "bluestacks-5-offline-installer",
+        "cat": "Emulator",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764771711/software-mirrors/nyaoe3rne9jqnamdz3wf.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiT9sJIZ-EOZ7j3rkoaBhRv_ALgOZdjnGi9__-G4khfseWrRNp4kDuZTFnlMvyct5zlnpdKZRP98Nk1Unj4z_4Z3-rkUnAi9_QvTU3sEtTh9iY0XUWL7Wdb7IMVjEk-RwWP-gfoMz37lI/s500-rw/Bluestacks.software-mirrors.com.jpg\"]",
+        "rating": 4
+      },
+      {
         "id": 50,
         "name": "Brave Browser Release v1.87.188 (Chromium 145.0.7632.76) Offline Installer",
         "slug": "brave-browser-offline-installer",
@@ -2020,16 +2030,6 @@
         "normal_price": 264,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765713315/software-mirrors/obdivsb26h4keomlfrcc.jpg\"]",
         "rating": 4.8
-      },
-      {
-        "id": 57,
-        "name": "BlueStacks 5.22.150.1014 offline installer",
-        "slug": "bluestacks-5-offline-installer",
-        "cat": "Emulator",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764771711/software-mirrors/nyaoe3rne9jqnamdz3wf.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiT9sJIZ-EOZ7j3rkoaBhRv_ALgOZdjnGi9__-G4khfseWrRNp4kDuZTFnlMvyct5zlnpdKZRP98Nk1Unj4z_4Z3-rkUnAi9_QvTU3sEtTh9iY0XUWL7Wdb7IMVjEk-RwWP-gfoMz37lI/s500-rw/Bluestacks.software-mirrors.com.jpg\"]",
-        "rating": 4
       },
       {
         "id": 100,
