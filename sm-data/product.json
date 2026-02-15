@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 50,
+        "name": "Brave Browser Release v1.87.188 (Chromium 145.0.7632.76) Offline Installer",
+        "slug": "brave-browser-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
+        "rating": 4.9
+      },
+      {
         "id": 182,
         "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.2.14",
         "slug": "openclaw-formerly-moltbot-clawd-bot",
@@ -200,16 +210,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770350060/software-mirrors/crfsjyu8obxsr8xuniez.jpg\"]",
         "rating": 4.6
-      },
-      {
-        "id": 50,
-        "name": "Brave Browser Release v1.87.186 (Chromium 145.0.7632.45) Offline Installer",
-        "slug": "brave-browser-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
-        "rating": 4.9
       },
       {
         "id": 119,
