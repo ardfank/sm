@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 80,
+        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Corporate (yearly plan) - Discount 20% OFF",
+        "slug": "abbyy-finereader-pdf-corporate-yearly-plan-discount-10-off",
+        "cat": "Office Tools",
+        "price": 132,
+        "normal_price": 165,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 79,
+        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Corporate (3-year plan) - Discount 20% OFF",
+        "slug": "abbyy-finereader-pdf-corporate-3-year-plan-discount-10-off",
+        "cat": "Office Tools",
+        "price": 356.8,
+        "normal_price": 446,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 71,
+        "name": "RankDots Business (monthly billing) Discount 20% OFF",
+        "slug": "rankdots-business-monthly-billing-discount-20-off",
+        "cat": "Web Analytics",
+        "price": 79.2,
+        "normal_price": 99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvLcdXv9q7Xo1oZgntXEs-fE_iR3pAlq7FllZ_b7UMfRw1V_HYQFBIrnUp62k6Tdj7KFSE5sU04FASTROyDj2aSGvmLtmdUZKxyNU-_411dRDy4azxK_jYOo6pfSJ2xhVOc9UTHuMonjT95m5brYDvX17esCNo4y9HgJhejB1Fs8YzmzY3Woow7xZVhU/s512-rw/RankDots.png\"]",
+        "rating": 4.2
+      },
+      {
         "id": 75,
         "name": " Google Chrome 49.0.2623.112 For Windows XP Offline Installer ",
         "slug": "google-chrome-49-0-2623-112-for-windows-xp-offline-installer",
@@ -1392,26 +1422,6 @@
         "rating": 4.5
       },
       {
-        "id": 80,
-        "name": "ABBYY FineReader PDF 16.0.14.7295 Corporate (yearly plan) - Discount 10% OFF",
-        "slug": "abbyy-finereader-pdf-corporate-yearly-plan-discount-10-off",
-        "cat": "Office Tools",
-        "price": 148.5,
-        "normal_price": 165,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 79,
-        "name": "ABBYY FineReader PDF 16.0.14.7295 Corporate (3-year plan) - Discount 10% OFF",
-        "slug": "abbyy-finereader-pdf-corporate-3-year-plan-discount-10-off",
-        "cat": "Office Tools",
-        "price": 401.4,
-        "normal_price": 446,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
-        "rating": 4.3
-      },
-      {
         "id": 98,
         "name": "ytdlp-interface v2.18.2",
         "slug": "ytdlp-interface",
@@ -2070,16 +2080,6 @@
         "normal_price": 59.7,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764765804/software-mirrors/zu4tgaypn4siovahwdwg.webp\",\"https://secure.2checkout.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sale-2025-300x250.png\"]",
         "rating": 4.4
-      },
-      {
-        "id": 71,
-        "name": "RankDots Business (monthly billing) Discount 20% OFF",
-        "slug": "rankdots-business-monthly-billing-discount-20-off",
-        "cat": "Web Analytics",
-        "price": 79.2,
-        "normal_price": 99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvLcdXv9q7Xo1oZgntXEs-fE_iR3pAlq7FllZ_b7UMfRw1V_HYQFBIrnUp62k6Tdj7KFSE5sU04FASTROyDj2aSGvmLtmdUZKxyNU-_411dRDy4azxK_jYOo6pfSJ2xhVOc9UTHuMonjT95m5brYDvX17esCNo4y9HgJhejB1Fs8YzmzY3Woow7xZVhU/s512-rw/RankDots.png\"]",
-        "rating": 4.2
       },
       {
         "id": 70,
