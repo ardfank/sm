@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 55,
+        "name": "Notepad++ release 8.9.2",
+        "slug": "notepad-plus-plus",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765352807/software-mirrors/h0vguhqxrgsm74kjuxs3.webp\"]",
+        "rating": 5
+      },
+      {
         "id": 54,
         "name": "Movavi Video Editor 2026 26.9.0",
         "slug": "movavi-video-editor-2026",
@@ -1320,16 +1330,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF2Gmsq9eB19tIyq9Lv6i9xLrOsS9PLkrM93eDBNSpYqCjC0qx-XqJwcSCaRJ0XzJ9YI-BPmIvEk8VAkjT5WhyqxL7FR6550wdcbPNmSdiu_Sm0Q5aTgIzZDWHGBOgTCNGNPShECAbQhO_/s500/balabolka-software-mirrors.jpg\"]",
         "rating": 4.8
-      },
-      {
-        "id": 55,
-        "name": "Notepad++ release 8.9.1",
-        "slug": "notepad-plus-plus",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765352807/software-mirrors/h0vguhqxrgsm74kjuxs3.webp\"]",
-        "rating": 5
       },
       {
         "id": 177,
