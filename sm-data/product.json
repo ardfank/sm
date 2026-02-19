@@ -382,66 +382,6 @@
         "rating": 4.7
       },
       {
-        "id": 230,
-        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Standard (yearly plan) - Discount 20% OFF",
-        "slug": "abbyy-finereader-pdf-standard-yearly-plan-discount-20-off",
-        "cat": "Office Tools",
-        "price": 79.2,
-        "normal_price": 99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771165745/software-mirrors/nb3ss7dq25aw6nxrbsnm.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 229,
-        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Standard (3-year plan) - Discount 20% OFF",
-        "slug": "abbyy-finereader-pdf-standard-3-year-plan-discount-20-off",
-        "cat": "Office Tools",
-        "price": 213.6,
-        "normal_price": 267,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771165745/software-mirrors/nb3ss7dq25aw6nxrbsnm.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 228,
-        "name": "ABBYY FineReader PDF for Mac Release 5 Update 5 (yearly plan) - Discount 20% OFF",
-        "slug": "abbyy-finereader-pdf-for-mac-yearly-plan-discount-20-off",
-        "cat": "Office Tools",
-        "price": 55.2,
-        "normal_price": 69,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771162816/software-mirrors/ltdc6wqxveuvxx0qtsjn.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 227,
-        "name": "ABBYY FineReader PDF for Mac Release 5 Update 5 (3-year plan) - Discount 20% OFF",
-        "slug": "abbyy-finereader-pdf-for-mac-3-year-plan-discount-20-off",
-        "cat": "Office Tools",
-        "price": 148.8,
-        "normal_price": 186,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771162816/software-mirrors/ltdc6wqxveuvxx0qtsjn.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 80,
-        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Corporate (yearly plan) - Discount 20% OFF",
-        "slug": "abbyy-finereader-pdf-corporate-yearly-plan-discount-10-off",
-        "cat": "Office Tools",
-        "price": 132,
-        "normal_price": 165,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 79,
-        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Corporate (3-year plan) - Discount 20% OFF",
-        "slug": "abbyy-finereader-pdf-corporate-3-year-plan-discount-10-off",
-        "cat": "Office Tools",
-        "price": 356.8,
-        "normal_price": 446,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
-        "rating": 4.3
-      },
-      {
         "id": 71,
         "name": "RankDots Business (monthly billing) Discount 20% OFF",
         "slug": "rankdots-business-monthly-billing-discount-20-off",
@@ -490,6 +430,66 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
         "rating": 4.9
+      },
+      {
+        "id": 227,
+        "name": "ABBYY FineReader PDF for Mac Release 5 Update 5 (3-year plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-for-mac-3-year-plan-discount-20-off",
+        "cat": "Office Tools",
+        "price": 148.8,
+        "normal_price": 186,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771162816/software-mirrors/ltdc6wqxveuvxx0qtsjn.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 230,
+        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Standard (yearly plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-standard-yearly-plan-discount-20-off",
+        "cat": "Office Tools",
+        "price": 89.1,
+        "normal_price": 99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771165745/software-mirrors/nb3ss7dq25aw6nxrbsnm.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 79,
+        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Corporate (3-year plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-corporate-3-year-plan-discount-10-off",
+        "cat": "Office Tools",
+        "price": 401.4,
+        "normal_price": 446,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 80,
+        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Corporate (yearly plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-corporate-yearly-plan-discount-10-off",
+        "cat": "Office Tools",
+        "price": 148,
+        "normal_price": 165,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 228,
+        "name": "ABBYY FineReader PDF for Mac Release 5 Update 5 (yearly plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-for-mac-yearly-plan-discount-20-off",
+        "cat": "Office Tools",
+        "price": 62.1,
+        "normal_price": 69,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771162816/software-mirrors/ltdc6wqxveuvxx0qtsjn.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 229,
+        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Standard (3-year plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-standard-3-year-plan-discount-20-off",
+        "cat": "Office Tools",
+        "price": 240.3,
+        "normal_price": 267,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771165745/software-mirrors/nb3ss7dq25aw6nxrbsnm.webp\"]",
+        "rating": 4.5
       },
       {
         "id": 133,
