@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 241,
+        "name": "Aiarty Image Tool Bundle for macOS (Lifetime) - Discount 50% Off",
+        "slug": "aiarty-image-tool-bundle-for-macos-lifetime-discount-50-off",
+        "cat": "Image Editor",
+        "price": 129,
+        "normal_price": 264,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765713315/software-mirrors/obdivsb26h4keomlfrcc.jpg\"]",
+        "rating": 4
+      },
+      {
         "id": 50,
         "name": "Brave Browser Release v1.87.190 (Chromium 145.0.7632.109) Offline Installer",
         "slug": "brave-browser-offline-installer",
