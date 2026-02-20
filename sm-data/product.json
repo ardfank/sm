@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 50,
+        "name": "Brave Browser Release v1.87.190 (Chromium 145.0.7632.109) Offline Installer",
+        "slug": "brave-browser-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
+        "rating": 4.9
+      },
+      {
         "id": 132,
         "name": "DriverMax 17.11.12 (2 years subscription) - Discount 75% OFF",
         "slug": "drivermax-2-years-subscription-discount-75-off",
@@ -560,16 +570,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764771711/software-mirrors/nyaoe3rne9jqnamdz3wf.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiT9sJIZ-EOZ7j3rkoaBhRv_ALgOZdjnGi9__-G4khfseWrRNp4kDuZTFnlMvyct5zlnpdKZRP98Nk1Unj4z_4Z3-rkUnAi9_QvTU3sEtTh9iY0XUWL7Wdb7IMVjEk-RwWP-gfoMz37lI/s500-rw/Bluestacks.software-mirrors.com.jpg\"]",
         "rating": 4
-      },
-      {
-        "id": 50,
-        "name": "Brave Browser Release v1.87.188 (Chromium 145.0.7632.76) Offline Installer",
-        "slug": "brave-browser-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
-        "rating": 4.9
       },
       {
         "id": 227,
