@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 243,
+        "name": "Aiarty 3-in-1 Bundle for Mac (Lifetime) - Discount 48% OFF",
+        "slug": "aiarty-3-in-1-bundle-for-mac-lifetime-discount-48-off",
+        "cat": "Multimedia",
+        "price": 259,
+        "normal_price": 499,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771588069/software-mirrors/tik3dix78ifupw8tqdm4.jpg\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 242,
+        "name": "Aiarty 3-in-1 Bundle (Lifetime) - Discount 48% OFF",
+        "slug": "aiarty-3-in-1-bundle-lifetime-discount-48-off",
+        "cat": "Multimedia",
+        "price": 259,
+        "normal_price": 499,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771588069/software-mirrors/tik3dix78ifupw8tqdm4.jpg\"]",
+        "rating": 4.3
+      },
+      {
         "id": 99,
         "name": "Visual Studio Code (VSCode) 1.109.5",
         "slug": "visual-studio-code",
