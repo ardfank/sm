@@ -2,6 +2,56 @@
   {
     "results": [
       {
+        "id": 132,
+        "name": "DriverMax 17.11.12 (2 years subscription) - Discount 75% OFF",
+        "slug": "drivermax-2-years-subscription-discount-75-off",
+        "cat": "Utilities",
+        "price": 18.14,
+        "normal_price": 72.55,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUeJVZxbnPsUJinrmEV7lLQhyphenhyphenCk9VzIPwdIEheyHnrZZe8XadYIAWXtQcrUuURbrMTBvlXna3uuLNpvBFwTGXrBXHe7iPl6tyQyRqXL-_KWgCCewDITXQqRDTmTiGDs-01FvnIU7KsNGzenKwoXadenoDR3obMyEHwjlMPLPcnE3ozNG1INulsPjW8k3sR/s1600-rw/classi.qzz.io.png?width=384\"]",
+        "rating": 3.5
+      },
+      {
+        "id": 53,
+        "name": "DriverMax 17.11.12 (1 year Subscription) - Discount 75% OFF",
+        "slug": "drivermax-1-year-subscription-75-off",
+        "cat": "Utilities",
+        "price": 14.44,
+        "normal_price": 57.75,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUeJVZxbnPsUJinrmEV7lLQhyphenhyphenCk9VzIPwdIEheyHnrZZe8XadYIAWXtQcrUuURbrMTBvlXna3uuLNpvBFwTGXrBXHe7iPl6tyQyRqXL-_KWgCCewDITXQqRDTmTiGDs-01FvnIU7KsNGzenKwoXadenoDR3obMyEHwjlMPLPcnE3ozNG1INulsPjW8k3sR/s1600-rw/classi.qzz.io.png\"]",
+        "rating": 3.5
+      },
+      {
+        "id": 8,
+        "name": "DriverMax 17.11.12 (Lifetime Subscription) - Discount 75% OFF",
+        "slug": "drivermax-lifetime-subscription",
+        "cat": "Utilities",
+        "price": 37.25,
+        "normal_price": 149,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUeJVZxbnPsUJinrmEV7lLQhyphenhyphenCk9VzIPwdIEheyHnrZZe8XadYIAWXtQcrUuURbrMTBvlXna3uuLNpvBFwTGXrBXHe7iPl6tyQyRqXL-_KWgCCewDITXQqRDTmTiGDs-01FvnIU7KsNGzenKwoXadenoDR3obMyEHwjlMPLPcnE3ozNG1INulsPjW8k3sR/s1600-rw/classi.qzz.io.png\"]",
+        "rating": 3.5
+      },
+      {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.2.19",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 109,
+        "name": "Malwarebytes 5.5.0.237 Offline Installer",
+        "slug": "malwarebytes-offline-installer",
+        "cat": "Antivirus",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765708149/software-mirrors/nifg4soyvbb9eagsmohy.webp\"]",
+        "rating": 4.8
+      },
+      {
         "id": 122,
         "name": "Screensaver Wonder 7.11 - Discount 20% Off",
         "slug": "screensaver-wonder-7-discount-20-off",
@@ -209,16 +259,6 @@
         "price": 129,
         "normal_price": 264,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765713315/software-mirrors/obdivsb26h4keomlfrcc.jpg\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.2.17",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
         "rating": 4.8
       },
       {
@@ -1152,16 +1192,6 @@
         "rating": 4.7
       },
       {
-        "id": 109,
-        "name": "Malwarebytes 5.4.8.232 Offline Installer",
-        "slug": "malwarebytes-offline-installer",
-        "cat": "Antivirus",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765708149/software-mirrors/nifg4soyvbb9eagsmohy.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 202,
         "name": "CPU Temp 1.9.0.0",
         "slug": "cpu-temp",
@@ -1800,36 +1830,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769015321/software-mirrors/crusmpgosnol1uwxppii.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 132,
-        "name": "DriverMax 16.22.25 (2 years subscription) - Discount 75% OFF",
-        "slug": "drivermax-2-years-subscription-discount-75-off",
-        "cat": "Utilities",
-        "price": 18.14,
-        "normal_price": 72.55,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUeJVZxbnPsUJinrmEV7lLQhyphenhyphenCk9VzIPwdIEheyHnrZZe8XadYIAWXtQcrUuURbrMTBvlXna3uuLNpvBFwTGXrBXHe7iPl6tyQyRqXL-_KWgCCewDITXQqRDTmTiGDs-01FvnIU7KsNGzenKwoXadenoDR3obMyEHwjlMPLPcnE3ozNG1INulsPjW8k3sR/s1600-rw/classi.qzz.io.png?width=384\"]",
-        "rating": 3.5
-      },
-      {
-        "id": 53,
-        "name": "DriverMax 16.22.25 (1 year Subscription) - Discount 75% OFF",
-        "slug": "drivermax-1-year-subscription-75-off",
-        "cat": "Utilities",
-        "price": 14.44,
-        "normal_price": 57.75,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUeJVZxbnPsUJinrmEV7lLQhyphenhyphenCk9VzIPwdIEheyHnrZZe8XadYIAWXtQcrUuURbrMTBvlXna3uuLNpvBFwTGXrBXHe7iPl6tyQyRqXL-_KWgCCewDITXQqRDTmTiGDs-01FvnIU7KsNGzenKwoXadenoDR3obMyEHwjlMPLPcnE3ozNG1INulsPjW8k3sR/s1600-rw/classi.qzz.io.png\"]",
-        "rating": 3.5
-      },
-      {
-        "id": 8,
-        "name": "DriverMax 16.22.25 (Lifetime Subscription) - Discount 75% OFF",
-        "slug": "drivermax-lifetime-subscription",
-        "cat": "Utilities",
-        "price": 37.25,
-        "normal_price": 149,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUeJVZxbnPsUJinrmEV7lLQhyphenhyphenCk9VzIPwdIEheyHnrZZe8XadYIAWXtQcrUuURbrMTBvlXna3uuLNpvBFwTGXrBXHe7iPl6tyQyRqXL-_KWgCCewDITXQqRDTmTiGDs-01FvnIU7KsNGzenKwoXadenoDR3obMyEHwjlMPLPcnE3ozNG1INulsPjW8k3sR/s1600-rw/classi.qzz.io.png\"]",
-        "rating": 3.5
       },
       {
         "id": 88,
