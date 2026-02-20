@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 244,
+        "name": "VueScan 9.8.52",
+        "slug": "vuescan",
+        "cat": "Office Tools",
+        "price": 14.96,
+        "normal_price": 19.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771602847/software-mirrors/ljapqoff54nt3qo0iwpi.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 33,
         "name": "Antamedia HotSpot Software - Standard Edition Discount 20% OFF",
         "slug": "hotspot-software-standard-edition-discount-20-off",
