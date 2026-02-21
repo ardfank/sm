@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 256,
+        "name": "Albus Bit Pro Bundle - Discount 20% OFF",
+        "slug": "albus-bit-pro-bundle-discount-20-off",
+        "cat": "Utilities",
+        "price": 399.2,
+        "normal_price": 499,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771654204/software-mirrors/yb0hijewg0gej1ddyaad.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 255,
+        "name": "Albus Bit AD Group Manager Enterprise 1.3.0.0 - Discount 20% OFF",
+        "slug": "albus-bit-ad-group-manager-enterprise-discount-20-off",
+        "cat": "Utilities",
+        "price": 1995,
+        "normal_price": 1596,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771652355/software-mirrors/rfxxbo3hnxmxtfwgn2p6.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 254,
+        "name": "Albus Bit AD Group Manager Web 25.9.22 (1 year) - Discount 20% OFF",
+        "slug": "albus-bit-ad-group-manager-web-1-year-discount-20-off",
+        "cat": "Utilities",
+        "price": 1036,
+        "normal_price": 1295,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771650959/software-mirrors/e7qwcuo4doqxrdpeelui.webp\"]",
+        "rating": 4.4
+      },
+      {
         "id": 24,
         "name": "HotSpot Software - Lite Edition Discount 20% OFF",
         "slug": "hotspot-software-lite-edition-discount-20-off",
@@ -29,7 +59,7 @@
         "price": 327.25,
         "normal_price": 595,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771626395/software-mirrors/gr78t1erieycbdl4ruwp.webp\"]",
-        "rating": 4
+        "rating": 4.5
       },
       {
         "id": 252,
@@ -49,7 +79,7 @@
         "price": 239,
         "normal_price": 299,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771625051/software-mirrors/nhv4oecf7nftgyg6hksr.webp\"]",
-        "rating": 4
+        "rating": 4.4
       },
       {
         "id": 215,
@@ -189,7 +219,7 @@
         "price": 129,
         "normal_price": 264,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765713315/software-mirrors/obdivsb26h4keomlfrcc.jpg\"]",
-        "rating": 4
+        "rating": 4.5
       },
       {
         "id": 50,
@@ -359,7 +389,7 @@
         "price": 25,
         "normal_price": 25,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771513798/software-mirrors/cwuf30aa7l2w9zbvad8g.webp\"]",
-        "rating": 4
+        "rating": 4.2
       },
       {
         "id": 44,
@@ -1049,7 +1079,7 @@
         "price": 29.95,
         "normal_price": 29.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770791763/software-mirrors/ygbr9miqeubsodiq12px.webp\"]",
-        "rating": 4
+        "rating": 4.4
       },
       {
         "id": 134,
