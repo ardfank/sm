@@ -2,6 +2,46 @@
   {
     "results": [
       {
+        "id": 176,
+        "name": "KMPlayer 2026.2.23.17",
+        "slug": "kmplayer",
+        "cat": "Multimedia",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769445419/software-mirrors/rufvg5hchjhp8c0lpafh.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 193,
+        "name": "Ollama 0.17.0",
+        "slug": "ollama",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 73,
+        "name": "Trellix Stinger (Formerly McAfee Stinger) 13.0.0.615",
+        "slug": "trellix-stinger-formerly-mcafee-stinger",
+        "cat": "Antivirus",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764506961/software-mirrors/laqnmlblhjje7yqr40x6.png\"]",
+        "rating": 4
+      },
+      {
+        "id": 164,
+        "name": "Revo Uninstaller 2.6.8 Free Download",
+        "slug": "revo-uninstaller-free-download",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769015321/software-mirrors/crusmpgosnol1uwxppii.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 231,
         "name": "Zortam Mp3 Media Studio 33.82",
         "slug": "zortam-mp3-media-studio",
@@ -270,16 +310,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
         "rating": 4.6
-      },
-      {
-        "id": 193,
-        "name": "Ollama 0.16.3",
-        "slug": "ollama",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 189,
@@ -780,16 +810,6 @@
         "normal_price": 124.98,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771353677/software-mirrors/s3bsqdmbus6xljhx88co.jpg\"]",
         "rating": 4.6
-      },
-      {
-        "id": 73,
-        "name": "Trellix Stinger (Formerly McAfee Stinger) 13.0.0.611",
-        "slug": "trellix-stinger-formerly-mcafee-stinger",
-        "cat": "Antivirus",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764506961/software-mirrors/laqnmlblhjje7yqr40x6.png\"]",
-        "rating": 4
       },
       {
         "id": 233,
@@ -2002,16 +2022,6 @@
         "rating": 4.6
       },
       {
-        "id": 176,
-        "name": "KMPlayer 2026.1.26.43",
-        "slug": "kmplayer",
-        "cat": "Multimedia",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769445419/software-mirrors/rufvg5hchjhp8c0lpafh.webp\"]",
-        "rating": 4.5
-      },
-      {
         "id": 177,
         "name": "Aiseesoft Mac Screen Recorder 2.2.6.152197 - Discount 20% OFF",
         "slug": "aiseesoft-mac-screen-recorder-discount-20-off",
@@ -2222,16 +2232,6 @@
         "rating": 4.7
       },
       {
-        "id": 164,
-        "name": "Revo Uninstaller 2.6.5 Free Download",
-        "slug": "revo-uninstaller-free-download",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769015321/software-mirrors/crusmpgosnol1uwxppii.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 88,
         "name": "AOMEI Backupper 8.1.0 Professional (1 Year Upgrade) - Discount 20% OFF",
         "slug": "aomei-backupper-professional-1year-upgrade-discount-20-off",
@@ -2282,23 +2282,23 @@
         "rating": 3.3
       },
       {
-        "id": 60,
-        "name": "MacX DVD Ripper Pro V8.11.3 for Windows [Lifetime]",
-        "slug": "macx-dvd-ripper-pro-for-windows-lifetime",
-        "cat": "Multimedia",
-        "price": 59.95,
-        "normal_price": 59.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9c_HV4hAZl5KEGeEIhO1cZxfp0TrmF6LXbo0CBT0UhhHZ9HmIOdWk3H1AtWHh5AxsSV-6CRFNVmL2IcWT23io6d_ZT7RoZSzpDQ8ONnx3kjAhcqQF0n6vaUXNeqDGRKtkleNC9lwCNCDXxljJxUMmIPtZyUXpPdpRbVwQdCmv0jvoqScK1C_ELWo4koCR/s500-rw/macx-dvd-ripper-pro-for-windows-lifetime-software-mirrors.png\"]",
-        "rating": 4.8
-      },
-      {
         "id": 61,
-        "name": "MacX DVD Ripper Pro V6.8.4 [Lifetime]",
+        "name": "MacX DVD Ripper Pro V6.8.4 (Lifetime)",
         "slug": "macx-dvd-ripper-pro-lifetime",
         "cat": "Multimedia",
         "price": 59.95,
         "normal_price": 59.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU9zRTrtOm53PcYRJc3ISLpqfGeRYQZeDhFIS-AhtycOjEP4c3aiUR4zMqK83U8Weuw3nc3i8j91Vik0KIC5qUNyeNmObIkFbRCVkRFEj0RkS2FLw14MtH6fIP5gObTAeqB40pOUvTxoAuZhs9YtUgCJhzkWMSWKHqJj__uTGxRI9Fk2PDGzaaxluUw6hr/s500-rw/macx-dvd-ripper-pro-lifetime-software-mirrors.png\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 60,
+        "name": "MacX DVD Ripper Pro V8.11.3 for Windows (Lifetime)",
+        "slug": "macx-dvd-ripper-pro-for-windows-lifetime",
+        "cat": "Multimedia",
+        "price": 59.95,
+        "normal_price": 59.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9c_HV4hAZl5KEGeEIhO1cZxfp0TrmF6LXbo0CBT0UhhHZ9HmIOdWk3H1AtWHh5AxsSV-6CRFNVmL2IcWT23io6d_ZT7RoZSzpDQ8ONnx3kjAhcqQF0n6vaUXNeqDGRKtkleNC9lwCNCDXxljJxUMmIPtZyUXpPdpRbVwQdCmv0jvoqScK1C_ELWo4koCR/s500-rw/macx-dvd-ripper-pro-for-windows-lifetime-software-mirrors.png\"]",
         "rating": 4.8
       },
       {
