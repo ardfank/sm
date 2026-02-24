@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 266,
+        "name": "GOM Player 2.3.116",
+        "slug": "gom-player",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771918892/software-mirrors/olda6fiadpzpakmi28ww.webp\"]",
+        "rating": 4.4
+      },
+      {
         "id": 187,
         "name": "LM Studio 0.4.4-1",
         "slug": "lm-studio",
@@ -15,7 +25,7 @@
         "id": 176,
         "name": "KMPlayer 2026.2.23.17",
         "slug": "kmplayer",
-        "cat": "Multimedia",
+        "cat": "Media Player",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769445419/software-mirrors/rufvg5hchjhp8c0lpafh.webp\"]",
@@ -725,7 +735,7 @@
         "id": 236,
         "name": "Media Player Classic - Home Cinema (MPC-HC) 2.6.2.1",
         "slug": "media-player-classic-home-cinema",
-        "cat": "Multimedia",
+        "cat": "Media Player",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771466314/software-mirrors/cgwwh7mfhprvgottuajs.webp\"]",
@@ -1715,7 +1725,7 @@
         "id": 188,
         "name": "PotPlayer 260114",
         "slug": "potplayer",
-        "cat": "Multimedia",
+        "cat": "Media Player",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769879040/software-mirrors/pgzziiu51da0msnocvd8.webp\"]",
