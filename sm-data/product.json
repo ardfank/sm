@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 118,
+        "name": "Mozilla Firefox Stable 148.0",
+        "slug": "mozilla-firefox",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766022669/software-mirrors/fslvptdzgd3fodi7avwy.webp\"]",
+        "rating": 4.8
+      },
+      {
         "id": 198,
         "name": "WinRAR 7.20",
         "slug": "winrar",
@@ -930,16 +940,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771305542/software-mirrors/yklcamljtlb0pbjmds0i.webp\"]",
         "rating": 4.4
-      },
-      {
-        "id": 118,
-        "name": "Mozilla Firefox Stable 147.0.4",
-        "slug": "mozilla-firefox",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766022669/software-mirrors/fslvptdzgd3fodi7avwy.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 180,
