@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 187,
+        "name": "LM Studio 0.4.4-1",
+        "slug": "lm-studio",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769882717/software-mirrors/gocq1ltmipqcoc22koyr.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 176,
         "name": "KMPlayer 2026.2.23.17",
         "slug": "kmplayer",
@@ -450,16 +460,6 @@
         "normal_price": 795,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 187,
-        "name": "LM Studio 0.4.3-2",
-        "slug": "lm-studio",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769882717/software-mirrors/gocq1ltmipqcoc22koyr.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 247,
@@ -2292,16 +2292,6 @@
         "rating": 4.8
       },
       {
-        "id": 60,
-        "name": "MacX DVD Ripper Pro V8.11.3 for Windows (Lifetime)",
-        "slug": "macx-dvd-ripper-pro-for-windows-lifetime",
-        "cat": "Multimedia",
-        "price": 59.95,
-        "normal_price": 59.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9c_HV4hAZl5KEGeEIhO1cZxfp0TrmF6LXbo0CBT0UhhHZ9HmIOdWk3H1AtWHh5AxsSV-6CRFNVmL2IcWT23io6d_ZT7RoZSzpDQ8ONnx3kjAhcqQF0n6vaUXNeqDGRKtkleNC9lwCNCDXxljJxUMmIPtZyUXpPdpRbVwQdCmv0jvoqScK1C_ELWo4koCR/s500-rw/macx-dvd-ripper-pro-for-windows-lifetime-software-mirrors.png\"]",
-        "rating": 4.8
-      },
-      {
         "id": 46,
         "name": "Digiarty WinX MediaTrans 8.2 (Lifetime License) - Discount 35% OFF",
         "slug": "digiarty-winx-mediatrans",
@@ -2320,6 +2310,16 @@
         "normal_price": 67.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmzwMAiqyc6aGeTYmnvDLDZsB-FajdA66GZQ1WkYyOEGOmQhpyvFbC7ZvaOEB5O_h_qYTNHzW4r23JT4DdD-pnWVxXPpMscgJnaodyELm91kBnzC2n-Ra12Er43TJAir3ZvpnHX_LTu9U/s500-rw/sm.png\"]",
         "rating": 3.7
+      },
+      {
+        "id": 60,
+        "name": "MacX DVD Ripper Pro V8.11.3 for Windows (Lifetime)",
+        "slug": "macx-dvd-ripper-pro-for-windows-lifetime",
+        "cat": "Multimedia",
+        "price": 59.95,
+        "normal_price": 59.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9c_HV4hAZl5KEGeEIhO1cZxfp0TrmF6LXbo0CBT0UhhHZ9HmIOdWk3H1AtWHh5AxsSV-6CRFNVmL2IcWT23io6d_ZT7RoZSzpDQ8ONnx3kjAhcqQF0n6vaUXNeqDGRKtkleNC9lwCNCDXxljJxUMmIPtZyUXpPdpRbVwQdCmv0jvoqScK1C_ELWo4koCR/s500-c-rw/macx-dvd-ripper-pro-for-windows-lifetime-software-mirrors.png\"]",
+        "rating": 4.8
       },
       {
         "id": 161,
