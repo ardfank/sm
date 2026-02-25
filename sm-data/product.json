@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 272,
+        "name": "AOMEI FastRecovery 4.9.0 Professional (Lifetime Upgrades / 2 Computers) - Discount 30% OFF",
+        "slug": "aomei-fastrecovery-professional-lifetime-upgrades-2-computers-discount-30-off",
+        "cat": "Backup Tools",
+        "price": 48.97,
+        "normal_price": 69.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772036563/software-mirrors/mhk9hxrjuvb9tk2quadl.webp?width=384\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 271,
+        "name": "AOMEI FastRecovery 4.9.0 Professional (Yearly / 1 Computer)",
+        "slug": "aomei-fastrecovery-professional-yearly-1-computer",
+        "cat": "Backup Tools",
+        "price": 59.95,
+        "normal_price": 59.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772036563/software-mirrors/mhk9hxrjuvb9tk2quadl.webp\"]",
+        "rating": 4.5
+      },
+      {
         "id": 89,
         "name": "RankDots Agency (annual billing) - Discount 20% OFF",
         "slug": "rankdots-agency-annual-billing-discount-20-off",
