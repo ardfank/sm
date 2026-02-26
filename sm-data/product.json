@@ -2,6 +2,56 @@
   {
     "results": [
       {
+        "id": 130,
+        "name": "Opera GX 127.0.5778.96 Offline Installer",
+        "slug": "opera-gx",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 108,
+        "name": "MEmu Android Emulator 9.3.3 Offline Installer",
+        "slug": "memu-android-emulator-offline-installer",
+        "cat": "Emulator",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765706625/software-mirrors/sb0c1vmb4fqfbvovdrrb.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 76,
+        "name": "LibreOffice 26.2.1 Final",
+        "slug": "libreoffice-final",
+        "cat": "Office Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764557757/software-mirrors/siujuiolwy8c0quuamde.jpg\"]",
+        "rating": 5
+      },
+      {
+        "id": 116,
+        "name": "RegRun Security Suite 18.0.2026.225",
+        "slug": "regrun-security-suite",
+        "cat": "Antivirus",
+        "price": 83.19,
+        "normal_price": 83.19,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765990681/software-mirrors/fqeb6wuqptktdsjv8tf6.webp\"]",
+        "rating": 3.4
+      },
+      {
+        "id": 277,
+        "name": "Parallels Desktop for Mac 26 Business Edition (Yearly) - Discount 35% OFF",
+        "slug": "parallels-desktop-for-mac-business-edition-yearly-discount-35-off",
+        "cat": "Utilities",
+        "price": 97.49,
+        "normal_price": 149.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772120255/software-mirrors/te1wxuaxuoyfdsfttabr.jpg\"]",
+        "rating": 4.7
+      },
+      {
         "id": 276,
         "name": "Parallels Desktop for Mac 26 Pro Edition (Yearly) - Discount 45% OFF",
         "slug": "parallels-desktop-for-mac-pro-edition-yearly-discount-45-off",
@@ -802,16 +852,6 @@
         "rating": 4.6
       },
       {
-        "id": 130,
-        "name": "Opera GX 127.0.5778.75 Offline Installer",
-        "slug": "opera-gx",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
-        "rating": 4.5
-      },
-      {
         "id": 112,
         "name": "Internet Download Manager 6.42 Build 61",
         "slug": "internet-download-manager",
@@ -1452,16 +1492,6 @@
         "rating": 4.8
       },
       {
-        "id": 108,
-        "name": "MEmu Android Emulator 9.3.2.2 Offline Installer",
-        "slug": "memu-android-emulator-offline-installer",
-        "cat": "Emulator",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765706625/software-mirrors/sb0c1vmb4fqfbvovdrrb.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 218,
         "name": "Jan AI 0.7.7",
         "slug": "jan-ai",
@@ -1802,16 +1832,6 @@
         "rating": 4.3
       },
       {
-        "id": 76,
-        "name": "LibreOffice 26.2.0 Final",
-        "slug": "libreoffice-final",
-        "cat": "Office Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764557757/software-mirrors/siujuiolwy8c0quuamde.jpg\"]",
-        "rating": 5
-      },
-      {
         "id": 199,
         "name": "Aiarty Media Enhancer Bundle (Lifetime) - Discount 50% Off",
         "slug": "aiarty-media-enhancer-bundle-lifetime-discount-50-off",
@@ -2060,16 +2080,6 @@
         "normal_price": 235,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmkgRfFGc5ZXM-Cf7QiyVnNZxuFT3FlICmco4Bvn6Xz8Qcpf8NJ2wWPm1cMTj0_WtxxqxWzLcr_rXjn2qF035ljvXtTrwDGFL7CcfG8XnxRq2ChdFpxabzPjh7aUAUSU4e2_qyO5EtAZ4S77clqVJoAqBsaF2d3iGKMKCM5NWoSL-kKVlWntPOyHCVwkw_/s600-rw/classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsF8BcifL9xx_f8YlVB4cOeseme1PmM0PoFaBL9rqDInaUYQnYjKSuvCKC-ySbwN_Xa8qPcZt7qY7LSdKWo_-e1CY1z0oC_CXAWQAbffxk5hwaGnieyy8goTpS18J9Zyf6xFrFd2g9SnG9dSaKXJdyOK5cejmsyMyjqARIf1XQnfYZcKd5TCwGbNeh7AHW/s600-rw/classi.qzz.io.jpg\"]",
         "rating": 4
-      },
-      {
-        "id": 116,
-        "name": "RegRun Security Suite 17.96.2026.127",
-        "slug": "regrun-security-suite",
-        "cat": "Antivirus",
-        "price": 83.19,
-        "normal_price": 83.19,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765990681/software-mirrors/fqeb6wuqptktdsjv8tf6.webp\"]",
-        "rating": 3.4
       },
       {
         "id": 101,
