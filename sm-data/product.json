@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 187,
+        "name": "LM Studio 0.4.5-2",
+        "slug": "lm-studio",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769882717/software-mirrors/gocq1ltmipqcoc22koyr.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.2.25",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 36,
+        "name": "ChatGPT Atlas Browser 1.2026.49.8 for Mac",
+        "slug": "chatgpt-atlas-browser-for-mac",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLpEKzUo4mHNH0JLZqgBTuM5qD_hmKoKu8Jswy9MqHch3RRDn6sybZhHkucxR2MHJxwPG7YBUylFxAsXhsCb2mEydF3LSf829mfsYpvCUGK2hDRqQLJ73-bbO2_JI25bcmQNMmkK0fDtnkg9jMEgjmKO7PJ4TU_0uWqfa9Eqf9cVW6o8trstlZcWU4oFWp/s500-rw/Classi.Qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgajLZAMJhovAjAvcEbZs1nPpcuaC2YsJtm-9KUnvqqG0BEDRUQJQz2VbXm8df4QJSJ5tvdAUpMnQN6pmE-6jn1Uw-g1n4Bb4FagUk6girVnzeo0osjfaNCTxqlP4WFG4KGr0U4IZgo3JSSn-ziP-s4_Nx-28kugOiAmgl0dN3zHxDLTxQGOwBEMzc6H9og/s500-rw/Classi.Qzz.io.webp\"]",
+        "rating": 4
+      },
+      {
         "id": 274,
         "name": "Youtube Downloader HD 5.9.9.8",
         "slug": "youtube-downloader-hd",
@@ -80,16 +110,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
         "rating": 4.9
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.2.24",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 215,
@@ -190,16 +210,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771918892/software-mirrors/olda6fiadpzpakmi28ww.webp\"]",
         "rating": 4.4
-      },
-      {
-        "id": 187,
-        "name": "LM Studio 0.4.4-1",
-        "slug": "lm-studio",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769882717/software-mirrors/gocq1ltmipqcoc22koyr.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 176,
@@ -870,16 +880,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771466314/software-mirrors/cgwwh7mfhprvgottuajs.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 36,
-        "name": "ChatGPT Atlas Browser 1.2026.42.5 for Mac",
-        "slug": "chatgpt-atlas-browser-for-mac",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLpEKzUo4mHNH0JLZqgBTuM5qD_hmKoKu8Jswy9MqHch3RRDn6sybZhHkucxR2MHJxwPG7YBUylFxAsXhsCb2mEydF3LSf829mfsYpvCUGK2hDRqQLJ73-bbO2_JI25bcmQNMmkK0fDtnkg9jMEgjmKO7PJ4TU_0uWqfa9Eqf9cVW6o8trstlZcWU4oFWp/s500-rw/Classi.Qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgajLZAMJhovAjAvcEbZs1nPpcuaC2YsJtm-9KUnvqqG0BEDRUQJQz2VbXm8df4QJSJ5tvdAUpMnQN6pmE-6jn1Uw-g1n4Bb4FagUk6girVnzeo0osjfaNCTxqlP4WFG4KGr0U4IZgo3JSSn-ziP-s4_Nx-28kugOiAmgl0dN3zHxDLTxQGOwBEMzc6H9og/s500-rw/Classi.Qzz.io.webp\"]",
-        "rating": 4
       },
       {
         "id": 48,
