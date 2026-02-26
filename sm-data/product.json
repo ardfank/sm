@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 276,
+        "name": "Parallels Desktop for Mac 26 Pro Edition (Yearly) - Discount 45% OFF",
+        "slug": "parallels-desktop-for-mac-pro-edition-yearly-discount-45-off",
+        "cat": "Utilities",
+        "price": 65.99,
+        "normal_price": 119.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772119980/software-mirrors/l3w3e7ldajdssijrssa2.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 275,
+        "name": "Parallels Desktop for Mac 26 Standard Edition (Yearly) - Discount 45% OFF",
+        "slug": "parallels-desktop-for-mac-standard-edition-yearly-discount-45-off",
+        "cat": "Utilities",
+        "price": 54.99,
+        "normal_price": 99.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772118077/software-mirrors/s36vfgn1ahks3xnfmwtj.jpg\"]",
+        "rating": 4.7
+      },
+      {
         "id": 187,
         "name": "LM Studio 0.4.5-2",
         "slug": "lm-studio",
