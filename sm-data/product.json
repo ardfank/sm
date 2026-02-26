@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 59,
+        "name": "Cursor 2.5.26",
+        "slug": "cursor",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 195,
+        "name": "Opera One 128.0.5807.25 Offline Installer",
+        "slug": "opera-one-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
+        "rating": 4.6
+      },
+      {
         "id": 130,
         "name": "Opera GX 127.0.5778.96 Offline Installer",
         "slug": "opera-gx",
@@ -160,16 +180,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769935279/software-mirrors/eojiyajnr2eposuhnopo.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 59,
-        "name": "Cursor 2.5.25",
-        "slug": "cursor",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
-        "rating": 4.6
       },
       {
         "id": 50,
@@ -962,16 +972,6 @@
         "rating": 4.8
       },
       {
-        "id": 195,
-        "name": "Opera One 127.0.5778.76 Offline Installer",
-        "slug": "opera-one-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
-        "rating": 4.6
-      },
-      {
         "id": 186,
         "name": "Rufus 4.13",
         "slug": "rufus",
@@ -1020,16 +1020,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771340042/software-mirrors/r11u5n2nytfgk8cy3fpw.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 52,
-        "name": "Option File PES 6 (season 2014/2015 - 2016/2017)",
-        "slug": "option-file-pes-6-session-2014-2015-2016-2017",
-        "cat": "Games",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg57WVSbnY7MWt_0NWuGVuSrew8TsPqEH7ofMKKVosQ-nvTB6dEDM4GTo59B7lveIh3mrSUy1y5lnGOxbGL-dJnhfh1-5oj51mo3hkfy6ZffBFw2tbrr49xJWY1Ii8v5plF16rrZ5wMwAg/s500-rw/pes6.software-mirrors.com.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsgfe2jTWPB6BFoxSWt25wL5VzADpxEtKZwzWALY-WrXneOhGbID0ao5-fAi1bDvnfPK7KQu7NaGTWeOqHR8hYhUpp9bhfK5OdJLfdX9lnn3DvAY_9fh5p1lqP0bCYqP9qWfWIONtROTU/s500-rw/PES6-Option-File.software-mirrors.com.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIJvk5N69gACkgVCG5SdU2f-jhPVorxf4HlxkxFzpJ9Pokdnn7Yzkc0s6RYVPesKktnZPnj3Yy6o6L3pH2Bh-pXJgtC19CrAUSUJMw17bRTEmo4EyaPMCDK_LxwBakvMNJXwawwU-Rwlw/s500-rw/pes6-software-mirrors.com.jpg\"]",
-        "rating": 5
       },
       {
         "id": 22,
@@ -1200,6 +1190,16 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764499913/software-mirrors/orlhece14mq8rjq3myif.webp\"]",
         "rating": 4.6
+      },
+      {
+        "id": 52,
+        "name": "Option File PES 6 (season 2014/2015 - 2016/2017)",
+        "slug": "option-file-pes-6-session-2014-2015-2016-2017",
+        "cat": "Games",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg57WVSbnY7MWt_0NWuGVuSrew8TsPqEH7ofMKKVosQ-nvTB6dEDM4GTo59B7lveIh3mrSUy1y5lnGOxbGL-dJnhfh1-5oj51mo3hkfy6ZffBFw2tbrr49xJWY1Ii8v5plF16rrZ5wMwAg/s500-rw/pes6.software-mirrors.com.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsgfe2jTWPB6BFoxSWt25wL5VzADpxEtKZwzWALY-WrXneOhGbID0ao5-fAi1bDvnfPK7KQu7NaGTWeOqHR8hYhUpp9bhfK5OdJLfdX9lnn3DvAY_9fh5p1lqP0bCYqP9qWfWIONtROTU/s500-rw/PES6-Option-File.software-mirrors.com.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIJvk5N69gACkgVCG5SdU2f-jhPVorxf4HlxkxFzpJ9Pokdnn7Yzkc0s6RYVPesKktnZPnj3Yy6o6L3pH2Bh-pXJgtC19CrAUSUJMw17bRTEmo4EyaPMCDK_LxwBakvMNJXwawwU-Rwlw/s500-rw/pes6-software-mirrors.com.jpg\"]",
+        "rating": 5
       },
       {
         "id": 97,
