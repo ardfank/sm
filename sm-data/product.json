@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 279,
+        "name": "CCleaner Free for Mac 2.10",
+        "slug": "ccleaner-free-for-mac",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772191328/software-mirrors/tfrxa6eyiilqhvadrmcg.webp\"]",
+        "rating": 4.1
+      },
+      {
         "id": 278,
         "name": "CCleaner Free v7.05.1241 - Offline Installer",
         "slug": "ccleaner-free-offline-installer",
