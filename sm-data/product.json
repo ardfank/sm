@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 187,
+        "name": "LM Studio 0.4.6-1",
+        "slug": "lm-studio",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769882717/software-mirrors/gocq1ltmipqcoc22koyr.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 283,
+        "name": "Revo Uninstaller Pro 5.4.7 Portable - 2 year - Discount 50% OFF",
+        "slug": "revo-uninstaller-pro-portable-2-year-discount-50-off",
+        "cat": "Utilities",
+        "price": 22.47,
+        "normal_price": 44.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764700012/software-mirrors/stdutl3zaf8ljaokv0rk.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 282,
+        "name": "Revo Uninstaller Pro 5.4.7 Portable - 1 year - Discount 50% OFF",
+        "slug": "revo-uninstaller-pro-portable-1-year-discount-50-off",
+        "cat": "Utilities",
+        "price": 14.97,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764700012/software-mirrors/stdutl3zaf8ljaokv0rk.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 121,
         "name": "FrostWire 7.0.2-build-329",
         "slug": "frostwire-bittorent-client",
@@ -199,16 +229,6 @@
         "price": 54.99,
         "normal_price": 99.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772118077/software-mirrors/s36vfgn1ahks3xnfmwtj.jpg\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 187,
-        "name": "LM Studio 0.4.5-2",
-        "slug": "lm-studio",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769882717/software-mirrors/gocq1ltmipqcoc22koyr.webp\"]",
         "rating": 4.7
       },
       {
