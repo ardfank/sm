@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 141,
+        "name": "CapCut For MacOS 5.7.1.2100 Offline Installer",
+        "slug": "capcut-for-macos-offline-installer",
+        "cat": "Video Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766240967/software-mirrors/erzmicbqjkxpynqox9du.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 54,
         "name": "Movavi Video Editor 2026 26.10.0",
         "slug": "movavi-video-editor-2026",
@@ -2850,16 +2860,6 @@
         "normal_price": 19.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Clqgi1rK7JXSHeynHPeApJteinnmSzgXhAwlgeXY7eHkVKEpgsFSSQl8ggq26xexuJg05Hh-PYQssTncyGDzwlbP6GVa38bVbY3rAa4y5rLJCDOEMhvDV4AD5Iaa_CGcrOsOEHK7a-U/s1600-rw/software-mirrors.png\"]",
         "rating": 4.4
-      },
-      {
-        "id": 141,
-        "name": "CapCut For MacOS 5.7.1.2100 Offline Installer",
-        "slug": "capcut-for-macos-offline-installer",
-        "cat": "Video Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766240967/software-mirrors/erzmicbqjkxpynqox9du.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 106,
