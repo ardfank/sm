@@ -2,6 +2,56 @@
   {
     "results": [
       {
+        "id": 215,
+        "name": "AionUI v1.8.20",
+        "slug": "aionui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 193,
+        "name": "Ollama 0.17.5",
+        "slug": "ollama",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 26,
+        "name": "Presenti AI V1.31 - 500,000 Credits Discount 20% OFF",
+        "slug": "presenti-ai-500-000-credits-discount-20-off",
+        "cat": "Office Tools",
+        "price": 47.2,
+        "normal_price": 59,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSf5KmbKuVf-r3blD_gmrqnIULM847OtBcqBO7SHtxH6g9uJrO81hmn19I2ZzHQIYvpx6KQ2W1ZbYXg3r2x2boZZGN6yingC66OaXmz4ycS_iBdKLaE9WDJfzH43aYNBQHYQU5FFXhcae9uu736OjVc8UTvEJlSpacyGSR6jLEa8euC9PrEzRMas39XLTP/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB2qXB1KACplepb2kCvI3sK62SZjxBrWKxmn7oqoGZJWSlGeFCWgPzbrKYhODLnFjc-Kwwpa-I8aEX1Ct2ZE_CMoEcWnhW1erzHmk03tuensjcQVnJA6F_AzuSIWwNImsv6HebN-oVT5hKaxesB01XbWT5lkgDb-955RUE4x3nSGeL5_ZmGceGuDMxI5IW/s500-rw/Classi.qzz.io.jpg\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 93,
+        "name": "Presenti Team Professional V1.31 (Yearly Subscription) - Discount 20% OFF",
+        "slug": "presenti-team-professional-yearly-subscription-discount-20-off",
+        "cat": "Office Tools",
+        "price": 43.2,
+        "normal_price": 48,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSf5KmbKuVf-r3blD_gmrqnIULM847OtBcqBO7SHtxH6g9uJrO81hmn19I2ZzHQIYvpx6KQ2W1ZbYXg3r2x2boZZGN6yingC66OaXmz4ycS_iBdKLaE9WDJfzH43aYNBQHYQU5FFXhcae9uu736OjVc8UTvEJlSpacyGSR6jLEa8euC9PrEzRMas39XLTP/s600-rw/classi.qzz.io.png\"]",
+        "rating": 4
+      },
+      {
+        "id": 278,
+        "name": "CCleaner Free v7.05.1255 - Offline Installer",
+        "slug": "ccleaner-free-offline-installer",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772184336/software-mirrors/ukm02zc6g5fctrrshm5h.webp\"]",
+        "rating": 4
+      },
+      {
         "id": 141,
         "name": "CapCut For MacOS 5.7.1.2100 Offline Installer",
         "slug": "capcut-for-macos-offline-installer",
@@ -90,16 +140,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770383422/software-mirrors/jjdvousdqhuoffdlsh8c.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 215,
-        "name": "AionUI v1.8.19",
-        "slug": "aionui",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 289,
@@ -292,16 +332,6 @@
         "rating": 4.1
       },
       {
-        "id": 278,
-        "name": "CCleaner Free v7.05.1241 - Offline Installer",
-        "slug": "ccleaner-free-offline-installer",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772184336/software-mirrors/ukm02zc6g5fctrrshm5h.webp\"]",
-        "rating": 4
-      },
-      {
         "id": 263,
         "name": "calibre 9.4.0",
         "slug": "calibre",
@@ -310,16 +340,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771835943/software-mirrors/nwq1z8elunwsksns6kpj.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 193,
-        "name": "Ollama 0.17.4",
-        "slug": "ollama",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 182,
@@ -2330,26 +2350,6 @@
         "normal_price": 99.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765434464/software-mirrors/hauigukdt6s5526wyksd.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 26,
-        "name": "Presenti AI V1.29 - 500,000 Credits Discount 20% OFF",
-        "slug": "presenti-ai-500-000-credits-discount-20-off",
-        "cat": "Office Tools",
-        "price": 47.2,
-        "normal_price": 59,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSf5KmbKuVf-r3blD_gmrqnIULM847OtBcqBO7SHtxH6g9uJrO81hmn19I2ZzHQIYvpx6KQ2W1ZbYXg3r2x2boZZGN6yingC66OaXmz4ycS_iBdKLaE9WDJfzH43aYNBQHYQU5FFXhcae9uu736OjVc8UTvEJlSpacyGSR6jLEa8euC9PrEzRMas39XLTP/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB2qXB1KACplepb2kCvI3sK62SZjxBrWKxmn7oqoGZJWSlGeFCWgPzbrKYhODLnFjc-Kwwpa-I8aEX1Ct2ZE_CMoEcWnhW1erzHmk03tuensjcQVnJA6F_AzuSIWwNImsv6HebN-oVT5hKaxesB01XbWT5lkgDb-955RUE4x3nSGeL5_ZmGceGuDMxI5IW/s500-rw/Classi.qzz.io.jpg\"]",
-        "rating": 4.2
-      },
-      {
-        "id": 93,
-        "name": "Presenti Team Professional V1.29 (Yearly Subscription) - Discount 20% OFF",
-        "slug": "presenti-team-professional-yearly-subscription-discount-20-off",
-        "cat": "Office Tools",
-        "price": 43.2,
-        "normal_price": 48,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSf5KmbKuVf-r3blD_gmrqnIULM847OtBcqBO7SHtxH6g9uJrO81hmn19I2ZzHQIYvpx6KQ2W1ZbYXg3r2x2boZZGN6yingC66OaXmz4ycS_iBdKLaE9WDJfzH43aYNBQHYQU5FFXhcae9uu736OjVc8UTvEJlSpacyGSR6jLEa8euC9PrEzRMas39XLTP/s600-rw/classi.qzz.io.png\"]",
-        "rating": 4
       },
       {
         "id": 19,
