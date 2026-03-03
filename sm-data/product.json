@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 126,
+        "name": "Driver Easy  7.1.1.3510  (1 PC / 1 Year) - Discount 20% OFF",
+        "slug": "driver-easy-1-computer-license-1-year-discount-20-off",
+        "cat": "Utilities",
+        "price": 23.96,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 73,
         "name": "Trellix Stinger (Formerly McAfee Stinger) 13.0.0.621",
         "slug": "trellix-stinger-formerly-mcafee-stinger",
@@ -2745,16 +2755,6 @@
         "id": 135,
         "name": "Driver Easy  7.1.1.3510  (3 PCs / 1 Year) - Discount 20% OFF",
         "slug": "driver-easy-3-computers-license-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 23.96,
-        "normal_price": 29.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 126,
-        "name": "Driver Easy  7.1.1.3510  (1 PC / 1 Year) - Discount 20% OFF",
-        "slug": "driver-easy-1-computer-license-1-year-discount-20-off",
         "cat": "Utilities",
         "price": 23.96,
         "normal_price": 29.95,
