@@ -2,6 +2,96 @@
   {
     "results": [
       {
+        "id": 73,
+        "name": "Trellix Stinger (Formerly McAfee Stinger) 13.0.0.621",
+        "slug": "trellix-stinger-formerly-mcafee-stinger",
+        "cat": "Antivirus",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764506961/software-mirrors/laqnmlblhjje7yqr40x6.png\"]",
+        "rating": 4
+      },
+      {
+        "id": 262,
+        "name": "yt-dlp 2026.03.03",
+        "slug": "yt-dlp",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771807209/software-mirrors/vcipuj2k5trp9l9nfepo.webp\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 206,
+        "name": "Maestro 0.15.1 - AI Agent Command Center",
+        "slug": "maestro-ai-agent-command-center",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770402492/software-mirrors/r1lwtpzkjlfdyfyyixdo.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 215,
+        "name": "AionUI v1.8.21",
+        "slug": "aionui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 103,
+        "name": "AVG AntiVirus Free Edition 26.2.10802 Offline Installer",
+        "slug": "avg-antivirus-free-edition-offline-installer",
+        "cat": "Antivirus",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765471138/software-mirrors/nj0soq3syvif32mkuyjh.webp\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 273,
+        "name": "ONLYOFFICE Desktop Editors 9.3.1",
+        "slug": "onlyoffice-desktop-editors",
+        "cat": "Office Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772054780/software-mirrors/btq87mfzvwkwmdtey8ws.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 239,
+        "name": "EarthView 7.15.0",
+        "slug": "earthview",
+        "cat": "Internet Tools",
+        "price": 25,
+        "normal_price": 25,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771513798/software-mirrors/cwuf30aa7l2w9zbvad8g.webp\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 194,
+        "name": "Postman 12.0.3",
+        "slug": "postman",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 214,
+        "name": "GitButler 0.19.5",
+        "slug": "gitbutler",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770569757/software-mirrors/axcdfwds9htzu21siiyp.webp\"]",
+        "rating": 4.5
+      },
+      {
         "id": 97,
         "name": "Steam Game Idler v4.0.6",
         "slug": "steam-game-idler",
@@ -90,16 +180,6 @@
         "normal_price": 69,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764957164/software-mirrors/fmakxlv10wowhmx18qte.webp?width=384\"]",
         "rating": 4.8
-      },
-      {
-        "id": 215,
-        "name": "AionUI v1.8.20",
-        "slug": "aionui",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 193,
@@ -210,16 +290,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767534714/software-mirrors/wpnurlweew46aixpdl9u.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 194,
-        "name": "Postman 12.0.1",
-        "slug": "postman",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 289,
@@ -522,16 +592,6 @@
         "rating": 4.1
       },
       {
-        "id": 273,
-        "name": "ONLYOFFICE Desktop Editors 9.3.0",
-        "slug": "onlyoffice-desktop-editors",
-        "cat": "Office Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772054780/software-mirrors/btq87mfzvwkwmdtey8ws.webp\"]",
-        "rating": 4.4
-      },
-      {
         "id": 272,
         "name": "AOMEI FastRecovery 4.9.0 Professional (Lifetime Upgrades / 2 Computers) - Discount 30% OFF",
         "slug": "aomei-fastrecovery-professional-lifetime-upgrades-2-computers-discount-30-off",
@@ -672,16 +732,6 @@
         "rating": 4.5
       },
       {
-        "id": 73,
-        "name": "Trellix Stinger (Formerly McAfee Stinger) 13.0.0.615",
-        "slug": "trellix-stinger-formerly-mcafee-stinger",
-        "cat": "Antivirus",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764506961/software-mirrors/laqnmlblhjje7yqr40x6.png\"]",
-        "rating": 4
-      },
-      {
         "id": 164,
         "name": "Revo Uninstaller 2.6.8 Free Download",
         "slug": "revo-uninstaller-free-download",
@@ -730,26 +780,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3ay-x7-NtYjS-7HtmFwYOnYqsTZHSU-BBZJc-GtaV09QSeY-J_qlkXrozzFqrsgQcU8EuLL38bKNh8YOUxZFSaqUZkRtiy_W0Eusu0rwd5ogMk9Slwc25JnLplHVCfPamna-HbwghPo/s1600/ccc.JPG\"]",
         "rating": 4.9
-      },
-      {
-        "id": 262,
-        "name": "yt-dlp 2026.02.21",
-        "slug": "yt-dlp",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771807209/software-mirrors/vcipuj2k5trp9l9nfepo.webp\"]",
-        "rating": 4.9
-      },
-      {
-        "id": 214,
-        "name": "GitButler 0.19.3",
-        "slug": "gitbutler",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770569757/software-mirrors/axcdfwds9htzu21siiyp.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 147,
@@ -1252,16 +1282,6 @@
         "rating": 4.1
       },
       {
-        "id": 239,
-        "name": "EarthView 7.14.3",
-        "slug": "earthview",
-        "cat": "Internet Tools",
-        "price": 25,
-        "normal_price": 25,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771513798/software-mirrors/cwuf30aa7l2w9zbvad8g.webp\"]",
-        "rating": 4.2
-      },
-      {
         "id": 44,
         "name": "WinX Media Master [5-in-1] (DVD Ripper Platinum + MediaTrans + DVD Copy Pro + Winxvideo AI ) Discount 58% OFF",
         "slug": "winx-media-master-5-in-1-dvd-ripper-platinum-mediatrans-dvd-copy-pro-winxvideo-ai-discount-58-off",
@@ -1722,16 +1742,6 @@
         "rating": 4.8
       },
       {
-        "id": 206,
-        "name": "Maestro 0.15.0 - AI Agent Command Center",
-        "slug": "maestro-ai-agent-command-center",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770402492/software-mirrors/r1lwtpzkjlfdyfyyixdo.webp\"]",
-        "rating": 4.4
-      },
-      {
         "id": 221,
         "name": "7-Zip 26.00",
         "slug": "7-zip",
@@ -2100,16 +2110,6 @@
         "normal_price": 390,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770210400/software-mirrors/meevjald2djoxggnzfju.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 103,
-        "name": "AVG AntiVirus Free Edition 26.1.10738 Offline Installer",
-        "slug": "avg-antivirus-free-edition-offline-installer",
-        "cat": "Antivirus",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765471138/software-mirrors/nj0soq3syvif32mkuyjh.webp\"]",
-        "rating": 4.2
       },
       {
         "id": 131,
