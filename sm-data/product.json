@@ -2,6 +2,56 @@
   {
     "results": [
       {
+        "id": 298,
+        "name": "PDF Candy Desktop 3.17 PRO - Monthly - Discount 15% Off",
+        "slug": "pdf-candy-desktop-pro-monthly-discount-15-off",
+        "cat": "Office Tools",
+        "price": 5.1,
+        "normal_price": 6,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772728079/software-mirrors/plapfylqfo2p5zoqnh30.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 297,
+        "name": "PDF Candy Desktop 3.17 PRO - Discount 15% Off",
+        "slug": "pdf-candy-desktop-pro-discount-20-off",
+        "cat": "Office Tools",
+        "price": 84.91,
+        "normal_price": 99.9,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772728079/software-mirrors/plapfylqfo2p5zoqnh30.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 296,
+        "name": "PDF Candy Desktop 3.17 PRO - Yearly - Discount 15% Off",
+        "slug": "pdf-candy-desktop-pro-yearly-discount-20-off",
+        "cat": "Office Tools",
+        "price": 25.41,
+        "normal_price": 29.9,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772728079/software-mirrors/plapfylqfo2p5zoqnh30.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 130,
+        "name": "Opera GX 128.0.5807.51 Offline Installer",
+        "slug": "opera-gx",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 195,
+        "name": "Opera One 128.0.5807.52 Offline Installer",
+        "slug": "opera-one-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
+        "rating": 4.6
+      },
+      {
         "id": 60,
         "name": "MacX DVD Ripper Pro V8.11.3 for Windows (Lifetime)",
         "slug": "macx-dvd-ripper-pro-for-windows-lifetime",
@@ -310,16 +360,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765265729/software-mirrors/pjk89jnttzkexnmuvezn.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 195,
-        "name": "Opera One 128.0.5807.37 Offline Installer",
-        "slug": "opera-one-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
-        "rating": 4.6
       },
       {
         "id": 205,
@@ -680,16 +720,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765654570/software-mirrors/lnb7fqwck9x2lwpz9fb8.webp\"]",
         "rating": 4.2
-      },
-      {
-        "id": 130,
-        "name": "Opera GX 127.0.5778.96 Offline Installer",
-        "slug": "opera-gx",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 108,
