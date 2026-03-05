@@ -2,6 +2,156 @@
   {
     "results": [
       {
+        "id": 49,
+        "name": "Copernic Business Server Search 3.3.3.17416 Discount 20% OFF",
+        "slug": "copernic-business-server-search-discount-20-off",
+        "cat": "Utilities",
+        "price": 719.2,
+        "normal_price": 899,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipeYDfLVcy3jgFZm7PV10kgGs96t-FuMh8nkIe_QRdgMVi5dtg6znAIsM5_m0kxM8djOVpHifitiYv_UPFNpEVO81F3oyCwdYs-KVl-EZ1qxOMHUslg0YQaokO2tE-w4mWDpEQu1p1CCJdKZ4qo_cOvxdbFQLgLcrCO9-7d77QdBiP8OW4V4cUNqyxWGrY/s500-rw/software-mirrors.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5pszn5LXjU5Z8i6fy9Z2H8JKBr5YdZvYOO2A3jENknLjvkT4vW67MfpnGerzcYl_q2fe9VOSXbe3SWt0pIDbZJNKmnWF_37SF_nJOCGoiO2PHZlHpFRrvBSbnjqEWi64SuI8XUcHX6ctm0grsr3OQn5RH1O3sk_3R5BJp_e8tg7-Nzk4uIJqgfEh_agD_/s500-rw/software-mirrors.jpg\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 190,
+        "name": "Reaper 7.63",
+        "slug": "reaper",
+        "cat": "Multimedia",
+        "price": 60,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769947960/software-mirrors/npfjdcnihd6m6xphnbzq.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 215,
+        "name": "AionUI v1.8.22",
+        "slug": "aionui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 194,
+        "name": "Postman 12.0.5",
+        "slug": "postman",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 95,
+        "name": "SEO SpyGlass 6.63.15 Professional - Yearly",
+        "slug": "seo-spyglass-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 129,
+        "normal_price": 129,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 143,
+        "name": "SEO SpyGlass 6.63.15 Enterprise - Yearly",
+        "slug": "seo-spyglass-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 259,
+        "normal_price": 259,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 139,
+        "name": "Rank Tracker 8.50.15 Enterprise - Yearly",
+        "slug": "rank-tracker-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 419,
+        "normal_price": 419,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766938988/software-mirrors/fadyw3kfv3kyikn7xhgn.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 133,
+        "name": "Rank Tracker 8.50.15 Professional - Yearly",
+        "slug": "rank-tracker-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 149,
+        "normal_price": 149,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766938988/software-mirrors/fadyw3kfv3kyikn7xhgn.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 147,
+        "name": "LinkAssistant 6.50.15 Enterprise - Yearly",
+        "slug": "linkassistant-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 259,
+        "normal_price": 259,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767717735/software-mirrors/p6rmqpegaslkozgjiar7.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 146,
+        "name": "LinkAssistant 6.50.15 Professional - Yearly",
+        "slug": "linkassistant-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 129,
+        "normal_price": 129,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767717735/software-mirrors/p6rmqpegaslkozgjiar7.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 145,
+        "name": "WebSite Auditor 4.61.15 Enterprise - Yearly",
+        "slug": "website-auditor-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 359,
+        "normal_price": 359,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 144,
+        "name": "WebSite Auditor 4.61.15 Professional - Yearly",
+        "slug": "website-auditor-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 149,
+        "normal_price": 149,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 238,
+        "name": "SEO PowerSuite R102.15 Max - Yearly",
+        "slug": "seo-powersuite-max-yearly",
+        "cat": "Web Analytics",
+        "price": 899,
+        "normal_price": 899,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/SEO-Posersuite-Software-Mirrors.com.png\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 56,
+        "name": "SEO PowerSuite R102.15 Enterprise - Yearly",
+        "slug": "seo-powersuite-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 499,
+        "normal_price": 499,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/SEO-Posersuite-Software-Mirrors.com.png\"]",
+        "rating": 4.1
+      },
+      {
+        "id": 40,
+        "name": "SEO PowerSuite R102.15 Professional - Yearly",
+        "slug": "seo-powersuite-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 299,
+        "normal_price": 299,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.1
+      },
+      {
         "id": 298,
         "name": "PDF Candy Desktop 3.17 PRO - Monthly - Discount 15% Off",
         "slug": "pdf-candy-desktop-pro-monthly-discount-15-off",
@@ -79,16 +229,6 @@
         "price": 23.96,
         "normal_price": 29.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 194,
-        "name": "Postman 12.0.4",
-        "slug": "postman",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
         "rating": 4.6
       },
       {
@@ -300,16 +440,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770402492/software-mirrors/r1lwtpzkjlfdyfyyixdo.webp\"]",
         "rating": 4.4
-      },
-      {
-        "id": 215,
-        "name": "AionUI v1.8.21",
-        "slug": "aionui",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 103,
@@ -560,16 +690,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772360073/software-mirrors/qjx9znfgbfcjumwyzmom.webp\"]",
         "rating": 4.4
-      },
-      {
-        "id": 190,
-        "name": "Reaper 7.62",
-        "slug": "reaper",
-        "cat": "Multimedia",
-        "price": 60,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769947960/software-mirrors/npfjdcnihd6m6xphnbzq.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 288,
@@ -970,26 +1090,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3ay-x7-NtYjS-7HtmFwYOnYqsTZHSU-BBZJc-GtaV09QSeY-J_qlkXrozzFqrsgQcU8EuLL38bKNh8YOUxZFSaqUZkRtiy_W0Eusu0rwd5ogMk9Slwc25JnLplHVCfPamna-HbwghPo/s1600/ccc.JPG\"]",
         "rating": 4.9
-      },
-      {
-        "id": 147,
-        "name": "LinkAssistant 6.50.14 Enterprise - Yearly",
-        "slug": "linkassistant-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 259,
-        "normal_price": 259,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767717735/software-mirrors/p6rmqpegaslkozgjiar7.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 146,
-        "name": "LinkAssistant 6.50.14 Professional - Yearly",
-        "slug": "linkassistant-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 129,
-        "normal_price": 129,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767717735/software-mirrors/p6rmqpegaslkozgjiar7.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 261,
@@ -1472,16 +1572,6 @@
         "rating": 4
       },
       {
-        "id": 238,
-        "name": "SEO PowerSuite R102.14 Max - Yearly",
-        "slug": "seo-powersuite-max-yearly",
-        "cat": "Web Analytics",
-        "price": 899,
-        "normal_price": 899,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/SEO-Posersuite-Software-Mirrors.com.png\"]",
-        "rating": 4.2
-      },
-      {
         "id": 48,
         "name": "FortiClient 5.6.0 build 1075 Offline Installer",
         "slug": "forticlient-5-6-0-build-1075-offline-installer",
@@ -1772,26 +1862,6 @@
         "rating": 4.5
       },
       {
-        "id": 133,
-        "name": "Rank Tracker 8.50.14 Professional - Yearly",
-        "slug": "rank-tracker-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 149,
-        "normal_price": 149,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766938988/software-mirrors/fadyw3kfv3kyikn7xhgn.webp\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 139,
-        "name": "Rank Tracker 8.50.14 Enterprise - Yearly",
-        "slug": "rank-tracker-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 419,
-        "normal_price": 419,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766938988/software-mirrors/fadyw3kfv3kyikn7xhgn.webp\"]",
-        "rating": 4.3
-      },
-      {
         "id": 220,
         "name": "IObit Valentine’s Day Discount 92% OFF plus Extra 2 Months Free",
         "slug": "2026-iobit-valentine-s-day-sales-campaign-92-off-plus-extra-2-months-free",
@@ -1922,26 +1992,6 @@
         "rating": 4.2
       },
       {
-        "id": 95,
-        "name": "SEO SpyGlass 6.63.14 Professional - Yearly",
-        "slug": "seo-spyglass-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 129,
-        "normal_price": 129,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 143,
-        "name": "SEO SpyGlass 6.63.14 Enterprise - Yearly",
-        "slug": "seo-spyglass-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 259,
-        "normal_price": 259,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 218,
         "name": "Jan AI 0.7.7",
         "slug": "jan-ai",
@@ -2012,26 +2062,6 @@
         "rating": 4.4
       },
       {
-        "id": 144,
-        "name": "WebSite Auditor 4.61.14 Professional - Yearly",
-        "slug": "website-auditor-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 149,
-        "normal_price": 149,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 145,
-        "name": "WebSite Auditor 4.61.14 Enterprise - Yearly",
-        "slug": "website-auditor-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 359,
-        "normal_price": 359,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 65,
         "name": "Atomix VirtualDJ Free Home Edition 2026 Build 9005",
         "slug": "atomix-virtualdj-free-home-edition",
@@ -2060,16 +2090,6 @@
         "normal_price": 39.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTivgycrbUK_QZNGCHCQbmc14oHopmppZSJql_8xEWqSE2gOg1RGx08tYX0ATzbGkoCJYlh0Kb-AzluZ8uAOaFs6Ye-RM33Sb3ZY-xNSxDhCGgqlM8Oh7hL-xV9izuMpmbmaRHyMFp7U1y5wQ8a4dKsdnNh1X_XyXUeoFitBmqmYuou8-sZBgenc6-jHP/s1600-rw/classi.qzz.io.png\"]",
         "rating": 4.6
-      },
-      {
-        "id": 56,
-        "name": "SEO PowerSuite R102.14 Enterprise - Yearly",
-        "slug": "seo-powersuite-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 499,
-        "normal_price": 499,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/SEO-Posersuite-Software-Mirrors.com.png\"]",
-        "rating": 4.1
       },
       {
         "id": 81,
@@ -2109,16 +2129,6 @@
         "price": 45.95,
         "normal_price": 45.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770555839/software-mirrors/s79cxdrz2gddenurrjmv.webp\"]",
-        "rating": 4.1
-      },
-      {
-        "id": 40,
-        "name": "SEO PowerSuite R102.14 Professional - Yearly",
-        "slug": "seo-powersuite-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 299,
-        "normal_price": 299,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/classi.qzz.io.png\"]",
         "rating": 4.1
       },
       {
@@ -2890,16 +2900,6 @@
         "normal_price": 109,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764957164/software-mirrors/fmakxlv10wowhmx18qte.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 49,
-        "name": "Copernic Business Server Search 3.3.3.17416 Discount 20% OFF",
-        "slug": "copernic-business-server-search-discount-20-off",
-        "cat": "Utilities",
-        "price": 719.2,
-        "normal_price": 899,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipeYDfLVcy3jgFZm7PV10kgGs96t-FuMh8nkIe_QRdgMVi5dtg6znAIsM5_m0kxM8djOVpHifitiYv_UPFNpEVO81F3oyCwdYs-KVl-EZ1qxOMHUslg0YQaokO2tE-w4mWDpEQu1p1CCJdKZ4qo_cOvxdbFQLgLcrCO9-7d77QdBiP8OW4V4cUNqyxWGrY/s500-rw/software-mirrors.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5pszn5LXjU5Z8i6fy9Z2H8JKBr5YdZvYOO2A3jENknLjvkT4vW67MfpnGerzcYl_q2fe9VOSXbe3SWt0pIDbZJNKmnWF_37SF_nJOCGoiO2PHZlHpFRrvBSbnjqEWi64SuI8XUcHX6ctm0grsr3OQn5RH1O3sk_3R5BJp_e8tg7-Nzk4uIJqgfEh_agD_/s500-rw/software-mirrors.jpg\"]",
-        "rating": 4.9
       },
       {
         "id": 91,
