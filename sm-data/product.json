@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 299,
+        "name": "Icecream Screen Recorder 7.45 PRO - Lifetime - Discount 25% OFF",
+        "slug": "icecream-screen-recorder-pro-lifetime-discount-25-off",
+        "cat": "Screen Recorder",
+        "price": 59.95,
+        "normal_price": 79.93,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772766681/software-mirrors/ozeaklycxykgcoy5cy9a.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 300,
+        "name": "Icecream Screen Recorder 7.45 PRO - Yearly - Discount 15% OFF",
+        "slug": "icecream-screen-recorder-pro-yearly-discount-25-off",
+        "cat": "Screen Recorder",
+        "price": 25.46,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772766681/software-mirrors/ozeaklycxykgcoy5cy9a.webp\"]",
+        "rating": 4.3
+      },
+      {
         "id": 92,
         "name": "Aiarty Image Matting V2.6 (Lifetime - 3 PCs) - Discount 20% OFF",
         "slug": "aiarty-image-matting-lifetime-3-pcs-discount-20-off",
