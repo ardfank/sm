@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 153,
+        "name": "Aiarty Image Matting V2.6 for Mac (Commercial license) - Discount 20% Off",
+        "slug": "aiarty-image-matting-for-mac-commercial-license-discount-20-off",
+        "cat": "Image Editor",
+        "price": 1599.2,
+        "normal_price": 1999,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764957164/software-mirrors/fmakxlv10wowhmx18qte.webp\"]",
+        "rating": 4.8
+      },
+      {
         "id": 59,
         "name": "Cursor 2.6.12",
         "slug": "cursor",
@@ -832,26 +842,6 @@
         "rating": 4.3
       },
       {
-        "id": 281,
-        "name": "O&O DiskImage 22.4.1206 Premium Edition",
-        "slug": "o-o-diskimage-premium-edition",
-        "cat": "Backup Tools",
-        "price": 49.95,
-        "normal_price": 49.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772207267/software-mirrors/reyxryca1gkojur3hqy2.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 280,
-        "name": "O&O ShutUp10++ 2.2.1024",
-        "slug": "o-o-shutup10",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772205286/software-mirrors/pbkktmseypgcpsei1w99.webp\"]",
-        "rating": 4.4
-      },
-      {
         "id": 279,
         "name": "CCleaner Free for Mac 2.10",
         "slug": "ccleaner-free-for-mac",
@@ -910,36 +900,6 @@
         "normal_price": 83.19,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765990681/software-mirrors/fqeb6wuqptktdsjv8tf6.webp\"]",
         "rating": 3.4
-      },
-      {
-        "id": 277,
-        "name": "Parallels Desktop for Mac 26 Business Edition (Yearly) - Discount 35% OFF",
-        "slug": "parallels-desktop-for-mac-business-edition-yearly-discount-35-off",
-        "cat": "Utilities",
-        "price": 97.49,
-        "normal_price": 149.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772120255/software-mirrors/te1wxuaxuoyfdsfttabr.jpg\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 276,
-        "name": "Parallels Desktop for Mac 26 Pro Edition (Yearly) - Discount 45% OFF",
-        "slug": "parallels-desktop-for-mac-pro-edition-yearly-discount-45-off",
-        "cat": "Utilities",
-        "price": 65.99,
-        "normal_price": 119.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772119980/software-mirrors/l3w3e7ldajdssijrssa2.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 275,
-        "name": "Parallels Desktop for Mac 26 Standard Edition (Yearly) - Discount 45% OFF",
-        "slug": "parallels-desktop-for-mac-standard-edition-yearly-discount-45-off",
-        "cat": "Utilities",
-        "price": 54.99,
-        "normal_price": 99.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772118077/software-mirrors/s36vfgn1ahks3xnfmwtj.jpg\"]",
-        "rating": 4.7
       },
       {
         "id": 274,
@@ -1032,16 +992,6 @@
         "rating": 4.8
       },
       {
-        "id": 198,
-        "name": "WinRAR 7.20",
-        "slug": "winrar",
-        "cat": "Utilities",
-        "price": 29,
-        "normal_price": 29,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770207730/software-mirrors/xqxqvztimgztsp9jwqbf.jpg\"]",
-        "rating": 4.6
-      },
-      {
         "id": 267,
         "name": "Simple Sticky Notes 6.9",
         "slug": "simple-sticky-notes",
@@ -1070,6 +1020,16 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771918892/software-mirrors/olda6fiadpzpakmi28ww.webp\"]",
         "rating": 4.4
+      },
+      {
+        "id": 198,
+        "name": "WinRAR 7.20",
+        "slug": "winrar",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770207730/software-mirrors/xqxqvztimgztsp9jwqbf.jpg\"]",
+        "rating": 4.6
       },
       {
         "id": 176,
@@ -2895,16 +2855,6 @@
         "id": 152,
         "name": "Aiarty Image Matting V2.6 (Commercial license) - Discount 20% OFF",
         "slug": "aiarty-image-matting-commercial-license",
-        "cat": "Image Editor",
-        "price": 1599.2,
-        "normal_price": 1999,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764957164/software-mirrors/fmakxlv10wowhmx18qte.webp\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 153,
-        "name": "Aiarty Image Matting V2.6 for Mac (Commercial license) - Discount 20% Off",
-        "slug": "aiarty-image-matting-for-mac-commercial-license-discount-20-off",
         "cat": "Image Editor",
         "price": 1599.2,
         "normal_price": 1999,
