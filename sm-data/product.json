@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 307,
+        "name": "Kernel SQL Database Recovery 25.0 - Technician License - Discount 25% Off",
+        "slug": "kernel-sql-database-recovery-technician-license-discount-25-off",
+        "cat": "Backup Tools",
+        "price": 239.2,
+        "normal_price": 299,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772900294/software-mirrors/rmk9zjaot7qfybqdpmi9.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 306,
+        "name": "Kernel for SQL Database 25.0 ( Corporate License ) - Discount 20% OFF",
+        "slug": "kernel-for-sql-database-25-0-corporate-license-discount-20-off",
+        "cat": "Backup Tools",
+        "price": 259,
+        "normal_price": 259,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772900294/software-mirrors/rmk9zjaot7qfybqdpmi9.webp\"]",
+        "rating": 4.4
+      },
+      {
         "id": 72,
         "name": "Copernic Desktop & Cloud Search 8.3.3.17416 - Advanced - Discount 20% OFF",
         "slug": "copernic-desktop-cloud-search-advanced-discount-20-off",
