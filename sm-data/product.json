@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 78,
+        "name": "Advanced SystemCare Ultimate 18.1.0 (1 year subscription / 3 PCs) - Discount 50% OFF",
+        "slug": "advanced-systemcare-ultimate-18-1-year-subscription-3-pcs-discount-50-off",
+        "cat": "Antivirus",
+        "price": 23.99,
+        "normal_price": 49.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764618078/software-mirrors/mx5tbhdjvrwdjpnfehaj.png\"]",
+        "rating": 4.3
+      },
+      {
         "id": 7,
         "name": "RoboTask 10.6 (business license) Discount 20% OFF",
         "slug": "robotask-business-license-discount-20-off",
@@ -2940,16 +2950,6 @@
         "normal_price": 99.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769093359/software-mirrors/by2t89kgmatlw4mx25la.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 78,
-        "name": "Advanced SystemCare Ultimate 18.1.0 (1 year subscription / 3 PCs) - Discount 50% OFF",
-        "slug": "advanced-systemcare-ultimate-18-1-year-subscription-3-pcs-discount-50-off",
-        "cat": "Antivirus",
-        "price": 23.99,
-        "normal_price": 49.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764618078/software-mirrors/mx5tbhdjvrwdjpnfehaj.png\"]",
-        "rating": 4.3
       },
       {
         "id": 165,
