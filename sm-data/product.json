@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 169,
+        "name": "Wise Data Recovery Pro 6.2.2.520 (1 Year / 3 PCs) - Discount 40% OFF",
+        "slug": "wise-data-recovery-pro-1-year-3-pcs-discount-40-off",
+        "cat": "Backup Tools",
+        "price": 59.99,
+        "normal_price": 99.98,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769281515/software-mirrors/jt0vqmtjyownpem0srh9.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 50,
+        "name": "Brave Browser Release v1.88.127 (Chromium 146.0.7680.71) Offline Installer",
+        "slug": "brave-browser-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 206,
+        "name": "Maestro 0.15.2 - AI Agent Command Center",
+        "slug": "maestro-ai-agent-command-center",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770402492/software-mirrors/r1lwtpzkjlfdyfyyixdo.webp\"]",
+        "rating": 4.4
+      },
+      {
         "id": 168,
         "name": "Wise Data Recovery Pro 6.2.2.520 (1 Year / 1 PC) - Discount 40% OFF",
         "slug": "wise-data-recovery-pro-1-year-1-pc-discount-40-off",
@@ -1012,16 +1042,6 @@
         "rating": 4.6
       },
       {
-        "id": 50,
-        "name": "Brave Browser Release v1.87.192 (Chromium 145.0.7632.160) Offline Installer",
-        "slug": "brave-browser-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
-        "rating": 4.9
-      },
-      {
         "id": 138,
         "name": "IObit Smart Defrag 11.2.0 PRO (1 year subscription, 3PCs) - Discount 20% OFF",
         "slug": "iobit-smart-defrag-11-pro-1-year-subscription-3pcs-discount-20-off",
@@ -1140,16 +1160,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771807209/software-mirrors/vcipuj2k5trp9l9nfepo.webp\"]",
         "rating": 4.9
-      },
-      {
-        "id": 206,
-        "name": "Maestro 0.15.1 - AI Agent Command Center",
-        "slug": "maestro-ai-agent-command-center",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770402492/software-mirrors/r1lwtpzkjlfdyfyyixdo.webp\"]",
-        "rating": 4.4
       },
       {
         "id": 103,
@@ -3000,16 +3010,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765258285/software-mirrors/wavzdsks0srxq8pfubta.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 169,
-        "name": "Wise Data Recovery Pro 6.2.2.520 (1 Year / 3 PCs) - Discount 40% OFF",
-        "slug": "wise-data-recovery-pro-1-year-3-pcs-discount-40-off",
-        "cat": "Backup Tools",
-        "price": 59.99,
-        "normal_price": 99.98,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769281515/software-mirrors/jt0vqmtjyownpem0srh9.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 98,
