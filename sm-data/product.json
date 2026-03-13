@@ -2,6 +2,46 @@
   {
     "results": [
       {
+        "id": 171,
+        "name": "Wise Folder Hider Pro 5.0.9.239 (1 year subscription / 3PCs) - Discount 40% OFF",
+        "slug": "wise-folder-hider-pro-1-year-subscription-3pcs-discount-40-off",
+        "cat": "Utilities",
+        "price": 17.97,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769331656/software-mirrors/nxn4slhtvu6sgj2dqkeo.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.3.12",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 59,
+        "name": "Cursor 2.6.19",
+        "slug": "cursor",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 215,
+        "name": "AionUI v1.8.28-dev-0b91088",
+        "slug": "aionui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 12,
         "name": "ManyCam Windows 9.2.0.4 / Mac 9.1.0.5 Enterprise (3 users Annual) - Discount 45% OFF",
         "slug": "manycam-enterprise-3-users-annual-discount-40-off",
@@ -20,16 +60,6 @@
         "normal_price": 89.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH8XJV2K-WC5cUX_EIgTpHCK9BTThgDWv6rci8SZ8WU_tfernhcYx78Fb8jPaZ6a3WNyn8fZ9K84lpW9vhyBS7VWymPfUnOP_X3MzT5MnfJv_MFs1jjV6SMzha7NUgpWkXdakeVaxuhI03FySzQvdMQxL9LfOidxMkgByJRELlGFQRlmpW56UfG9Zx1D-b/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUjWT150NePnskk2e4TR5OH36Nu6wCXD_5f8jQGNTY5cu4PXhoKvSPeRiF1G1o8ngsTV25zC3GBNYyo2srzlZ2WcQlcCaNdszUCa3AhUjtpEQmWR8K9FOC6ar4UcwpXVh7lld81p88m0UBvhLz3etwCkW33TBotjWCSUTaPofJgdgAZE_hTEsg9gwNxLv2/s500-rw/classi.qzz.io.png\"]",
         "rating": 4.4
-      },
-      {
-        "id": 215,
-        "name": "AionUI v1.8.26",
-        "slug": "aionui",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 194,
@@ -372,16 +402,6 @@
         "rating": 4.8
       },
       {
-        "id": 59,
-        "name": "Cursor 2.6.18",
-        "slug": "cursor",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
-        "rating": 4.6
-      },
-      {
         "id": 196,
         "name": "Opera Air 128.0.5807.63 Offline Installer",
         "slug": "opera-air-offline-installer",
@@ -510,16 +530,6 @@
         "normal_price": 29.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s1600-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s1600-rw/Classi.Qzz.Io.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.3.8",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 88,
@@ -2990,16 +3000,6 @@
         "normal_price": 19.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769332547/software-mirrors/iydlvgrueqywgv9yrtoj.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 171,
-        "name": "Wise Folder Hider Pro 5.0.9.239 (1 year subscription / 3PCs) - Discount 40% OFF",
-        "slug": "wise-folder-hider-pro-1-year-subscription-3pcs-discount-40-off",
-        "cat": "Utilities",
-        "price": 17.97,
-        "normal_price": 29.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769331656/software-mirrors/nxn4slhtvu6sgj2dqkeo.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 170,
