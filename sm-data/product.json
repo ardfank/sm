@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 319,
+        "name": "IObit Smart Defrag + Software Updater + Driver Booster - 83% OFF",
+        "slug": "iobit-smart-defrag-software-updater-driver-booster-83-off",
+        "cat": "Utilities",
+        "price": 24.95,
+        "normal_price": 149.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773514644/software-mirrors/xikgcpcvwju0opfxyavy.jpg\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 37,
+        "name": "Blumentals WeBuilder 18.5 Personal - Discount 20% OFF",
+        "slug": "webuilder-2025-personal-discount-20-off",
+        "cat": "Developer Tools",
+        "price": 55.96,
+        "normal_price": 69.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH8XJV2K-WC5cUX_EIgTpHCK9BTThgDWv6rci8SZ8WU_tfernhcYx78Fb8jPaZ6a3WNyn8fZ9K84lpW9vhyBS7VWymPfUnOP_X3MzT5MnfJv_MFs1jjV6SMzha7NUgpWkXdakeVaxuhI03FySzQvdMQxL9LfOidxMkgByJRELlGFQRlmpW56UfG9Zx1D-b/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUjWT150NePnskk2e4TR5OH36Nu6wCXD_5f8jQGNTY5cu4PXhoKvSPeRiF1G1o8ngsTV25zC3GBNYyo2srzlZ2WcQlcCaNdszUCa3AhUjtpEQmWR8K9FOC6ar4UcwpXVh7lld81p88m0UBvhLz3etwCkW33TBotjWCSUTaPofJgdgAZE_hTEsg9gwNxLv2/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.4
+      },
+      {
         "id": 318,
         "name": "OpenCode v1.2.26",
         "slug": "opencode",
@@ -692,16 +712,6 @@
         "rating": 4.6
       },
       {
-        "id": 78,
-        "name": "Advanced SystemCare Ultimate 18.1.0 (1 year subscription / 3 PCs) - Discount 50% OFF",
-        "slug": "advanced-systemcare-ultimate-18-1-year-subscription-3-pcs-discount-50-off",
-        "cat": "Antivirus",
-        "price": 23.99,
-        "normal_price": 49.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764618078/software-mirrors/mx5tbhdjvrwdjpnfehaj.png\"]",
-        "rating": 4.3
-      },
-      {
         "id": 7,
         "name": "RoboTask 10.6 (business license) Discount 20% OFF",
         "slug": "robotask-business-license-discount-20-off",
@@ -750,6 +760,16 @@
         "normal_price": 89.9,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0PuGbYMGzUovzTSOc0br_GL6R9i63UQDFOfzFq7693e8t2135l0U1PY7iphbETgZcgfe1GS1ST1SqMFi6CMvfYt3j1Mgu2dkEVKgoDRh3Zf4_gHDfqBSnCCGnZ0Fss1JOauc6owuAKiainc0N5rSLAO6CW_XVgwuU4-erV2hyqfesotpiZDXOWs6BvDjR/s1600-rw/classi.qzz.io.png\",\"https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg\",\"https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-25.jpg\"]",
         "rating": 4.8
+      },
+      {
+        "id": 78,
+        "name": "Advanced SystemCare Ultimate 18.1.0 (1 year subscription / 3 PCs) - Discount 50% OFF",
+        "slug": "advanced-systemcare-ultimate-18-1-year-subscription-3-pcs-discount-50-off",
+        "cat": "Antivirus",
+        "price": 23.99,
+        "normal_price": 49.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764618078/software-mirrors/mx5tbhdjvrwdjpnfehaj.png\"]",
+        "rating": 4.3
       },
       {
         "id": 90,
@@ -822,26 +842,6 @@
         "rating": 4.8
       },
       {
-        "id": 149,
-        "name": "IObit Malware Fighter 13.2.0 PRO (1 Year Subscription, 3 PCs) - Discount 50% OFF",
-        "slug": "iobit-malware-fighter-pro-1-year-subscription-3-pcs-discount-50-off",
-        "cat": "Antivirus",
-        "price": 19.96,
-        "normal_price": 39.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Clqgi1rK7JXSHeynHPeApJteinnmSzgXhAwlgeXY7eHkVKEpgsFSSQl8ggq26xexuJg05Hh-PYQssTncyGDzwlbP6GVa38bVbY3rAa4y5rLJCDOEMhvDV4AD5Iaa_CGcrOsOEHK7a-U/s1600-rw/software-mirrors.png?width=384\"]",
-        "rating": 4.4
-      },
-      {
-        "id": 148,
-        "name": "IObit Malware Fighter 13.2.0 PRO (1 year subscription / 1 PCs) - Discount 20% OFF",
-        "slug": "iobit-malware-fighter-pro-1-year-subscription-1-pcs-discount-20-off",
-        "cat": "Antivirus",
-        "price": 15.96,
-        "normal_price": 19.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Clqgi1rK7JXSHeynHPeApJteinnmSzgXhAwlgeXY7eHkVKEpgsFSSQl8ggq26xexuJg05Hh-PYQssTncyGDzwlbP6GVa38bVbY3rAa4y5rLJCDOEMhvDV4AD5Iaa_CGcrOsOEHK7a-U/s1600-rw/software-mirrors.png\"]",
-        "rating": 4.4
-      },
-      {
         "id": 140,
         "name": "AIMP 5.40.2709",
         "slug": "aimp",
@@ -860,6 +860,26 @@
         "normal_price": 149,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765543885/software-mirrors/uysx0sbsmxvqs9hwdz4c.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNM7iKtJRFjfiiGV1i59r0Jt0jdBE1AQf0LITbqZyHZRFekqAwTujJ7Ou_k9DHK5lwoQI8tUSxND-XlSwPNH-LgpDRXtPDO6pcSccYqUc_cyDNeDDJv99zmS_2eaQoXcnYV0QHhumdd6F52J8i3aSolJbSCrnX-fIUPXq1ok_wuMlAxnr8NTFg5m879vex/s1600-rw/classi.qzz.io.png\"]",
         "rating": 4.6
+      },
+      {
+        "id": 148,
+        "name": "IObit Malware Fighter 13.2.0 PRO (1 year subscription / 1 PCs) - Discount 20% OFF",
+        "slug": "iobit-malware-fighter-pro-1-year-subscription-1-pcs-discount-20-off",
+        "cat": "Antivirus",
+        "price": 15.96,
+        "normal_price": 19.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Clqgi1rK7JXSHeynHPeApJteinnmSzgXhAwlgeXY7eHkVKEpgsFSSQl8ggq26xexuJg05Hh-PYQssTncyGDzwlbP6GVa38bVbY3rAa4y5rLJCDOEMhvDV4AD5Iaa_CGcrOsOEHK7a-U/s1600-rw/software-mirrors.png\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 149,
+        "name": "IObit Malware Fighter 13.2.0 PRO (1 Year Subscription, 3 PCs) - Discount 50% OFF",
+        "slug": "iobit-malware-fighter-pro-1-year-subscription-3-pcs-discount-50-off",
+        "cat": "Antivirus",
+        "price": 19.96,
+        "normal_price": 39.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Clqgi1rK7JXSHeynHPeApJteinnmSzgXhAwlgeXY7eHkVKEpgsFSSQl8ggq26xexuJg05Hh-PYQssTncyGDzwlbP6GVa38bVbY3rAa4y5rLJCDOEMhvDV4AD5Iaa_CGcrOsOEHK7a-U/s1600-rw/software-mirrors.png?width=384\"]",
+        "rating": 4.4
       },
       {
         "id": 163,
@@ -1222,16 +1242,6 @@
         "rating": 4.6
       },
       {
-        "id": 138,
-        "name": "IObit Smart Defrag 11.2.0 PRO (1 year subscription, 3PCs) - Discount 20% OFF",
-        "slug": "iobit-smart-defrag-11-pro-1-year-subscription-3pcs-discount-20-off",
-        "cat": "Utilities",
-        "price": 23.99,
-        "normal_price": 29.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767294684/software-mirrors/riobg60dyukl1lb5oqlx.webp\"]",
-        "rating": 4.4
-      },
-      {
         "id": 293,
         "name": "Kernel Windows Data Recovery 17.0 - Discount 20% OFF - Home User",
         "slug": "kernel-windows-data-recovery-discount-20-off-home-user-1-year-license",
@@ -1292,16 +1302,6 @@
         "rating": 4.8
       },
       {
-        "id": 42,
-        "name": "IObit Driver Booster 13.2.0 PRO (1 Year Subscription, 3 PCs) - Discount 20% Off",
-        "slug": "iobit-driver-booster-13-pro-1-year-subscription-3-pcs",
-        "cat": "Utilities",
-        "price": 18.36,
-        "normal_price": 22.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKQFvYy4B8bt7IhAH9vjWCqNtNvgArxORULGmE3EksfpZRGt9E0SpvGJ79u2N9AN5syS7fKiQEcqMUy3_u_CJFfyaXvglUsbUdIWud3IM858LvSVn1AecEdDNeowDuLLnHwJN4OrfFGIvT6GUUiTo8wXmZkKezz49LY4GCUyBS69GvlfcnMKW6y_Ep4kU/s500-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiLJNQe4VdkF-ljwSLqsbKyD8iMJ3qrhJMWIq1-IiaZenuEBytuo_FjU6zQ-KQ97cDySWMLbqS8w7tGxSPfH4Z-2TCC7yBUwma-1wzMLurFlCGn2CkV_d_NJpCkVU4SOg7Or4wZHUuwx4AIzTCFc3WQ29MpeylEteHSqvOrqUy606I6Mne0WhGpUW/s500-rw/classi.qzz.png\"]",
-        "rating": 3.9
-      },
-      {
         "id": 236,
         "name": "Media Player Classic - Home Cinema (MPC-HC) 2.6.3",
         "slug": "media-player-classic-home-cinema",
@@ -1310,6 +1310,16 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771466314/software-mirrors/cgwwh7mfhprvgottuajs.webp\"]",
         "rating": 4.5
+      },
+      {
+        "id": 138,
+        "name": "IObit Smart Defrag 11.2.0 PRO (1 year subscription, 3PCs) - Discount 20% OFF",
+        "slug": "iobit-smart-defrag-11-pro-1-year-subscription-3pcs-discount-20-off",
+        "cat": "Utilities",
+        "price": 23.99,
+        "normal_price": 29.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767294684/software-mirrors/riobg60dyukl1lb5oqlx.webp\"]",
+        "rating": 4.4
       },
       {
         "id": 126,
@@ -1410,6 +1420,16 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772184336/software-mirrors/ukm02zc6g5fctrrshm5h.webp\"]",
         "rating": 4
+      },
+      {
+        "id": 42,
+        "name": "IObit Driver Booster 13.2.0 PRO (1 Year Subscription, 3 PCs) - Discount 20% Off",
+        "slug": "iobit-driver-booster-13-pro-1-year-subscription-3-pcs",
+        "cat": "Utilities",
+        "price": 18.36,
+        "normal_price": 22.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKQFvYy4B8bt7IhAH9vjWCqNtNvgArxORULGmE3EksfpZRGt9E0SpvGJ79u2N9AN5syS7fKiQEcqMUy3_u_CJFfyaXvglUsbUdIWud3IM858LvSVn1AecEdDNeowDuLLnHwJN4OrfFGIvT6GUUiTo8wXmZkKezz49LY4GCUyBS69GvlfcnMKW6y_Ep4kU/s500-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiLJNQe4VdkF-ljwSLqsbKyD8iMJ3qrhJMWIq1-IiaZenuEBytuo_FjU6zQ-KQ97cDySWMLbqS8w7tGxSPfH4Z-2TCC7yBUwma-1wzMLurFlCGn2CkV_d_NJpCkVU4SOg7Or4wZHUuwx4AIzTCFc3WQ29MpeylEteHSqvOrqUy606I6Mne0WhGpUW/s500-rw/classi.qzz.png\"]",
+        "rating": 3.9
       },
       {
         "id": 141,
@@ -2852,16 +2872,6 @@
         "rating": 4.8
       },
       {
-        "id": 74,
-        "name": "IObit Advanced SystemCare 19.2.0 PRO (2 year subscription / 3 PC) Discount 70% OFF",
-        "slug": "iobit-advanced-systemcare-19-pro-2-year-subscription-3-pc-black-friday-discount-70-off",
-        "cat": "Utilities",
-        "price": 24.99,
-        "normal_price": 179,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764528623/software-mirrors/j6x1iih70dspwg6y9vap.png\"]",
-        "rating": 4
-      },
-      {
         "id": 41,
         "name": "IObit Advanced SystemCare 19.2.0 PRO (1 year subscription / 3 PC) Discount 77% OFF",
         "slug": "iobit-advanced-systemcare-19-pro-1-year-subscription-3-pc-discount-20-off",
@@ -2879,6 +2889,16 @@
         "price": 15.99,
         "normal_price": 29.99,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEszGnSAZIMkbm8bh8zn52ncXithHY9Xc7yE13ntwmb0-4QWBaRiSwZXGQyupccGEiz6QkW-3K5ejuOJENNBr8_tk6dVaKNF6ErquTEEuv1C_unmEdL_ZZTiHUYR572H77EOeshw6CujTOYhEcEcu4atroJU1yn8f8bxDTU0_roeWnua2bIcD6bHUDnbu6/s1600-rw/advanced-systemcare-software-mirrors.png\"]",
+        "rating": 4
+      },
+      {
+        "id": 74,
+        "name": "IObit Advanced SystemCare 19.2.0 PRO (2 year subscription / 3 PC) Discount 70% OFF",
+        "slug": "iobit-advanced-systemcare-19-pro-2-year-subscription-3-pc-black-friday-discount-70-off",
+        "cat": "Utilities",
+        "price": 24.99,
+        "normal_price": 179,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764528623/software-mirrors/j6x1iih70dspwg6y9vap.png\"]",
         "rating": 4
       },
       {
@@ -3010,16 +3030,6 @@
         "normal_price": 99,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdmHnr86JvPB2uoFz3yYhOGNn3t13MxW5ZO7bsYxHrxv_qhwBuuWF0bBCFuMLqCj9wP1UjHODt-yhirezB2dXpKI4209wEOkUF3cGFgNfbgCTvvQ3aKV4MrCmPHc_dtFBu3ddNHyiHHqjtXBawjOW8yl91YEy0_kYSifAvnHTSAwNsuERJxOVqdZsyOzIE/s400-rw/classi.qzz.io.jpg\"]",
         "rating": 4.5
-      },
-      {
-        "id": 37,
-        "name": "Blumentals WeBuilder 18.5 Personal - Discount 20% OFF",
-        "slug": "webuilder-2025-personal-discount-20-off",
-        "cat": "Developer Tools",
-        "price": 55.96,
-        "normal_price": 69.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH8XJV2K-WC5cUX_EIgTpHCK9BTThgDWv6rci8SZ8WU_tfernhcYx78Fb8jPaZ6a3WNyn8fZ9K84lpW9vhyBS7VWymPfUnOP_X3MzT5MnfJv_MFs1jjV6SMzha7NUgpWkXdakeVaxuhI03FySzQvdMQxL9LfOidxMkgByJRELlGFQRlmpW56UfG9Zx1D-b/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUjWT150NePnskk2e4TR5OH36Nu6wCXD_5f8jQGNTY5cu4PXhoKvSPeRiF1G1o8ngsTV25zC3GBNYyo2srzlZ2WcQlcCaNdszUCa3AhUjtpEQmWR8K9FOC6ar4UcwpXVh7lld81p88m0UBvhLz3etwCkW33TBotjWCSUTaPofJgdgAZE_hTEsg9gwNxLv2/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.4
       },
       {
         "id": 173,
