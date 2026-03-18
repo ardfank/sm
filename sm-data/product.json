@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 193,
+        "name": "Ollama 0.18.1",
+        "slug": "ollama",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 337,
+        "name": "ChatGPT MacOS app (26 Feb 2026)",
+        "slug": "chatgpt-macos-app",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://images.ctfassets.net/j22is2dtoxu1/intercom-img-6b5e07477f6650ad55e271b2/b9ad98a40cf08d2f5635312dbdea95e6/AD_4nXdJiaXMXvwjfalP26AJt0hjd_SEjjzAcnjlsJm9ghBhzvpMZn3ZnRLLdy2PUWl0Zwejev2pIXzYTxwH2o_wn87R80tvPMXL1ctv3BsDe7IkIKIgvHcZxVBZfWeC\"]",
+        "rating": 4.6
+      },
+      {
         "id": 136,
         "name": "Aiarty Image Enhancer V3.9 for Mac (Standard) - Discount 35% OFF",
         "slug": "aiarty-image-enhancer-for-mac-standard-discount",
@@ -590,16 +610,6 @@
         "normal_price": 119,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765279773/software-mirrors/a0opkxanfrnqxpy5jx6t.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 193,
-        "name": "Ollama 0.18.0",
-        "slug": "ollama",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 177,
