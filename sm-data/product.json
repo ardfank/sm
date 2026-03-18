@@ -2,6 +2,66 @@
   {
     "results": [
       {
+        "id": 78,
+        "name": "Advanced SystemCare Ultimate 18.1.0 (1 year subscription / 3 PCs) - Discount 50% OFF",
+        "slug": "advanced-systemcare-ultimate-18-1-year-subscription-3-pcs-discount-50-off",
+        "cat": "Antivirus",
+        "price": 23.99,
+        "normal_price": 49.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764618078/software-mirrors/mx5tbhdjvrwdjpnfehaj.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 215,
+        "name": "AionUI v1.8.30",
+        "slug": "aionui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 59,
+        "name": "Cursor 2.6.20",
+        "slug": "cursor",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 99,
+        "name": "Visual Studio Code (VSCode) 1.112.0",
+        "slug": "visual-studio-code",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765353640/software-mirrors/z5ksoesbedomymohrwde.webp\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 41,
+        "name": "IObit Advanced SystemCare 19.2.0 PRO (1 year subscription / 3 PC) Discount 77% OFF",
+        "slug": "iobit-advanced-systemcare-19-pro-1-year-subscription-3-pc-discount-20-off",
+        "cat": "Utilities",
+        "price": 19.99,
+        "normal_price": 89.97,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEszGnSAZIMkbm8bh8zn52ncXithHY9Xc7yE13ntwmb0-4QWBaRiSwZXGQyupccGEiz6QkW-3K5ejuOJENNBr8_tk6dVaKNF6ErquTEEuv1C_unmEdL_ZZTiHUYR572H77EOeshw6CujTOYhEcEcu4atroJU1yn8f8bxDTU0_roeWnua2bIcD6bHUDnbu6/s1600-rw/classi.qzz.io.png\",\"https://secure.2checkout.com/images/merchant/184260348236f9554fe9375772ff966e/products/26_ASC16_boxshot_left_size256.png\"]",
+        "rating": 4
+      },
+      {
+        "id": 11,
+        "name": "Aiseesoft Screen Recorder 3.1.8 for Windows - Discount 20% OFF",
+        "slug": "aiseesoft-screen-recorder-discount-20-off",
+        "cat": "Screen Recorder",
+        "price": 49.96,
+        "normal_price": 62.45,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsvLOQcsdFvj8slryCuCLGs50_oZTX2wWHsUu2exIIZntuuslRpHCG70gs0cBX8cFPVHRrJlfNo9hJVSLdjp3kgtpHqcLHP36ykHW9etS6cI6ilavoFr5lOtH-TlT_pLABlUtaobcRzzwswX8Yfhffx5TgwlaOU1tSV6_PVorwv8ivcm1oK5KPrzAZLqI4/s1600-rw/aiseesoft-screen-recorder-classi.qzz.io.png\"]",
+        "rating": 3.8
+      },
+      {
         "id": 234,
         "name": "JRiver Media Center 35.0.58",
         "slug": "jriver-media-center",
@@ -140,16 +200,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764506961/software-mirrors/laqnmlblhjje7yqr40x6.png\"]",
         "rating": 4
-      },
-      {
-        "id": 215,
-        "name": "AionUI v1.8.29",
-        "slug": "aionui",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 194,
@@ -592,16 +642,6 @@
         "rating": 4.7
       },
       {
-        "id": 11,
-        "name": "Aiseesoft Screen Recorder 3.1.36 for Windows - Discount 20% OFF",
-        "slug": "aiseesoft-screen-recorder-discount-20-off",
-        "cat": "Screen Recorder",
-        "price": 49.96,
-        "normal_price": 62.45,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsvLOQcsdFvj8slryCuCLGs50_oZTX2wWHsUu2exIIZntuuslRpHCG70gs0cBX8cFPVHRrJlfNo9hJVSLdjp3kgtpHqcLHP36ykHW9etS6cI6ilavoFr5lOtH-TlT_pLABlUtaobcRzzwswX8Yfhffx5TgwlaOU1tSV6_PVorwv8ivcm1oK5KPrzAZLqI4/s1600-rw/aiseesoft-screen-recorder-classi.qzz.io.png\"]",
-        "rating": 3.8
-      },
-      {
         "id": 321,
         "name": "IObit Super Pack - Exclusive 91% OFF (IObit Uninstaller + Malware Fighter + Advanced SystemCare + Software Updater + Driver Booster)",
         "slug": "iobit-super-pack-exclusive-91-off-iobit-uninstaller-malware-fighter-advanced-systemcare-software-updater-driver-booster",
@@ -819,16 +859,6 @@
         "price": 17.97,
         "normal_price": 29.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769331656/software-mirrors/nxn4slhtvu6sgj2dqkeo.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 59,
-        "name": "Cursor 2.6.19",
-        "slug": "cursor",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
         "rating": 4.6
       },
       {
@@ -1212,16 +1242,6 @@
         "rating": 3.5
       },
       {
-        "id": 99,
-        "name": "Visual Studio Code (VSCode) 1.111.0",
-        "slug": "visual-studio-code",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765353640/software-mirrors/z5ksoesbedomymohrwde.webp\"]",
-        "rating": 4.9
-      },
-      {
         "id": 166,
         "name": "Glarysoft File Recovery PRO 1.30.0.30 - Lifetime License - Discount 50% OFF",
         "slug": "glarysoft-file-recovery-pro-lifetime-license-discount-50-off",
@@ -1320,16 +1340,6 @@
         "normal_price": 89.9,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0PuGbYMGzUovzTSOc0br_GL6R9i63UQDFOfzFq7693e8t2135l0U1PY7iphbETgZcgfe1GS1ST1SqMFi6CMvfYt3j1Mgu2dkEVKgoDRh3Zf4_gHDfqBSnCCGnZ0Fss1JOauc6owuAKiainc0N5rSLAO6CW_XVgwuU4-erV2hyqfesotpiZDXOWs6BvDjR/s1600-rw/classi.qzz.io.png\",\"https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg\",\"https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-25.jpg\"]",
         "rating": 4.8
-      },
-      {
-        "id": 78,
-        "name": "Advanced SystemCare Ultimate 18.1.0 (1 year subscription / 3 PCs) - Discount 50% OFF",
-        "slug": "advanced-systemcare-ultimate-18-1-year-subscription-3-pcs-discount-50-off",
-        "cat": "Antivirus",
-        "price": 23.99,
-        "normal_price": 49.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764618078/software-mirrors/mx5tbhdjvrwdjpnfehaj.png\"]",
-        "rating": 4.3
       },
       {
         "id": 90,
@@ -3209,16 +3219,6 @@
         "price": 185.33,
         "normal_price": 231.66,
         "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEjtjwGI1Fz-F_4FKg1fUjWPHldx2LQkwhyoLJnmpu0LwUd-eITa2KqaoAz5V967xbbtX9RjWwvYUnOwYsTJcmnMRlL4yeQ3WwoW0b1MpUwBXPplFOQUqbmxsupJUKC2aoEwmw26Wl7D0lW6g0sK0FscqmSIQA3pdaVmxyYUVwtG7PHj0puRug6uvlxsC_Ad=s500\"]",
-        "rating": 4
-      },
-      {
-        "id": 41,
-        "name": "IObit Advanced SystemCare 19.2.0 PRO (1 year subscription / 3 PC) Discount 77% OFF",
-        "slug": "iobit-advanced-systemcare-19-pro-1-year-subscription-3-pc-discount-20-off",
-        "cat": "Utilities",
-        "price": 19.99,
-        "normal_price": 89.97,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEszGnSAZIMkbm8bh8zn52ncXithHY9Xc7yE13ntwmb0-4QWBaRiSwZXGQyupccGEiz6QkW-3K5ejuOJENNBr8_tk6dVaKNF6ErquTEEuv1C_unmEdL_ZZTiHUYR572H77EOeshw6CujTOYhEcEcu4atroJU1yn8f8bxDTU0_roeWnua2bIcD6bHUDnbu6/s1600-rw/classi.qzz.io.png\",\"https://secure.2checkout.com/images/merchant/184260348236f9554fe9375772ff966e/products/26_ASC16_boxshot_left_size256.png\"]",
         "rating": 4
       },
       {
