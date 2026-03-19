@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 190,
+        "name": "Reaper 7.66",
+        "slug": "reaper",
+        "cat": "Multimedia",
+        "price": 60,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769947960/software-mirrors/npfjdcnihd6m6xphnbzq.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 69,
         "name": "WebSite X5 Pro 2025.3.6 - Discount 20% OFF",
         "slug": "website-x5-pro-discount-20-off",
@@ -970,16 +980,6 @@
         "normal_price": 29.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766058254/software-mirrors/b4vmgth6gcavoyo939de.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 190,
-        "name": "Reaper 7.65",
-        "slug": "reaper",
-        "cat": "Multimedia",
-        "price": 60,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769947960/software-mirrors/npfjdcnihd6m6xphnbzq.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 289,
