@@ -112,16 +112,6 @@
         "rating": 4.6
       },
       {
-        "id": 199,
-        "name": "Aiarty Media Enhancer Bundle (Lifetime) - Discount 50% Off",
-        "slug": "aiarty-media-enhancer-bundle-lifetime-discount-50-off",
-        "cat": "Multimedia",
-        "price": 199,
-        "normal_price": 390,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770210400/software-mirrors/meevjald2djoxggnzfju.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 173,
         "name": "WinSCP 6.5.5",
         "slug": "winscp",
@@ -150,6 +140,16 @@
         "normal_price": 19,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766666937/software-mirrors/phyww0yg6bb1t6xlxatj.jpg\"]",
         "rating": 4.6
+      },
+      {
+        "id": 199,
+        "name": "Aiarty Media Enhancer Bundle (Lifetime) - Discount 50% Off",
+        "slug": "aiarty-media-enhancer-bundle-lifetime-discount-50-off",
+        "cat": "Multimedia",
+        "price": 199,
+        "normal_price": 390,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770210400/software-mirrors/meevjald2djoxggnzfju.webp\"]",
+        "rating": 4.8
       },
       {
         "id": 197,
