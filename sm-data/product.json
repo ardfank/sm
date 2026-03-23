@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 176,
+        "name": "KMPlayer 2026.3.23.52 For Windows 64bit",
+        "slug": "kmplayer",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769445419/software-mirrors/rufvg5hchjhp8c0lpafh.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 341,
+        "name": "Nuclear Music Player v1.24.0",
+        "slug": "nuclear-music-player",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774262388/software-mirrors/wlqpjs1g5spfxotzhg2u.webp\"]",
+        "rating": 4.1
+      },
+      {
         "id": 318,
         "name": "OpenCode v1.3.0",
         "slug": "opencode",
@@ -745,16 +765,6 @@
         "id": 331,
         "name": "KMPlayer 4.2.3.33 For Windows 32bit",
         "slug": "kmplayer-for-windows-32bit",
-        "cat": "Media Player",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769445419/software-mirrors/rufvg5hchjhp8c0lpafh.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 176,
-        "name": "KMPlayer 2026.2.23.17 For Windows 64bit",
-        "slug": "kmplayer",
         "cat": "Media Player",
         "price": 0,
         "normal_price": 0,
