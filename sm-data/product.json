@@ -2,6 +2,96 @@
   {
     "results": [
       {
+        "id": 335,
+        "name": "NTLite 2026.03.10901",
+        "slug": "ntlite",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 209,
+        "name": "Light Image Resizer 7.6.1.165 Corporate - Discount 25% OFF",
+        "slug": "light-image-resizer-corporate-discount-25-off",
+        "cat": "Image Editor",
+        "price": 125.25,
+        "normal_price": 167,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770457121/software-mirrors/f2yeyjwbqjozoxb8an7z.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 208,
+        "name": "Light Image Resizer 7.6.1.165 Pro - Discount 25% OFF",
+        "slug": "light-image-resizer-discount-25-off",
+        "cat": "Image Editor",
+        "price": 18.74,
+        "normal_price": 24.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770457121/software-mirrors/f2yeyjwbqjozoxb8an7z.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 173,
+        "name": "WinSCP 6.5.6",
+        "slug": "winscp",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769342516/software-mirrors/tjnzoybejav4qckkok3j.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.3.24",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 99,
+        "name": "Visual Studio Code (VSCode) 1.113.0",
+        "slug": "visual-studio-code",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765353640/software-mirrors/z5ksoesbedomymohrwde.webp\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 343,
+        "name": "Resend CLI v1.7.0",
+        "slug": "resend-cli-1-6-0",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774410883/software-mirrors/m7bbltwz2yrhpgwiq4nw.gif\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 184,
+        "name": "PRTG Network Monitor 26.1.118.1380",
+        "slug": "prtg-network-monitor",
+        "cat": "Monitoring Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769709693/software-mirrors/yzm9wiezqcnavdfcdla2.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 278,
+        "name": "CCleaner Free v7.06.1270 - Offline Installer",
+        "slug": "ccleaner-free-offline-installer",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772184336/software-mirrors/ukm02zc6g5fctrrshm5h.webp\"]",
+        "rating": 4
+      },
+      {
         "id": 341,
         "name": "Nuclear Music Player v1.27.0",
         "slug": "nuclear-music-player",
@@ -72,16 +162,6 @@
         "rating": 4.3
       },
       {
-        "id": 335,
-        "name": "NTLite 2026.03.10899",
-        "slug": "ntlite",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
-        "rating": 4.5
-      },
-      {
         "id": 344,
         "name": "FreeCAD 1.1.0",
         "slug": "freecad",
@@ -90,26 +170,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774442407/software-mirrors/n1uvmrv1l2ft9abcuknz.jpg\"]",
         "rating": 4.3
-      },
-      {
-        "id": 209,
-        "name": "Light Image Resizer 7.6.1.164 Corporate - Discount 25% OFF",
-        "slug": "light-image-resizer-corporate-discount-25-off",
-        "cat": "Image Editor",
-        "price": 125.25,
-        "normal_price": 167,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770457121/software-mirrors/f2yeyjwbqjozoxb8an7z.webp\"]",
-        "rating": 4.4
-      },
-      {
-        "id": 208,
-        "name": "Light Image Resizer 7.6.1.164 Pro - Discount 25% OFF",
-        "slug": "light-image-resizer-discount-25-off",
-        "cat": "Image Editor",
-        "price": 18.74,
-        "normal_price": 24.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770457121/software-mirrors/f2yeyjwbqjozoxb8an7z.webp\"]",
-        "rating": 4.4
       },
       {
         "id": 142,
@@ -170,16 +230,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
         "rating": 4.3
-      },
-      {
-        "id": 343,
-        "name": "Resend CLI v1.6.0",
-        "slug": "resend-cli-1-6-0",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774410883/software-mirrors/m7bbltwz2yrhpgwiq4nw.gif\"]",
-        "rating": 4.6
       },
       {
         "id": 318,
@@ -280,16 +330,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765352807/software-mirrors/h0vguhqxrgsm74kjuxs3.webp\"]",
         "rating": 5
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.3.23",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 342,
@@ -470,16 +510,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769994017/software-mirrors/jlqe2tqlpw5gvhb3yhpj.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 173,
-        "name": "WinSCP 6.5.5",
-        "slug": "winscp",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769342516/software-mirrors/tjnzoybejav4qckkok3j.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 96,
@@ -720,16 +750,6 @@
         "normal_price": 49.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764618078/software-mirrors/mx5tbhdjvrwdjpnfehaj.png\"]",
         "rating": 4.3
-      },
-      {
-        "id": 99,
-        "name": "Visual Studio Code (VSCode) 1.112.0",
-        "slug": "visual-studio-code",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765353640/software-mirrors/z5ksoesbedomymohrwde.webp\"]",
-        "rating": 4.9
       },
       {
         "id": 11,
@@ -2212,16 +2232,6 @@
         "rating": 4.7
       },
       {
-        "id": 278,
-        "name": "CCleaner Free v7.05.1255 - Offline Installer",
-        "slug": "ccleaner-free-offline-installer",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772184336/software-mirrors/ukm02zc6g5fctrrshm5h.webp\"]",
-        "rating": 4
-      },
-      {
         "id": 141,
         "name": "CapCut For MacOS 5.7.1.2100 Offline Installer",
         "slug": "capcut-for-macos-offline-installer",
@@ -3190,16 +3200,6 @@
         "normal_price": 29.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770791763/software-mirrors/ygbr9miqeubsodiq12px.webp\"]",
         "rating": 4.4
-      },
-      {
-        "id": 184,
-        "name": "PRTG Network Monitor 26.1.116.1532",
-        "slug": "prtg-network-monitor",
-        "cat": "Monitoring Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769709693/software-mirrors/yzm9wiezqcnavdfcdla2.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 65,
