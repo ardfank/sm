@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 183,
+        "name": "WonderFox HD Video Converter Factory Pro 28.8 Lifetime - Discount 70% OFF",
+        "slug": "wonderfox-hd-video-converter-factory-pro-lifetime-discount-70-off",
+        "cat": "Video Editor",
+        "price": 14.95,
+        "normal_price": 49.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769603089/software-mirrors/ahaswmbtkywrkrrt2jf0.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 345,
+        "name": "Strix v0.8.3 - AI Penetration Testing Tools",
+        "slug": "strix-ai-penetration-testing-tools",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774449602/software-mirrors/spe6mw2yonqd3pi1bce8.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 335,
+        "name": "NTLite 2026.03.10899",
+        "slug": "ntlite",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
+        "rating": 4.5
+      },
+      {
         "id": 344,
         "name": "FreeCAD 1.1.0",
         "slug": "freecad",
@@ -629,16 +659,6 @@
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 335,
-        "name": "NTLite 2026.03.10889",
-        "slug": "ntlite",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
         "rating": 4.5
       },
       {
@@ -1610,16 +1630,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769859309/software-mirrors/wlcuzwflydvgb9k0qkkm.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 183,
-        "name": "WonderFox HD Video Converter Factory Pro 28.7 Lifetime - Discount 70% OFF",
-        "slug": "wonderfox-hd-video-converter-factory-pro-lifetime-discount-70-off",
-        "cat": "Video Editor",
-        "price": 14.95,
-        "normal_price": 49.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769603089/software-mirrors/ahaswmbtkywrkrrt2jf0.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 4,
