@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 142,
+        "name": "CapCut APK For Android 17.2.0.apk",
+        "slug": "capcut-apk-for-android",
+        "cat": "Video Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767634443/software-mirrors/ohru8dccvyq5iahcaupj.jpg\"]",
+        "rating": 4.8
+      },
+      {
         "id": 74,
         "name": "IObit Advanced SystemCare 19.3.0 PRO (2 year subscription / 3 PC) Discount 70% OFF",
         "slug": "iobit-advanced-systemcare-19-pro-2-year-subscription-3-pc-black-friday-discount-70-off",
@@ -3200,16 +3210,6 @@
         "normal_price": 39.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764700012/software-mirrors/stdutl3zaf8ljaokv0rk.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 142,
-        "name": "CapCut APK For Android 16.0.0.apk",
-        "slug": "capcut-apk-for-android",
-        "cat": "Video Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767634443/software-mirrors/ohru8dccvyq5iahcaupj.jpg\"]",
-        "rating": 4.8
       },
       {
         "id": 213,
