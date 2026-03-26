@@ -2,6 +2,116 @@
   {
     "results": [
       {
+        "id": 318,
+        "name": "OpenCode v1.3.3",
+        "slug": "opencode",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 76,
+        "name": "LibreOffice 26.2.2 Final",
+        "slug": "libreoffice-final",
+        "cat": "Office Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764557757/software-mirrors/siujuiolwy8c0quuamde.jpg\"]",
+        "rating": 5
+      },
+      {
+        "id": 78,
+        "name": "Advanced SystemCare Ultimate 18.2.0 (1 year subscription / 3 PCs) - Discount 50% OFF",
+        "slug": "advanced-systemcare-ultimate-18-1-year-subscription-3-pcs-discount-50-off",
+        "cat": "Antivirus",
+        "price": 23.99,
+        "normal_price": 49.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764618078/software-mirrors/mx5tbhdjvrwdjpnfehaj.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 98,
+        "name": "ytdlp-interface v2.19.0",
+        "slug": "ytdlp-interface",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765298695/software-mirrors/nb8qpdlwij6wzp1xbd2s.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765297943/software-mirrors/kcinycwhq6p2guoqa8li.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 244,
+        "name": "VueScan 9.8.53",
+        "slug": "vuescan",
+        "cat": "Office Tools",
+        "price": 14.96,
+        "normal_price": 19.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771602847/software-mirrors/ljapqoff54nt3qo0iwpi.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 341,
+        "name": "Nuclear Music Player v1.28.0",
+        "slug": "nuclear-music-player",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774262388/software-mirrors/wlqpjs1g5spfxotzhg2u.webp\"]",
+        "rating": 4.1
+      },
+      {
+        "id": 194,
+        "name": "Postman 12.3.4",
+        "slug": "postman",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 300,
+        "name": "Icecream Screen Recorder 7.46 PRO - Yearly - Discount 15% OFF",
+        "slug": "icecream-screen-recorder-pro-yearly-discount-25-off",
+        "cat": "Screen Recorder",
+        "price": 25.46,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772766681/software-mirrors/ozeaklycxykgcoy5cy9a.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 299,
+        "name": "Icecream Screen Recorder 7.46 PRO - Lifetime - Discount 25% OFF",
+        "slug": "icecream-screen-recorder-pro-lifetime-discount-25-off",
+        "cat": "Screen Recorder",
+        "price": 59.95,
+        "normal_price": 79.93,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772766681/software-mirrors/ozeaklycxykgcoy5cy9a.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 338,
+        "name": "OpenAI Codex App 26.324.21641 for macOS",
+        "slug": "openai-codex-app-for-macos",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 339,
+        "name": "Kudu v1.28.0 - Free System Maintenance Tools",
+        "slug": "kudu-free-system-maintenance-tools",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
+        "rating": 4.3
+      },
+      {
         "id": 130,
         "name": "Opera GX 129.0.5823.26 Offline Installer",
         "slug": "opera-gx",
@@ -30,16 +140,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770110355/software-mirrors/qeexqa268vrhjborfks4.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 339,
-        "name": "Kudu v1.28.0 - Free System Maintenance Tools",
-        "slug": "kudu-free-system-maintenance-tools",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
-        "rating": 4.3
       },
       {
         "id": 335,
@@ -172,36 +272,6 @@
         "rating": 4
       },
       {
-        "id": 341,
-        "name": "Nuclear Music Player v1.27.0",
-        "slug": "nuclear-music-player",
-        "cat": "Media Player",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774262388/software-mirrors/wlqpjs1g5spfxotzhg2u.webp\"]",
-        "rating": 4.1
-      },
-      {
-        "id": 194,
-        "name": "Postman 12.3.2",
-        "slug": "postman",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 338,
-        "name": "OpenAI Codex App 26.323.20928 for macOS",
-        "slug": "openai-codex-app-for-macos",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 215,
         "name": "AionUI v1.9.1",
         "slug": "aionui",
@@ -290,16 +360,6 @@
         "normal_price": 22.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKQFvYy4B8bt7IhAH9vjWCqNtNvgArxORULGmE3EksfpZRGt9E0SpvGJ79u2N9AN5syS7fKiQEcqMUy3_u_CJFfyaXvglUsbUdIWud3IM858LvSVn1AecEdDNeowDuLLnHwJN4OrfFGIvT6GUUiTo8wXmZkKezz49LY4GCUyBS69GvlfcnMKW6y_Ep4kU/s500-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiLJNQe4VdkF-ljwSLqsbKyD8iMJ3qrhJMWIq1-IiaZenuEBytuo_FjU6zQ-KQ97cDySWMLbqS8w7tGxSPfH4Z-2TCC7yBUwma-1wzMLurFlCGn2CkV_d_NJpCkVU4SOg7Or4wZHUuwx4AIzTCFc3WQ29MpeylEteHSqvOrqUy606I6Mne0WhGpUW/s500-rw/classi.qzz.png\"]",
         "rating": 3.9
-      },
-      {
-        "id": 318,
-        "name": "OpenCode v1.3.2",
-        "slug": "opencode",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
-        "rating": 4.4
       },
       {
         "id": 250,
@@ -662,16 +722,6 @@
         "rating": 4.8
       },
       {
-        "id": 98,
-        "name": "ytdlp-interface v2.18.2",
-        "slug": "ytdlp-interface",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765298695/software-mirrors/nb8qpdlwij6wzp1xbd2s.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765297943/software-mirrors/kcinycwhq6p2guoqa8li.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 26,
         "name": "Presenti AI V1.32 - 500,000 Credits Discount 20% OFF",
         "slug": "presenti-ai-500-000-credits-discount-20-off",
@@ -780,16 +830,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769882717/software-mirrors/gocq1ltmipqcoc22koyr.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 78,
-        "name": "Advanced SystemCare Ultimate 18.1.0 (1 year subscription / 3 PCs) - Discount 50% OFF",
-        "slug": "advanced-systemcare-ultimate-18-1-year-subscription-3-pcs-discount-50-off",
-        "cat": "Antivirus",
-        "price": 23.99,
-        "normal_price": 49.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764618078/software-mirrors/mx5tbhdjvrwdjpnfehaj.png\"]",
-        "rating": 4.3
       },
       {
         "id": 11,
@@ -1982,26 +2022,6 @@
         "rating": 4.5
       },
       {
-        "id": 299,
-        "name": "Icecream Screen Recorder 7.45 PRO - Lifetime - Discount 25% OFF",
-        "slug": "icecream-screen-recorder-pro-lifetime-discount-25-off",
-        "cat": "Screen Recorder",
-        "price": 59.95,
-        "normal_price": 79.93,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772766681/software-mirrors/ozeaklycxykgcoy5cy9a.webp\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 300,
-        "name": "Icecream Screen Recorder 7.45 PRO - Yearly - Discount 15% OFF",
-        "slug": "icecream-screen-recorder-pro-yearly-discount-25-off",
-        "cat": "Screen Recorder",
-        "price": 25.46,
-        "normal_price": 29.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772766681/software-mirrors/ozeaklycxykgcoy5cy9a.webp\"]",
-        "rating": 4.3
-      },
-      {
         "id": 95,
         "name": "SEO SpyGlass 6.63.15 Professional - Yearly",
         "slug": "seo-spyglass-professional-yearly",
@@ -2340,16 +2360,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765654570/software-mirrors/lnb7fqwck9x2lwpz9fb8.webp\"]",
         "rating": 4.2
-      },
-      {
-        "id": 76,
-        "name": "LibreOffice 26.2.1 Final",
-        "slug": "libreoffice-final",
-        "cat": "Office Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764557757/software-mirrors/siujuiolwy8c0quuamde.jpg\"]",
-        "rating": 5
       },
       {
         "id": 116,
@@ -2780,16 +2790,6 @@
         "normal_price": 59.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 244,
-        "name": "VueScan 9.8.52",
-        "slug": "vuescan",
-        "cat": "Office Tools",
-        "price": 14.96,
-        "normal_price": 19.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771602847/software-mirrors/ljapqoff54nt3qo0iwpi.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 33,
