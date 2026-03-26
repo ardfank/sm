@@ -2,6 +2,56 @@
   {
     "results": [
       {
+        "id": 130,
+        "name": "Opera GX 129.0.5823.26 Offline Installer",
+        "slug": "opera-gx",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 195,
+        "name": "Opera One 129.0.5823.28 Offline Installer",
+        "slug": "opera-one-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 196,
+        "name": "Opera Air 129.0.5823.27 Offline Installer",
+        "slug": "opera-air-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770110355/software-mirrors/qeexqa268vrhjborfks4.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 339,
+        "name": "Kudu v1.28.0 - Free System Maintenance Tools",
+        "slug": "kudu-free-system-maintenance-tools",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 335,
+        "name": "NTLite 2026.03.10902",
+        "slug": "ntlite",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
+        "rating": 4.5
+      },
+      {
         "id": 160,
         "name": "Wise Care 365 7.3.5.722 Pro (Lifetime license / 3 PCs) - Discount 40% OFF",
         "slug": "wise-care-365-pro-lifetime-license-3-pcs-discount-40-off",
@@ -40,16 +90,6 @@
         "normal_price": 18.9,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770472261/software-mirrors/x6vwnf16j4ylmfdfezmp.webp\"]",
         "rating": 4.3
-      },
-      {
-        "id": 335,
-        "name": "NTLite 2026.03.10901",
-        "slug": "ntlite",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 209,
@@ -172,16 +212,6 @@
         "rating": 4.6
       },
       {
-        "id": 195,
-        "name": "Opera One 129.0.5823.22 Offline Installer",
-        "slug": "opera-one-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
-        "rating": 4.6
-      },
-      {
         "id": 183,
         "name": "WonderFox HD Video Converter Factory Pro 28.8 Lifetime - Discount 70% OFF",
         "slug": "wonderfox-hd-video-converter-factory-pro-lifetime-discount-70-off",
@@ -260,16 +290,6 @@
         "normal_price": 22.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKQFvYy4B8bt7IhAH9vjWCqNtNvgArxORULGmE3EksfpZRGt9E0SpvGJ79u2N9AN5syS7fKiQEcqMUy3_u_CJFfyaXvglUsbUdIWud3IM858LvSVn1AecEdDNeowDuLLnHwJN4OrfFGIvT6GUUiTo8wXmZkKezz49LY4GCUyBS69GvlfcnMKW6y_Ep4kU/s500-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiLJNQe4VdkF-ljwSLqsbKyD8iMJ3qrhJMWIq1-IiaZenuEBytuo_FjU6zQ-KQ97cDySWMLbqS8w7tGxSPfH4Z-2TCC7yBUwma-1wzMLurFlCGn2CkV_d_NJpCkVU4SOg7Or4wZHUuwx4AIzTCFc3WQ29MpeylEteHSqvOrqUy606I6Mne0WhGpUW/s500-rw/classi.qzz.png\"]",
         "rating": 3.9
-      },
-      {
-        "id": 339,
-        "name": "Kudu v1.26.0 - Free System Maintenance Tools",
-        "slug": "kudu-free-system-maintenance-tools",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
-        "rating": 4.3
       },
       {
         "id": 318,
@@ -730,16 +750,6 @@
         "normal_price": 115.8,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiczyF1ntdK7LBvtYvuT9LO2qYq2gru0NE1HjcED8c2uFVNq02v0XVTpdSKV6c7FFrZP75HDT6gmNMTnZRhOiZ4y4G40HqOaHpCKUsUt20qyNkR_BBJyOrPYJQ6invhFp6tMtyOLdwee1kIXn1Gb-9Js4huZzgu_vIApeUGJ0yWG8ZZqVf_C8PeiUS9TOS7/s500-rw/incomedia-website-x5-evo-software-mirrors.webp\"]",
         "rating": 4
-      },
-      {
-        "id": 130,
-        "name": "Opera GX 128.0.5807.97 Offline Installer",
-        "slug": "opera-gx",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 190,
@@ -1379,16 +1389,6 @@
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1768460661/software-mirrors/wyuurcaromudqmdfvthz.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 196,
-        "name": "Opera Air 128.0.5807.79 Offline Installer",
-        "slug": "opera-air-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770110355/software-mirrors/qeexqa268vrhjborfks4.webp\"]",
         "rating": 4.5
       },
       {
