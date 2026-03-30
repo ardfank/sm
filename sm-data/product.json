@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 196,
+        "name": "Opera Air 129.0.5823.34 Offline Installer",
+        "slug": "opera-air-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770110355/software-mirrors/qeexqa268vrhjborfks4.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 108,
+        "name": "MEmu Android Emulator 9.5.1 Offline Installer",
+        "slug": "memu-android-emulator-offline-installer",
+        "cat": "Emulator",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765706625/software-mirrors/sb0c1vmb4fqfbvovdrrb.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 54,
         "name": "Movavi Video Editor 2026 26.12.0",
         "slug": "movavi-video-editor-2026",
@@ -550,16 +570,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
         "rating": 4.6
-      },
-      {
-        "id": 196,
-        "name": "Opera Air 129.0.5823.27 Offline Installer",
-        "slug": "opera-air-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770110355/software-mirrors/qeexqa268vrhjborfks4.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 160,
@@ -2170,16 +2180,6 @@
         "normal_price": 29.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769276964/software-mirrors/vvc7aqajyottmlxdqhj7.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 108,
-        "name": "MEmu Android Emulator 9.5.0 Offline Installer",
-        "slug": "memu-android-emulator-offline-installer",
-        "cat": "Emulator",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765706625/software-mirrors/sb0c1vmb4fqfbvovdrrb.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 303,
