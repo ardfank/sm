@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.1",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 99,
+        "name": "Visual Studio Code (VSCode) 1.114.0",
+        "slug": "visual-studio-code",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765353640/software-mirrors/z5ksoesbedomymohrwde.webp\"]",
+        "rating": 4.9
+      },
+      {
         "id": 116,
         "name": "RegRun Security Suite 18.10.2026.331",
         "slug": "regrun-security-suite",
@@ -180,16 +200,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.3.31",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 115,
@@ -990,16 +1000,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769342516/software-mirrors/tjnzoybejav4qckkok3j.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 99,
-        "name": "Visual Studio Code (VSCode) 1.113.0",
-        "slug": "visual-studio-code",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765353640/software-mirrors/z5ksoesbedomymohrwde.webp\"]",
-        "rating": 4.9
       },
       {
         "id": 184,
