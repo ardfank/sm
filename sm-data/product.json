@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 116,
+        "name": "RegRun Security Suite 18.10.2026.331",
+        "slug": "regrun-security-suite",
+        "cat": "Antivirus",
+        "price": 83.19,
+        "normal_price": 83.19,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765990681/software-mirrors/fqeb6wuqptktdsjv8tf6.webp\"]",
+        "rating": 3.4
+      },
+      {
+        "id": 343,
+        "name": "Resend CLI v1.8.0",
+        "slug": "resend-cli-1-6-0",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774410883/software-mirrors/m7bbltwz2yrhpgwiq4nw.gif\"]",
+        "rating": 4.6
+      },
+      {
         "id": 341,
         "name": "Nuclear Music Player v1.31.0",
         "slug": "nuclear-music-player",
@@ -690,16 +710,6 @@
         "normal_price": 29.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimOY1OGpc3Z1SXSqF5eFizp_pcTGHKdy64VVnAKRqI7mvr6iNK59dsg10y60Wmp6_mQeHv15-kHkbRsOPWB3cRze5EZdawzlGM78YqCN8L6ZrB2HEr4om0wcku6Kpsa4D88l50VbJ7giM8MPkdGQLQadTqdhrfd5wsoqpCyBfczZsVaz8ggQfcJ1UIhi6R/s1600-rw/5.png\",\"https://secure.2checkout.com/images/merchant/2387337ba1e0b0249ba90f55b2ba2521/products/1_box-200x200.png\"]",
         "rating": 4.7
-      },
-      {
-        "id": 343,
-        "name": "Resend CLI v1.7.1",
-        "slug": "resend-cli-1-6-0",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774410883/software-mirrors/m7bbltwz2yrhpgwiq4nw.gif\"]",
-        "rating": 4.6
       },
       {
         "id": 335,
@@ -2630,16 +2640,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765654570/software-mirrors/lnb7fqwck9x2lwpz9fb8.webp\"]",
         "rating": 4.2
-      },
-      {
-        "id": 116,
-        "name": "RegRun Security Suite 18.0.2026.225",
-        "slug": "regrun-security-suite",
-        "cat": "Antivirus",
-        "price": 83.19,
-        "normal_price": 83.19,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765990681/software-mirrors/fqeb6wuqptktdsjv8tf6.webp\"]",
-        "rating": 3.4
       },
       {
         "id": 272,
