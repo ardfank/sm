@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 360,
+        "name": "Telegram v6.7.2 Desktop App",
+        "slug": "telegram-desktop-app",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775308341/software-mirrors/dfmf9hcureg5fovbfbzn.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 25,
+        "name": "GIMP 3.2.2",
+        "slug": "gimp",
+        "cat": "Image Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1cFb0zruK2eOEHxKl7rHr38cHPpA6N0OhoVyVpcOkKDzBQDh0U7TQDNpwG91MHH1NgTqvbiIQXq675_UIu0HhHJiRkLqy5nt6pFj3d16_0mY0R0cAt8Lj37V0Cc3ajJ61b5gWMY6j50I/s1600-rw/Classi.Qzz.io-GIMP.jpeg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5s46JKTeypo574ZuXR2OzHKdUgFwYLW3vTQhwt20T1RdjSDd7rdoeqKSIC6Jpkt1ZWiOgd4I9kkwYJJCESOOqwCmKUqEekxZqpM-YEyjEfC-IR8uR0fnnqcmju8mOfWI0rCDO9SEdof8/s1600-rw/gimp+theme.jpg\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 21,
+        "name": "Picture Collage Maker 4.1.4 PRO - Discount 20% OFF",
+        "slug": "picture-collage-maker-pro-discount-20-off",
+        "cat": "Image Editor",
+        "price": 31.92,
+        "normal_price": 39.9,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771336278/software-mirrors/mwz24buqwbkpy7hr6yxa.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
+        "rating": 4.5
+      },
+      {
         "id": 252,
         "name": "ManyCam Windows 9.2.0.4 / Mac 9.1.0.5 Enterprise (10 users / Annual) - Discount 49% OFF",
         "slug": "manycam-windows-mac-enterprise-10-users-annual-discount-45-off",
@@ -450,16 +480,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775064383/software-mirrors/hctuxi4usvwtrsakjgof.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 25,
-        "name": "GIMP 3.2.2",
-        "slug": "gimp",
-        "cat": "Image Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1cFb0zruK2eOEHxKl7rHr38cHPpA6N0OhoVyVpcOkKDzBQDh0U7TQDNpwG91MHH1NgTqvbiIQXq675_UIu0HhHJiRkLqy5nt6pFj3d16_0mY0R0cAt8Lj37V0Cc3ajJ61b5gWMY6j50I/s1600-rw/Classi.Qzz.io-GIMP.jpeg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5s46JKTeypo574ZuXR2OzHKdUgFwYLW3vTQhwt20T1RdjSDd7rdoeqKSIC6Jpkt1ZWiOgd4I9kkwYJJCESOOqwCmKUqEekxZqpM-YEyjEfC-IR8uR0fnnqcmju8mOfWI0rCDO9SEdof8/s1600-rw/gimp+theme.jpg\"]",
-        "rating": 4.3
       },
       {
         "id": 73,
@@ -3350,16 +3370,6 @@
         "normal_price": 29.9,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771336278/software-mirrors/mwz24buqwbkpy7hr6yxa.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
         "rating": 4.3
-      },
-      {
-        "id": 21,
-        "name": "Picture Collage Maker 4.1.4 PRO - Discount 20% OFF",
-        "slug": "picture-collage-maker-pro-discount-20-off",
-        "cat": "Image Editor",
-        "price": 31.92,
-        "normal_price": 39.9,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771336278/software-mirrors/mwz24buqwbkpy7hr6yxa.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
-        "rating": 4.5
       },
       {
         "id": 62,
