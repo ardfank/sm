@@ -452,6 +452,16 @@
         "rating": 4.5
       },
       {
+        "id": 25,
+        "name": "GIMP 3.2.2",
+        "slug": "gimp",
+        "cat": "Image Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1cFb0zruK2eOEHxKl7rHr38cHPpA6N0OhoVyVpcOkKDzBQDh0U7TQDNpwG91MHH1NgTqvbiIQXq675_UIu0HhHJiRkLqy5nt6pFj3d16_0mY0R0cAt8Lj37V0Cc3ajJ61b5gWMY6j50I/s1600-rw/Classi.Qzz.io-GIMP.jpeg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5s46JKTeypo574ZuXR2OzHKdUgFwYLW3vTQhwt20T1RdjSDd7rdoeqKSIC6Jpkt1ZWiOgd4I9kkwYJJCESOOqwCmKUqEekxZqpM-YEyjEfC-IR8uR0fnnqcmju8mOfWI0rCDO9SEdof8/s1600-rw/gimp+theme.jpg\"]",
+        "rating": 4.3
+      },
+      {
         "id": 73,
         "name": "Trellix Stinger (Formerly McAfee Stinger) 13.0.0.635",
         "slug": "trellix-stinger-formerly-mcafee-stinger",
@@ -900,16 +910,6 @@
         "normal_price": 29.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770791763/software-mirrors/ygbr9miqeubsodiq12px.webp\"]",
         "rating": 4.4
-      },
-      {
-        "id": 25,
-        "name": "GIMP 3.2.2",
-        "slug": "gimp",
-        "cat": "Image Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1cFb0zruK2eOEHxKl7rHr38cHPpA6N0OhoVyVpcOkKDzBQDh0U7TQDNpwG91MHH1NgTqvbiIQXq675_UIu0HhHJiRkLqy5nt6pFj3d16_0mY0R0cAt8Lj37V0Cc3ajJ61b5gWMY6j50I/s1600-rw/Classi.Qzz.io-GIMP.jpeg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5s46JKTeypo574ZuXR2OzHKdUgFwYLW3vTQhwt20T1RdjSDd7rdoeqKSIC6Jpkt1ZWiOgd4I9kkwYJJCESOOqwCmKUqEekxZqpM-YEyjEfC-IR8uR0fnnqcmju8mOfWI0rCDO9SEdof8/s1600-rw/gimp+theme.jpg\"]",
-        "rating": 4.3
       },
       {
         "id": 338,
