@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 362,
+        "name": "Google AI Edge Gallery 1.0.11 Android APK",
+        "slug": "google-ai-edge-gallery-android-apk",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775394385/software-mirrors/ittpqdactjjnrkfhbzat.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 20,
+        "name": "Picture Collage Maker 4.1.4 - Discount 20% OFF",
+        "slug": "picture-collage-maker-discount-20-off",
+        "cat": "Image Editor",
+        "price": 23.92,
+        "normal_price": 29.9,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771336278/software-mirrors/mwz24buqwbkpy7hr6yxa.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
+        "rating": 4.3
+      },
+      {
         "id": 318,
         "name": "OpenCode v1.3.15",
         "slug": "opencode",
@@ -2592,16 +2612,6 @@
         "rating": 4.6
       },
       {
-        "id": 148,
-        "name": "IObit Malware Fighter 13.2.0 PRO (1 year subscription / 1 PCs) - Discount 20% OFF",
-        "slug": "iobit-malware-fighter-pro-1-year-subscription-1-pcs-discount-20-off",
-        "cat": "Antivirus",
-        "price": 15.96,
-        "normal_price": 19.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Clqgi1rK7JXSHeynHPeApJteinnmSzgXhAwlgeXY7eHkVKEpgsFSSQl8ggq26xexuJg05Hh-PYQssTncyGDzwlbP6GVa38bVbY3rAa4y5rLJCDOEMhvDV4AD5Iaa_CGcrOsOEHK7a-U/s1600-rw/software-mirrors.png\"]",
-        "rating": 4.4
-      },
-      {
         "id": 149,
         "name": "IObit Malware Fighter 13.2.0 PRO (1 Year Subscription, 3 PCs) - Discount 50% OFF",
         "slug": "iobit-malware-fighter-pro-1-year-subscription-3-pcs-discount-50-off",
@@ -2640,6 +2650,16 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772808478/software-mirrors/ubtgjdmfvydrfx6sz9rq.webp\"]",
         "rating": 4.6
+      },
+      {
+        "id": 148,
+        "name": "IObit Malware Fighter 13.2.0 PRO (1 year subscription / 1 PCs) - Discount 20% OFF",
+        "slug": "iobit-malware-fighter-pro-1-year-subscription-1-pcs-discount-20-off",
+        "cat": "Antivirus",
+        "price": 15.96,
+        "normal_price": 19.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Clqgi1rK7JXSHeynHPeApJteinnmSzgXhAwlgeXY7eHkVKEpgsFSSQl8ggq26xexuJg05Hh-PYQssTncyGDzwlbP6GVa38bVbY3rAa4y5rLJCDOEMhvDV4AD5Iaa_CGcrOsOEHK7a-U/s1600-rw/software-mirrors.png\"]",
+        "rating": 4.4
       },
       {
         "id": 60,
@@ -3400,16 +3420,6 @@
         "normal_price": 39.9,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771334117/software-mirrors/dgdpectfpp5ogbzxivjp.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
         "rating": 4.5
-      },
-      {
-        "id": 20,
-        "name": "Picture Collage Maker 4.1.4 - Discount 20% OFF",
-        "slug": "picture-collage-maker-discount-20-off",
-        "cat": "Image Editor",
-        "price": 23.92,
-        "normal_price": 29.9,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771336278/software-mirrors/mwz24buqwbkpy7hr6yxa.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
-        "rating": 4.3
       },
       {
         "id": 62,
