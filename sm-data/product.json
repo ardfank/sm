@@ -2,6 +2,66 @@
   {
     "results": [
       {
+        "id": 8,
+        "name": "DriverMax 17.11.12 (Lifetime Subscription) - Discount 75% OFF",
+        "slug": "drivermax-lifetime-subscription",
+        "cat": "Utilities",
+        "price": 37.25,
+        "normal_price": 149,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUeJVZxbnPsUJinrmEV7lLQhyphenhyphenCk9VzIPwdIEheyHnrZZe8XadYIAWXtQcrUuURbrMTBvlXna3uuLNpvBFwTGXrBXHe7iPl6tyQyRqXL-_KWgCCewDITXQqRDTmTiGDs-01FvnIU7KsNGzenKwoXadenoDR3obMyEHwjlMPLPcnE3ozNG1INulsPjW8k3sR/s1600-rw/classi.qzz.io.png\"]",
+        "rating": 3.5
+      },
+      {
+        "id": 351,
+        "name": "Onyx AI v3.1.2 Desktop App",
+        "slug": "onyx-ai",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 59,
+        "name": "Cursor 3.0.13",
+        "slug": "cursor",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.7",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 191,
+        "name": "Shotcut 26.4.6",
+        "slug": "shotcut",
+        "cat": "Video Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769966339/software-mirrors/mnb6rqwbjsxvvcrjkmpa.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 193,
+        "name": "Ollama 0.20.3",
+        "slug": "ollama",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 109,
         "name": "Malwarebytes 5.5.3.246 Offline Installer",
         "slug": "malwarebytes-offline-installer",
@@ -212,16 +272,6 @@
         "rating": 4.4
       },
       {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.5",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 192,
         "name": "DBeaver 26.0.2 Community Edition",
         "slug": "dbeaver-community-edition",
@@ -330,26 +380,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775324577/software-mirrors/q2bwtqsrg5zjnot4nahy.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 59,
-        "name": "Cursor 3.0.12",
-        "slug": "cursor",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 193,
-        "name": "Ollama 0.20.2",
-        "slug": "ollama",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 236,
@@ -780,16 +810,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774792542/software-mirrors/frc9dbgbzvyorljb3bvg.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 351,
-        "name": "Onyx AI v3.1.1 Desktop App",
-        "slug": "onyx-ai",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 115,
@@ -2912,16 +2932,6 @@
         "rating": 4.6
       },
       {
-        "id": 191,
-        "name": "Shotcut 26.2.26",
-        "slug": "shotcut",
-        "cat": "Video Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769966339/software-mirrors/mnb6rqwbjsxvvcrjkmpa.webp\"]",
-        "rating": 4.3
-      },
-      {
         "id": 279,
         "name": "CCleaner Free for Mac 2.10",
         "slug": "ccleaner-free-for-mac",
@@ -3338,16 +3348,6 @@
         "cat": "Utilities",
         "price": 14.44,
         "normal_price": 57.75,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUeJVZxbnPsUJinrmEV7lLQhyphenhyphenCk9VzIPwdIEheyHnrZZe8XadYIAWXtQcrUuURbrMTBvlXna3uuLNpvBFwTGXrBXHe7iPl6tyQyRqXL-_KWgCCewDITXQqRDTmTiGDs-01FvnIU7KsNGzenKwoXadenoDR3obMyEHwjlMPLPcnE3ozNG1INulsPjW8k3sR/s1600-rw/classi.qzz.io.png\"]",
-        "rating": 3.5
-      },
-      {
-        "id": 8,
-        "name": "DriverMax 17.11.12 (Lifetime Subscription) - Discount 75% OFF",
-        "slug": "drivermax-lifetime-subscription",
-        "cat": "Utilities",
-        "price": 37.25,
-        "normal_price": 149,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUeJVZxbnPsUJinrmEV7lLQhyphenhyphenCk9VzIPwdIEheyHnrZZe8XadYIAWXtQcrUuURbrMTBvlXna3uuLNpvBFwTGXrBXHe7iPl6tyQyRqXL-_KWgCCewDITXQqRDTmTiGDs-01FvnIU7KsNGzenKwoXadenoDR3obMyEHwjlMPLPcnE3ozNG1INulsPjW8k3sR/s1600-rw/classi.qzz.io.png\"]",
         "rating": 3.5
       },
