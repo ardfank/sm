@@ -2,6 +2,46 @@
   {
     "results": [
       {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.10",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 187,
+        "name": "LM Studio 0.4.11-1",
+        "slug": "lm-studio",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769882717/software-mirrors/gocq1ltmipqcoc22koyr.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 337,
+        "name": "ChatGPT MacOS app (10 Apr 2026)",
+        "slug": "chatgpt-macos-app",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773966741/software-mirrors/gbshc1bgproshcnhc2oo.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 36,
+        "name": "ChatGPT Atlas Browser 1.2026.84.2 for Mac",
+        "slug": "chatgpt-atlas-browser-for-mac",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLpEKzUo4mHNH0JLZqgBTuM5qD_hmKoKu8Jswy9MqHch3RRDn6sybZhHkucxR2MHJxwPG7YBUylFxAsXhsCb2mEydF3LSf829mfsYpvCUGK2hDRqQLJ73-bbO2_JI25bcmQNMmkK0fDtnkg9jMEgjmKO7PJ4TU_0uWqfa9Eqf9cVW6o8trstlZcWU4oFWp/s500-rw/Classi.Qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgajLZAMJhovAjAvcEbZs1nPpcuaC2YsJtm-9KUnvqqG0BEDRUQJQz2VbXm8df4QJSJ5tvdAUpMnQN6pmE-6jn1Uw-g1n4Bb4FagUk6girVnzeo0osjfaNCTxqlP4WFG4KGr0U4IZgo3JSSn-ziP-s4_Nx-28kugOiAmgl0dN3zHxDLTxQGOwBEMzc6H9og/s500-rw/Classi.Qzz.io.webp\"]",
+        "rating": 4
+      },
+      {
         "id": 137,
         "name": "Aiseesoft Total Media Converter 9.2.36 for Mac - Discount 20% OFF",
         "slug": "aiseesoft-total-media-converter-for-mac-discount",
@@ -342,26 +382,6 @@
         "rating": 4.5
       },
       {
-        "id": 337,
-        "name": "ChatGPT MacOS app (08 Apr 2026)",
-        "slug": "chatgpt-macos-app",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773966741/software-mirrors/gbshc1bgproshcnhc2oo.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 187,
-        "name": "LM Studio 0.4.10-1",
-        "slug": "lm-studio",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769882717/software-mirrors/gocq1ltmipqcoc22koyr.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 352,
         "name": "Next.js 16.2.3",
         "slug": "next-js",
@@ -380,16 +400,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769417761/software-mirrors/uaivmjaacctjhtifadun.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.9",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 99,
@@ -1600,16 +1610,6 @@
         "normal_price": 39.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimOY1OGpc3Z1SXSqF5eFizp_pcTGHKdy64VVnAKRqI7mvr6iNK59dsg10y60Wmp6_mQeHv15-kHkbRsOPWB3cRze5EZdawzlGM78YqCN8L6ZrB2HEr4om0wcku6Kpsa4D88l50VbJ7giM8MPkdGQLQadTqdhrfd5wsoqpCyBfczZsVaz8ggQfcJ1UIhi6R/s1600-rw/5.png\",\"https://secure.2checkout.com/images/merchant/2387337ba1e0b0249ba90f55b2ba2521/products/1_box-200x200.png\"]",
         "rating": 4.7
-      },
-      {
-        "id": 36,
-        "name": "ChatGPT Atlas Browser 1.2026.63.11 for Mac",
-        "slug": "chatgpt-atlas-browser-for-mac",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLpEKzUo4mHNH0JLZqgBTuM5qD_hmKoKu8Jswy9MqHch3RRDn6sybZhHkucxR2MHJxwPG7YBUylFxAsXhsCb2mEydF3LSf829mfsYpvCUGK2hDRqQLJ73-bbO2_JI25bcmQNMmkK0fDtnkg9jMEgjmKO7PJ4TU_0uWqfa9Eqf9cVW6o8trstlZcWU4oFWp/s500-rw/Classi.Qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgajLZAMJhovAjAvcEbZs1nPpcuaC2YsJtm-9KUnvqqG0BEDRUQJQz2VbXm8df4QJSJ5tvdAUpMnQN6pmE-6jn1Uw-g1n4Bb4FagUk6girVnzeo0osjfaNCTxqlP4WFG4KGr0U4IZgo3JSSn-ziP-s4_Nx-28kugOiAmgl0dN3zHxDLTxQGOwBEMzc6H9og/s500-rw/Classi.Qzz.io.webp\"]",
-        "rating": 4
       },
       {
         "id": 213,
