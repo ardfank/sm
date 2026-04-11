@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 32,
+        "name": "AVS4YOU 26.0.2.17 One Year Subscription",
+        "slug": "avs4you-one-year-subscription",
+        "cat": "Multimedia",
+        "price": 49,
+        "normal_price": 49,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijPF5ZcINciCey1Fs-r84StPqM8AIJ8fnfAAKAJczH7SFxs5RhcKIKbkdMM6vbiCPxY3iRiy3GliBMtGFdMKz4L3xq8mkfOY7ZNZ1t9VACXYp8lKHUwyw6AytTG_D9ppR1WB-AYO53oCJb8JbMnN9BTtNNlFb0KzzX3hX9jf39Ak2dv6_r9e5y_cgf3Mhq/s500-rw/AVS4YOU-software-mirrors.png\"]",
+        "rating": 3.8
+      },
+      {
+        "id": 342,
+        "name": "PentAGI 2.0.0",
+        "slug": "pentagi",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774292849/software-mirrors/gqjgw5h8g6rsw9snrys8.webp\"]",
+        "rating": 4.2
+      },
+      {
         "id": 338,
         "name": "OpenAI Codex App 26.409.20454 for macOS",
         "slug": "openai-codex-app-for-macos",
@@ -1922,16 +1942,6 @@
         "rating": 5
       },
       {
-        "id": 342,
-        "name": "PentAGI 1.2.0",
-        "slug": "pentagi",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774292849/software-mirrors/gqjgw5h8g6rsw9snrys8.webp\"]",
-        "rating": 4.2
-      },
-      {
         "id": 207,
         "name": "Aiarty Media Enhancer Bundle for Mac (Lifetime) - Discount 50% Off",
         "slug": "aiarty-media-enhancer-bundle-for-mac-lifetime-discount-50-off",
@@ -3260,16 +3270,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinRq9PiuaTyNjF9rj2UZBEp7noqxxZOVnR9mvisjr57KGwlSA5mZFliUOxSSlUd4IWTf17OqZgQ6kj1iA0-gWY8NSmge3vCpmwA1MvaC5QaIh8iLptCVdm6M6pc9htPWJ_5CUHSlZifE_bjqLESJrXub-VjiofhwM5ByWVdSZF9ElIIKtWpasvI3Q1F86J/s1600-rw/Classi.qzz.io.jpg\"]",
         "rating": 4.5
-      },
-      {
-        "id": 32,
-        "name": "AVS4YOU 26.0.2.17 One Year Subscription",
-        "slug": "avs4you-one-year-subscription",
-        "cat": "Multimedia",
-        "price": 49,
-        "normal_price": 49,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijPF5ZcINciCey1Fs-r84StPqM8AIJ8fnfAAKAJczH7SFxs5RhcKIKbkdMM6vbiCPxY3iRiy3GliBMtGFdMKz4L3xq8mkfOY7ZNZ1t9VACXYp8lKHUwyw6AytTG_D9ppR1WB-AYO53oCJb8JbMnN9BTtNNlFb0KzzX3hX9jf39Ak2dv6_r9e5y_cgf3Mhq/s500-rw/AVS4YOU-software-mirrors.png\"]",
-        "rating": 3.8
       },
       {
         "id": 77,
