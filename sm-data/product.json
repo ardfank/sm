@@ -3,13 +3,33 @@
     "results": [
       {
         "id": 363,
-        "name": "Multica v0.1.29",
+        "name": "Multica v0.1.30",
         "slug": "multica",
         "cat": "Developer Tools",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776091326/software-mirrors/fm7msqyhadauf0hs0oim.webp\"]",
         "rating": 4.5
+      },
+      {
+        "id": 351,
+        "name": "Onyx AI v3.2.2 Desktop App",
+        "slug": "onyx-ai",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 343,
+        "name": "Resend CLI v1.9.0",
+        "slug": "resend-cli",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774410883/software-mirrors/m7bbltwz2yrhpgwiq4nw.gif\"]",
+        "rating": 4.6
       },
       {
         "id": 54,
@@ -320,16 +340,6 @@
         "normal_price": 49.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheHltvlHkvexQIQ8xF9HZR_aiPLup63A3BLsD_TTtRReoPSkILpOLfT16w521SYk26J4xbXIu4SUdEcLYd0IZTxEDIref2jDrv6qcnFOb5UJvh_gEOUu_kqdrQH3h7boFjLOuZPsMkEOVMf7a2pDJGFRU8mewep9Lvmsl6H98qfe3nsjb_0Q7NS7CAeNB2/s600-rw/Classi.qzz.io.jpg\"]",
         "rating": 4.1
-      },
-      {
-        "id": 351,
-        "name": "Onyx AI v3.2.1 Desktop App",
-        "slug": "onyx-ai",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 175,
@@ -1189,16 +1199,6 @@
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770350060/software-mirrors/crfsjyu8obxsr8xuniez.jpg\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 343,
-        "name": "Resend CLI v1.8.0",
-        "slug": "resend-cli",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774410883/software-mirrors/m7bbltwz2yrhpgwiq4nw.gif\"]",
         "rating": 4.6
       },
       {
