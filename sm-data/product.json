@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 360,
+        "name": "Telegram v6.7.6 Desktop App",
+        "slug": "telegram-desktop-app",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775308341/software-mirrors/dfmf9hcureg5fovbfbzn.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 73,
+        "name": "Trellix Stinger (Formerly McAfee Stinger) 26.04.16.2",
+        "slug": "trellix-stinger-formerly-mcafee-stinger",
+        "cat": "Antivirus",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764506961/software-mirrors/laqnmlblhjje7yqr40x6.png\"]",
+        "rating": 4
+      },
+      {
+        "id": 331,
+        "name": "KMPlayer 4.2.3.34 For Windows 32bit",
+        "slug": "kmplayer-for-windows-32bit",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769445419/software-mirrors/rufvg5hchjhp8c0lpafh.webp\"]",
+        "rating": 4.5
+      },
+      {
         "id": 318,
         "name": "OpenCode v1.4.6",
         "slug": "opencode",
@@ -100,16 +130,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776183369/software-mirrors/eiijg5ue9ipdwx5wodfg.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 73,
-        "name": "Trellix Stinger (Formerly McAfee Stinger) 26.04.16.xxx",
-        "slug": "trellix-stinger-formerly-mcafee-stinger",
-        "cat": "Antivirus",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764506961/software-mirrors/laqnmlblhjje7yqr40x6.png\"]",
-        "rating": 4
       },
       {
         "id": 194,
@@ -920,16 +940,6 @@
         "normal_price": 57.75,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUeJVZxbnPsUJinrmEV7lLQhyphenhyphenCk9VzIPwdIEheyHnrZZe8XadYIAWXtQcrUuURbrMTBvlXna3uuLNpvBFwTGXrBXHe7iPl6tyQyRqXL-_KWgCCewDITXQqRDTmTiGDs-01FvnIU7KsNGzenKwoXadenoDR3obMyEHwjlMPLPcnE3ozNG1INulsPjW8k3sR/s1600-rw/classi.qzz.io.png\"]",
         "rating": 3.5
-      },
-      {
-        "id": 360,
-        "name": "Telegram v6.7.5 Desktop App",
-        "slug": "telegram-desktop-app",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775308341/software-mirrors/dfmf9hcureg5fovbfbzn.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 124,
@@ -2540,16 +2550,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773684322/software-mirrors/e8er2fzhhsfmbbcadzdn.webp\"]",
         "rating": 4.3
-      },
-      {
-        "id": 331,
-        "name": "KMPlayer 4.2.3.33 For Windows 32bit",
-        "slug": "kmplayer-for-windows-32bit",
-        "cat": "Media Player",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769445419/software-mirrors/rufvg5hchjhp8c0lpafh.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 326,
