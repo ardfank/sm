@@ -2,6 +2,66 @@
   {
     "results": [
       {
+        "id": 318,
+        "name": "OpenCode v1.4.8",
+        "slug": "opencode",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 341,
+        "name": "Nuclear Music Player v1.34.0",
+        "slug": "nuclear-music-player",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774262388/software-mirrors/wlqpjs1g5spfxotzhg2u.webp\"]",
+        "rating": 4.1
+      },
+      {
+        "id": 338,
+        "name": "OpenAI Codex App 26.415.21839 for macOS",
+        "slug": "openai-codex-app-for-macos",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 214,
+        "name": "GitButler 0.19.8",
+        "slug": "gitbutler",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770569757/software-mirrors/axcdfwds9htzu21siiyp.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 205,
+        "name": "Trivy 0.70.0",
+        "slug": "trivy",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770383422/software-mirrors/jjdvousdqhuoffdlsh8c.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 339,
+        "name": "Kudu v1.35.0 - Free System Maintenance Tools",
+        "slug": "kudu-free-system-maintenance-tools",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
+        "rating": 4.3
+      },
+      {
         "id": 364,
         "name": "Voicebox v0.4.0",
         "slug": "voicebox",
@@ -40,16 +100,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765353640/software-mirrors/z5ksoesbedomymohrwde.webp\"]",
         "rating": 4.9
-      },
-      {
-        "id": 318,
-        "name": "OpenCode v1.4.7",
-        "slug": "opencode",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
-        "rating": 4.4
       },
       {
         "id": 46,
@@ -192,16 +242,6 @@
         "rating": 4.5
       },
       {
-        "id": 338,
-        "name": "OpenAI Codex App 26.415.20818 for macOS",
-        "slug": "openai-codex-app-for-macos",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 268,
         "name": "GreenCloud Printer 7.9.4.0 Pro - Discount 25% OFF",
         "slug": "greencloud-printer-pro-discount-25-off",
@@ -300,16 +340,6 @@
         "normal_price": 149.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771776576/software-mirrors/jbijlu4vozlplyojg56l.webp\"]",
         "rating": 4.2
-      },
-      {
-        "id": 341,
-        "name": "Nuclear Music Player v1.33.3",
-        "slug": "nuclear-music-player",
-        "cat": "Media Player",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774262388/software-mirrors/wlqpjs1g5spfxotzhg2u.webp\"]",
-        "rating": 4.1
       },
       {
         "id": 194,
@@ -1292,16 +1322,6 @@
         "rating": 4.6
       },
       {
-        "id": 339,
-        "name": "Kudu v1.34.0 - Free System Maintenance Tools",
-        "slug": "kudu-free-system-maintenance-tools",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
-        "rating": 4.3
-      },
-      {
         "id": 22,
         "name": "Picture Collage Maker 3.7.3 For Mac - Discount 20% OFF",
         "slug": "picture-collage-maker-for-mac-discount-20-off",
@@ -1499,16 +1519,6 @@
         "price": 89.1,
         "normal_price": 99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771165745/software-mirrors/nb3ss7dq25aw6nxrbsnm.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 214,
-        "name": "GitButler 0.19.7",
-        "slug": "gitbutler",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770569757/software-mirrors/axcdfwds9htzu21siiyp.webp\"]",
         "rating": 4.5
       },
       {
@@ -3200,16 +3210,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772054780/software-mirrors/btq87mfzvwkwmdtey8ws.webp\"]",
         "rating": 4.4
-      },
-      {
-        "id": 205,
-        "name": "Trivy 0.69.3",
-        "slug": "trivy",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770383422/software-mirrors/jjdvousdqhuoffdlsh8c.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 141,
