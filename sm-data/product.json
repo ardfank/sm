@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 338,
+        "name": "OpenAI Codex App 26.415.32059 for macOS",
+        "slug": "openai-codex-app-for-macos",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 369,
+        "name": "AOMEI Partition Assistant 10.10.1 Technician (Yearly / Unlimited PCs & Servers) - Discount 30% Off",
+        "slug": "aomei-partition-assistant-10-10-1-technician-yearly-unlimited-pcs-servers-discount-30-off",
+        "cat": "Utilities",
+        "price": 419.3,
+        "normal_price": 599,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776526594/software-mirrors/bbzzevwgspdvdeca7f6p.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 368,
+        "name": "AOMEI Partition Assistant 10.10.1 Technician (Lifetime Upgrades / Unlimited PCs & Servers) - Discount 30% Off",
+        "slug": "aomei-partition-assistant-technician-lifetime-upgrades-unlimited-pcs-servers-discount-30-off",
+        "cat": "Utilities",
+        "price": 559.3,
+        "normal_price": 799,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776526594/software-mirrors/bbzzevwgspdvdeca7f6p.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 366,
         "name": "AOMEI Partition Assistant 10.10.1 Server (Lifetime Upgrades / 2 Servers) - Discount 30% Off",
         "slug": "aomei-partition-assistant-server-lifetime-upgrades-2-servers-discount-30-off",
@@ -10,6 +40,16 @@
         "normal_price": 249,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776523817/software-mirrors/v9d5kgkaq4646ofm4lpv.webp\"]",
         "rating": 4
+      },
+      {
+        "id": 367,
+        "name": "AOMEI Partition Assistant 10.10.1 Server Ultimate (Lifetime / Unlimited Servers) - Discount 30% Off",
+        "slug": "aomei-partition-assistant-server-ultimate-lifetime-unlimited-servers-discount-30-off",
+        "cat": "Utilities",
+        "price": 384.3,
+        "normal_price": 549,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776523817/software-mirrors/v9d5kgkaq4646ofm4lpv.webp\"]",
+        "rating": 4.6
       },
       {
         "id": 365,
@@ -110,16 +150,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 338,
-        "name": "OpenAI Codex App 26.415.30602 for macOS",
-        "slug": "openai-codex-app-for-macos",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 83,
