@@ -2,6 +2,86 @@
   {
     "results": [
       {
+        "id": 318,
+        "name": "OpenCode v1.14.18",
+        "slug": "opencode",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 192,
+        "name": "DBeaver 26.0.3 Community Edition",
+        "slug": "dbeaver-community-edition",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769994017/software-mirrors/jlqe2tqlpw5gvhb3yhpj.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 338,
+        "name": "OpenAI Codex App 26.415.40636 for macOS",
+        "slug": "openai-codex-app-for-macos",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 380,
+        "name": "AOMEI Backupper 8.2.0 Technician Plus (Lifetime Upgrades / Unlimited PCs & Servers) - Discount 82% Off",
+        "slug": "aomei-backupper-technician-plus-lifetime-upgrades-unlimited-pcs-servers-discount-82-off",
+        "cat": "Backup Tools",
+        "price": 180,
+        "normal_price": 999,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776617320/software-mirrors/uzpabm4nq29brngjiump.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 379,
+        "name": "AOMEI Backupper 8.2.0 Technician Plus (Yearly / Unlimited PCs & Servers) - Discount 30% Off",
+        "slug": "aomei-backupper-technician-plus-yearly-unlimited-pcs-servers-discount-30-off",
+        "cat": "Backup Tools",
+        "price": 489.3,
+        "normal_price": 699,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776617320/software-mirrors/uzpabm4nq29brngjiump.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 378,
+        "name": "AOMEI Backupper 8.2.0 Technician (Lifetime / Unlimited PCs) - Discount 80% Off",
+        "slug": "aomei-backupper-technician-lifetime-unlimited-pcs-discount-80-off",
+        "cat": "Backup Tools",
+        "price": 160,
+        "normal_price": 799,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776615991/software-mirrors/ldjfv6hjyeqcldmkbund.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 377,
+        "name": "AOMEI Backupper 8.2.0 Technician (Yearly / Unlimited PCs) - Discount 30% Off",
+        "slug": "aomei-backupper-technician-yearly-unlimited-pcs-discount-30-off",
+        "cat": "Backup Tools",
+        "price": 349.3,
+        "normal_price": 499,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776615991/software-mirrors/ldjfv6hjyeqcldmkbund.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 376,
+        "name": "AOMEI Backupper 8.2.0 Server (Lifetime / 1 Server) - Discount 75% Off",
+        "slug": "aomei-backupper-server-lifetime-1-server-discount-75-off",
+        "cat": "Backup Tools",
+        "price": 74.95,
+        "normal_price": 299,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764925974/software-mirrors/bd7nqg5s5isacvclqkrb.webp\"]",
+        "rating": 4.8
+      },
+      {
         "id": 375,
         "name": "AOMEI Backupper 8.2.0 Server (Yearly / 1 Server) - Discount 30% Off",
         "slug": "aomei-backupper-server-yearly-1-server-discount-30-off",
@@ -82,16 +162,6 @@
         "rating": 4.7
       },
       {
-        "id": 318,
-        "name": "OpenCode v1.14.17",
-        "slug": "opencode",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
-        "rating": 4.4
-      },
-      {
         "id": 94,
         "name": "Balabolka (version 2.15.0.915)",
         "slug": "balabolka",
@@ -130,16 +200,6 @@
         "normal_price": 69.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764769589/software-mirrors/cey2b11vfnvu4hywuysd.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 338,
-        "name": "OpenAI Codex App 26.415.32059 for macOS",
-        "slug": "openai-codex-app-for-macos",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 365,
@@ -1510,16 +1570,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767634443/software-mirrors/ohru8dccvyq5iahcaupj.jpg\"]",
         "rating": 4.8
-      },
-      {
-        "id": 192,
-        "name": "DBeaver 26.0.2 Community Edition",
-        "slug": "dbeaver-community-edition",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769994017/software-mirrors/jlqe2tqlpw5gvhb3yhpj.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 22,
