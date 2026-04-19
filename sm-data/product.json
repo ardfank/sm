@@ -2,6 +2,66 @@
   {
     "results": [
       {
+        "id": 375,
+        "name": "AOMEI Backupper 8.2.0 Server (Yearly / 1 Server) - Discount 30% Off",
+        "slug": "aomei-backupper-server-yearly-1-server-discount-30-off",
+        "cat": "Backup Tools",
+        "price": 104.3,
+        "normal_price": 149,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764925974/software-mirrors/bd7nqg5s5isacvclqkrb.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 374,
+        "name": "AOMEI Backupper 8.2.0 Professional (Lifetime / 1 PC) - Discount 76% Off",
+        "slug": "aomei-backupper-8-2-0-professional-lifetime-1-pc-discount-76-off",
+        "cat": "Backup Tools",
+        "price": 16.95,
+        "normal_price": 69.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764875634/software-mirrors/wvfsdhdqvuduw2xqapdq.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 65,
+        "name": "Atomix VirtualDJ Free Home Edition 2026 Build 9295",
+        "slug": "atomix-virtualdj-free-home-edition",
+        "cat": "Multimedia",
+        "price": 19,
+        "normal_price": 19,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRN9c0SvC3DA5bn_XCQatuoi1ZzFz5QUt0layd0l4kVcPWeXJ3NElDTYd9K2XnAfYwNn33m2cTItIgJQRX4ymr1sQhUTNSFRBlWtbPbkMs3Iqd_UHYEGTWQl9rSqYF7xMezL-Z__4ea8/s500-rw/atomix-virtualdj-free-home-edition-software-mirrors.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcnXY51a_oprrdrdSbq9rzY10TxDZ7L3VeNzpvd6Xiox-CDZ4dlC5ChRKHatzs2tbM0qLIORjybrHXcysTCQX5yuzsi6AgU9SDflKl2aD6LW8QZIqsro7ZjswLB32BaxThupCvz9OG5Viv/s500-rw/atomix-virtualdj-free-home-edition-software-mirrors.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 373,
+        "name": "AOMEI Backupper 8.2.0 Workstation (Lifetime / 5 PC) - Discount 75% Off",
+        "slug": "aomei-backupper-workstation-lifetime-5-pc-discount-75-off",
+        "cat": "Backup Tools",
+        "price": 99.95,
+        "normal_price": 399.75,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 372,
+        "name": "AOMEI Backupper 8.2.0 Workstation (Lifetime / 1 PC) - Discount 76% Off",
+        "slug": "aomei-backupper-workstation-lifetime-1-pc-discount-76-off",
+        "cat": "Backup Tools",
+        "price": 18.95,
+        "normal_price": 79.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 371,
+        "name": "AOMEI Backupper 8.2.0 Workstation (Yearly / 1 PC) - Discount 30% Off",
+        "slug": "aomei-backupper-workstation-yearly-1-pc-discount-30-off",
+        "cat": "Backup Tools",
+        "price": 34.97,
+        "normal_price": 49.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
+        "rating": 4
+      },
+      {
         "id": 88,
         "name": "AOMEI Backupper 8.2.0 Professional (1 Year Upgrade) - Discount 30% OFF",
         "slug": "aomei-backupper-professional-1year-upgrade-discount-20-off",
@@ -1860,16 +1920,6 @@
         "normal_price": 1999,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765959368/software-mirrors/npwqntwnwjyv1wduyg75.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 65,
-        "name": "Atomix VirtualDJ Free Home Edition 2026 Build 9246",
-        "slug": "atomix-virtualdj-free-home-edition",
-        "cat": "Multimedia",
-        "price": 19,
-        "normal_price": 19,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRN9c0SvC3DA5bn_XCQatuoi1ZzFz5QUt0layd0l4kVcPWeXJ3NElDTYd9K2XnAfYwNn33m2cTItIgJQRX4ymr1sQhUTNSFRBlWtbPbkMs3Iqd_UHYEGTWQl9rSqYF7xMezL-Z__4ea8/s500-rw/atomix-virtualdj-free-home-edition-software-mirrors.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcnXY51a_oprrdrdSbq9rzY10TxDZ7L3VeNzpvd6Xiox-CDZ4dlC5ChRKHatzs2tbM0qLIORjybrHXcysTCQX5yuzsi6AgU9SDflKl2aD6LW8QZIqsro7ZjswLB32BaxThupCvz9OG5Viv/s500-rw/atomix-virtualdj-free-home-edition-software-mirrors.png\"]",
-        "rating": 4.3
       },
       {
         "id": 348,
