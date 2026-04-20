@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 196,
+        "name": "Opera Air 130.0.5847.68 Offline Installer",
+        "slug": "opera-air-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770110355/software-mirrors/qeexqa268vrhjborfks4.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 108,
+        "name": "MEmu Android Emulator 9.5.2 Offline Installer",
+        "slug": "memu-android-emulator-offline-installer",
+        "cat": "Emulator",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765706625/software-mirrors/sb0c1vmb4fqfbvovdrrb.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 387,
         "name": "World Monitor v2.5.23",
         "slug": "world-monitor",
@@ -1462,16 +1482,6 @@
         "rating": 4
       },
       {
-        "id": 196,
-        "name": "Opera Air 129.0.5823.74 Offline Installer",
-        "slug": "opera-air-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770110355/software-mirrors/qeexqa268vrhjborfks4.webp\"]",
-        "rating": 4.5
-      },
-      {
         "id": 174,
         "name": "XMedia Recode 3.6.2.8",
         "slug": "xmedia-recode",
@@ -2230,16 +2240,6 @@
         "normal_price": 899,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipeYDfLVcy3jgFZm7PV10kgGs96t-FuMh8nkIe_QRdgMVi5dtg6znAIsM5_m0kxM8djOVpHifitiYv_UPFNpEVO81F3oyCwdYs-KVl-EZ1qxOMHUslg0YQaokO2tE-w4mWDpEQu1p1CCJdKZ4qo_cOvxdbFQLgLcrCO9-7d77QdBiP8OW4V4cUNqyxWGrY/s500-rw/software-mirrors.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5pszn5LXjU5Z8i6fy9Z2H8JKBr5YdZvYOO2A3jENknLjvkT4vW67MfpnGerzcYl_q2fe9VOSXbe3SWt0pIDbZJNKmnWF_37SF_nJOCGoiO2PHZlHpFRrvBSbnjqEWi64SuI8XUcHX6ctm0grsr3OQn5RH1O3sk_3R5BJp_e8tg7-Nzk4uIJqgfEh_agD_/s500-rw/software-mirrors.jpg\"]",
         "rating": 4.9
-      },
-      {
-        "id": 108,
-        "name": "MEmu Android Emulator 9.5.1 Offline Installer",
-        "slug": "memu-android-emulator-offline-installer",
-        "cat": "Emulator",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765706625/software-mirrors/sb0c1vmb4fqfbvovdrrb.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 219,
