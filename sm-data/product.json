@@ -2,6 +2,56 @@
   {
     "results": [
       {
+        "id": 285,
+        "name": "Revo Registry Cleaner 2.1.2 Pro - 2 years - Discount 20% Off",
+        "slug": "revo-registry-cleaner-pro-2-years-discount-20-off",
+        "cat": "Utilities",
+        "price": 15.99,
+        "normal_price": 19.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772273134/software-mirrors/hackyjtncmkrpoqokfec.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 284,
+        "name": "Revo Registry Cleaner 2.1.2 Pro - 1 year - Discount 20% Off",
+        "slug": "revo-registry-cleaner-1-year-discount-20-off",
+        "cat": "Utilities",
+        "price": 11.99,
+        "normal_price": 14.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772273134/software-mirrors/hackyjtncmkrpoqokfec.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 288,
+        "name": "Revo Registry Cleaner 2.1.2 Free",
+        "slug": "revo-registry-cleaner-free",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772273134/software-mirrors/hackyjtncmkrpoqokfec.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 287,
+        "name": "Revo Registry Cleaner 2.1.2 Portable - 1 year - Discount 20% Off",
+        "slug": "revo-registry-cleaner-portable-1-year-discount-20-off",
+        "cat": "Utilities",
+        "price": 13.59,
+        "normal_price": 16.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772273134/software-mirrors/hackyjtncmkrpoqokfec.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 286,
+        "name": "Revo Registry Cleaner 2.1.2 Portable - 2 years - Discount 20% Off",
+        "slug": "revo-registry-cleaner-portable-2-years-discount-20-off",
+        "cat": "Utilities",
+        "price": 17.59,
+        "normal_price": 21.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772273134/software-mirrors/hackyjtncmkrpoqokfec.webp?width=384\"]",
+        "rating": 4.3
+      },
+      {
         "id": 240,
         "name": "FreeMoCap v1.7.2",
         "slug": "freemocap",
@@ -2890,56 +2940,6 @@
         "normal_price": 499,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765899208/software-mirrors/m7mzccicmuwrm38zpdwa.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 285,
-        "name": "Revo Registry Cleaner 2.1.0 Pro - 2 years - Discount 20% Off",
-        "slug": "revo-registry-cleaner-pro-2-years-discount-20-off",
-        "cat": "Utilities",
-        "price": 15.99,
-        "normal_price": 19.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772273134/software-mirrors/hackyjtncmkrpoqokfec.webp\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 284,
-        "name": "Revo Registry Cleaner 2.1.0 Pro - 1 year - Discount 20% Off",
-        "slug": "revo-registry-cleaner-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 11.99,
-        "normal_price": 14.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772273134/software-mirrors/hackyjtncmkrpoqokfec.webp\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 288,
-        "name": "Revo Registry Cleaner 2.1.0 Free",
-        "slug": "revo-registry-cleaner-free",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772273134/software-mirrors/hackyjtncmkrpoqokfec.webp\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 287,
-        "name": "Revo Registry Cleaner 2.1.0 Portable - 1 year - Discount 20% Off",
-        "slug": "revo-registry-cleaner-portable-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 13.59,
-        "normal_price": 16.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772273134/software-mirrors/hackyjtncmkrpoqokfec.webp\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 286,
-        "name": "Revo Registry Cleaner 2.1.0 Portable - 2 years - Discount 20% Off",
-        "slug": "revo-registry-cleaner-portable-2-years-discount-20-off",
-        "cat": "Utilities",
-        "price": 17.59,
-        "normal_price": 21.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772273134/software-mirrors/hackyjtncmkrpoqokfec.webp?width=384\"]",
-        "rating": 4.3
       },
       {
         "id": 266,
