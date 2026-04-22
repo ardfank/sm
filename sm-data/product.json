@@ -2,6 +2,56 @@
   {
     "results": [
       {
+        "id": 117,
+        "name": "Plane9 2.5.1.3",
+        "slug": "plane9",
+        "cat": "Multimedia",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765992942/software-mirrors/m2onhipzxq1jn7vlppav.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765992803/software-mirrors/v0qclygexokwc1xas1yh.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 50,
+        "name": "Brave Browser Release v1.89.141 (Chromium 147.0.7727.102) Offline Installer",
+        "slug": "brave-browser-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 351,
+        "name": "Onyx AI v3.2.8 Desktop App",
+        "slug": "onyx-ai",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.20",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 337,
+        "name": "ChatGPT MacOS App (21 Apr 2026)",
+        "slug": "chatgpt-macos-app",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773966741/software-mirrors/gbshc1bgproshcnhc2oo.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 109,
         "name": "Malwarebytes 5.5.4.252 Offline Installer",
         "slug": "malwarebytes-offline-installer",
@@ -160,16 +210,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOG4K-dv4BRNNmz1gTtxjLfUTlk_GRBj5Bn0wbhw4WOhKqZ7p8IEjrdiyZO2Lf_2z_1nNL332YJ9JL5QL-a8QPy6VXiaxJ0sZWJfEm7Cs_TvPfVeEK9ig6ZJg3Z8UfczNomd6jXslsk78/s500-rw/FortiClient.Software-Mirrors.Com.jpg\"]",
         "rating": 4
-      },
-      {
-        "id": 337,
-        "name": "ChatGPT MacOS App (20 Apr 2026)",
-        "slug": "chatgpt-macos-app",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773966741/software-mirrors/gbshc1bgproshcnhc2oo.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 283,
@@ -772,26 +812,6 @@
         "rating": 4.7
       },
       {
-        "id": 50,
-        "name": "Brave Browser Release v1.89.137 (Chromium 147.0.7727.102) Offline Installer",
-        "slug": "brave-browser-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
-        "rating": 4.9
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.15",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 187,
         "name": "LM Studio 0.4.12-1",
         "slug": "lm-studio",
@@ -930,16 +950,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774792542/software-mirrors/frc9dbgbzvyorljb3bvg.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 351,
-        "name": "Onyx AI v3.2.4 Desktop App",
-        "slug": "onyx-ai",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 260,
@@ -3720,16 +3730,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi78HPgEWjfEOnjuXUFa7UoTxlr3BSRTHjqy7P8RhlWJhAp6h3Dgf1Pa_LmIlrHlNESrlyOfO3cC6VAlyA-ZQoO6hG-og41Il_G4bb9CPubrLQQ7mRRYaePDGu6ioQy7Fs0Mq2V5odAhDbrKktpxY-T2oiJTgtHeZlnOca4g24fPd8q_-qYaXwy_XkHWPM/s500-rw/Adwcleaner-software-mirrors.png\"]",
         "rating": 4
-      },
-      {
-        "id": 117,
-        "name": "Plane9 2.5.1.3",
-        "slug": "plane9",
-        "cat": "Multimedia",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765992942/software-mirrors/m2onhipzxq1jn7vlppav.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765992803/software-mirrors/v0qclygexokwc1xas1yh.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 62,
