@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 341,
+        "name": "Nuclear Music Player v1.34.1",
+        "slug": "nuclear-music-player",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774262388/software-mirrors/wlqpjs1g5spfxotzhg2u.webp\"]",
+        "rating": 4.1
+      },
+      {
         "id": 380,
         "name": "AOMEI Backupper 8.3.0 Technician Plus (Lifetime / Unlimited PCs & Servers) - Discount 82% Off",
         "slug": "aomei-backupper-technician-plus-lifetime-upgrades-unlimited-pcs-servers-discount-82-off",
@@ -800,16 +810,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764740703/software-mirrors/uu2fn5xy8scuxc7hboit.jpg\"]",
         "rating": 4.2
-      },
-      {
-        "id": 341,
-        "name": "Nuclear Music Player v1.34.0",
-        "slug": "nuclear-music-player",
-        "cat": "Media Player",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774262388/software-mirrors/wlqpjs1g5spfxotzhg2u.webp\"]",
-        "rating": 4.1
       },
       {
         "id": 205,
