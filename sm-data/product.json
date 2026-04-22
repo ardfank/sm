@@ -2,6 +2,156 @@
   {
     "results": [
       {
+        "id": 380,
+        "name": "AOMEI Backupper 8.3.0 Technician Plus (Lifetime / Unlimited PCs & Servers) - Discount 82% Off",
+        "slug": "aomei-backupper-technician-plus-lifetime-upgrades-unlimited-pcs-servers-discount-82-off",
+        "cat": "Backup Tools",
+        "price": 180,
+        "normal_price": 999,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776617320/software-mirrors/uzpabm4nq29brngjiump.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 379,
+        "name": "AOMEI Backupper 8.3.0 Technician Plus (Yearly / Unlimited PCs & Servers) - Discount 30% Off",
+        "slug": "aomei-backupper-technician-plus-yearly-unlimited-pcs-servers-discount-30-off",
+        "cat": "Backup Tools",
+        "price": 489.3,
+        "normal_price": 699,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776617320/software-mirrors/uzpabm4nq29brngjiump.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 378,
+        "name": "AOMEI Backupper 8.3.0 Technician (Lifetime / Unlimited PCs) - Discount 80% Off",
+        "slug": "aomei-backupper-technician-lifetime-unlimited-pcs-discount-80-off",
+        "cat": "Backup Tools",
+        "price": 160,
+        "normal_price": 799,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776615991/software-mirrors/ldjfv6hjyeqcldmkbund.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 377,
+        "name": "AOMEI Backupper 8.3.0 Technician (Yearly / Unlimited PCs) - Discount 30% Off",
+        "slug": "aomei-backupper-technician-yearly-unlimited-pcs-discount-30-off",
+        "cat": "Backup Tools",
+        "price": 349.3,
+        "normal_price": 499,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776615991/software-mirrors/ldjfv6hjyeqcldmkbund.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 376,
+        "name": "AOMEI Backupper 8.3.0 Server (Lifetime / 1 Server) - Discount 75% Off",
+        "slug": "aomei-backupper-server-lifetime-1-server-discount-75-off",
+        "cat": "Backup Tools",
+        "price": 74.95,
+        "normal_price": 299,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764925974/software-mirrors/bd7nqg5s5isacvclqkrb.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 375,
+        "name": "AOMEI Backupper 8.3.0 Server (Yearly / 1 Server) - Discount 30% Off",
+        "slug": "aomei-backupper-server-yearly-1-server-discount-30-off",
+        "cat": "Backup Tools",
+        "price": 104.3,
+        "normal_price": 149,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764925974/software-mirrors/bd7nqg5s5isacvclqkrb.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 374,
+        "name": "AOMEI Backupper 8.3.0 Professional (Lifetime / 1 PCs) - Discount 76% Off",
+        "slug": "aomei-backupper-8-2-0-professional-lifetime-1-pc-discount-76-off",
+        "cat": "Backup Tools",
+        "price": 16.95,
+        "normal_price": 69.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764875634/software-mirrors/wvfsdhdqvuduw2xqapdq.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 373,
+        "name": "AOMEI Backupper 8.3.0 Workstation (Lifetime / 5 PCs) - Discount 75% Off",
+        "slug": "aomei-backupper-workstation-lifetime-5-pc-discount-75-off",
+        "cat": "Backup Tools",
+        "price": 99.95,
+        "normal_price": 399.75,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 372,
+        "name": "AOMEI Backupper 8.3.0 Workstation (Lifetime / 1 PC) - Discount 76% Off",
+        "slug": "aomei-backupper-workstation-lifetime-1-pc-discount-76-off",
+        "cat": "Backup Tools",
+        "price": 18.95,
+        "normal_price": 79.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 371,
+        "name": "AOMEI Backupper 8.3.0 Workstation (Yearly / 1 PC) - Discount 30% Off",
+        "slug": "aomei-backupper-workstation-yearly-1-pc-discount-30-off",
+        "cat": "Backup Tools",
+        "price": 34.97,
+        "normal_price": 49.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
+        "rating": 4
+      },
+      {
+        "id": 88,
+        "name": "AOMEI Backupper 8.3.0 Professional (1 Year Upgrade) - Discount 30% OFF",
+        "slug": "aomei-backupper-professional-1year-upgrade-discount-20-off",
+        "cat": "Backup Tools",
+        "price": 27.97,
+        "normal_price": 39.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764875634/software-mirrors/wvfsdhdqvuduw2xqapdq.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 90,
+        "name": "AOMEI Backupper 8.3.0 Server - Discount 20% OFF",
+        "slug": "aomei-backupper-server-discount-20-off",
+        "cat": "Backup Tools",
+        "price": 135.2,
+        "normal_price": 169,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764925974/software-mirrors/bd7nqg5s5isacvclqkrb.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 140,
+        "name": "AIMP 5.40.2716",
+        "slug": "aimp",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767534714/software-mirrors/wpnurlweew46aixpdl9u.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 194,
+        "name": "Postman 12.7.4",
+        "slug": "postman",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 195,
+        "name": "Opera One 130.0.5847.82 Offline Installer",
+        "slug": "opera-one-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
+        "rating": 4.6
+      },
+      {
         "id": 364,
         "name": "Voicebox v0.4.5",
         "slug": "voicebox",
@@ -220,16 +370,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769017092/software-mirrors/dij9khpeyjzact3ju52s.jpg\"]",
         "rating": 4.7
-      },
-      {
-        "id": 194,
-        "name": "Postman 12.7.1",
-        "slug": "postman",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 338,
@@ -502,76 +642,6 @@
         "rating": 4.6
       },
       {
-        "id": 380,
-        "name": "AOMEI Backupper 8.2.0 Technician Plus (Lifetime Upgrades / Unlimited PCs & Servers) - Discount 82% Off",
-        "slug": "aomei-backupper-technician-plus-lifetime-upgrades-unlimited-pcs-servers-discount-82-off",
-        "cat": "Backup Tools",
-        "price": 180,
-        "normal_price": 999,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776617320/software-mirrors/uzpabm4nq29brngjiump.webp\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 379,
-        "name": "AOMEI Backupper 8.2.0 Technician Plus (Yearly / Unlimited PCs & Servers) - Discount 30% Off",
-        "slug": "aomei-backupper-technician-plus-yearly-unlimited-pcs-servers-discount-30-off",
-        "cat": "Backup Tools",
-        "price": 489.3,
-        "normal_price": 699,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776617320/software-mirrors/uzpabm4nq29brngjiump.webp\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 378,
-        "name": "AOMEI Backupper 8.2.0 Technician (Lifetime / Unlimited PCs) - Discount 80% Off",
-        "slug": "aomei-backupper-technician-lifetime-unlimited-pcs-discount-80-off",
-        "cat": "Backup Tools",
-        "price": 160,
-        "normal_price": 799,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776615991/software-mirrors/ldjfv6hjyeqcldmkbund.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 377,
-        "name": "AOMEI Backupper 8.2.0 Technician (Yearly / Unlimited PCs) - Discount 30% Off",
-        "slug": "aomei-backupper-technician-yearly-unlimited-pcs-discount-30-off",
-        "cat": "Backup Tools",
-        "price": 349.3,
-        "normal_price": 499,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776615991/software-mirrors/ldjfv6hjyeqcldmkbund.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 376,
-        "name": "AOMEI Backupper 8.2.0 Server (Lifetime / 1 Server) - Discount 75% Off",
-        "slug": "aomei-backupper-server-lifetime-1-server-discount-75-off",
-        "cat": "Backup Tools",
-        "price": 74.95,
-        "normal_price": 299,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764925974/software-mirrors/bd7nqg5s5isacvclqkrb.webp\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 375,
-        "name": "AOMEI Backupper 8.2.0 Server (Yearly / 1 Server) - Discount 30% Off",
-        "slug": "aomei-backupper-server-yearly-1-server-discount-30-off",
-        "cat": "Backup Tools",
-        "price": 104.3,
-        "normal_price": 149,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764925974/software-mirrors/bd7nqg5s5isacvclqkrb.webp\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 374,
-        "name": "AOMEI Backupper 8.2.0 Professional (Lifetime / 1 PC) - Discount 76% Off",
-        "slug": "aomei-backupper-8-2-0-professional-lifetime-1-pc-discount-76-off",
-        "cat": "Backup Tools",
-        "price": 16.95,
-        "normal_price": 69.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764875634/software-mirrors/wvfsdhdqvuduw2xqapdq.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 65,
         "name": "Atomix VirtualDJ Free Home Edition 2026 Build 9295",
         "slug": "atomix-virtualdj-free-home-edition",
@@ -580,46 +650,6 @@
         "normal_price": 19,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRN9c0SvC3DA5bn_XCQatuoi1ZzFz5QUt0layd0l4kVcPWeXJ3NElDTYd9K2XnAfYwNn33m2cTItIgJQRX4ymr1sQhUTNSFRBlWtbPbkMs3Iqd_UHYEGTWQl9rSqYF7xMezL-Z__4ea8/s500-rw/atomix-virtualdj-free-home-edition-software-mirrors.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcnXY51a_oprrdrdSbq9rzY10TxDZ7L3VeNzpvd6Xiox-CDZ4dlC5ChRKHatzs2tbM0qLIORjybrHXcysTCQX5yuzsi6AgU9SDflKl2aD6LW8QZIqsro7ZjswLB32BaxThupCvz9OG5Viv/s500-rw/atomix-virtualdj-free-home-edition-software-mirrors.png\"]",
         "rating": 4.3
-      },
-      {
-        "id": 373,
-        "name": "AOMEI Backupper 8.2.0 Workstation (Lifetime / 5 PC) - Discount 75% Off",
-        "slug": "aomei-backupper-workstation-lifetime-5-pc-discount-75-off",
-        "cat": "Backup Tools",
-        "price": 99.95,
-        "normal_price": 399.75,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 372,
-        "name": "AOMEI Backupper 8.2.0 Workstation (Lifetime / 1 PC) - Discount 76% Off",
-        "slug": "aomei-backupper-workstation-lifetime-1-pc-discount-76-off",
-        "cat": "Backup Tools",
-        "price": 18.95,
-        "normal_price": 79.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 371,
-        "name": "AOMEI Backupper 8.2.0 Workstation (Yearly / 1 PC) - Discount 30% Off",
-        "slug": "aomei-backupper-workstation-yearly-1-pc-discount-30-off",
-        "cat": "Backup Tools",
-        "price": 34.97,
-        "normal_price": 49.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
-        "rating": 4
-      },
-      {
-        "id": 88,
-        "name": "AOMEI Backupper 8.2.0 Professional (1 Year Upgrade) - Discount 30% OFF",
-        "slug": "aomei-backupper-professional-1year-upgrade-discount-20-off",
-        "cat": "Backup Tools",
-        "price": 27.97,
-        "normal_price": 39.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764875634/software-mirrors/wvfsdhdqvuduw2xqapdq.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 94,
@@ -950,16 +980,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 195,
-        "name": "Opera One 130.0.5847.41 Offline Installer",
-        "slug": "opera-one-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
-        "rating": 4.6
       },
       {
         "id": 183,
@@ -1390,16 +1410,6 @@
         "normal_price": 269.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 140,
-        "name": "AIMP 5.40.2715",
-        "slug": "aimp",
-        "cat": "Media Player",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767534714/software-mirrors/wpnurlweew46aixpdl9u.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 32,
@@ -2869,16 +2879,6 @@
         "price": 199,
         "normal_price": 390,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770210400/software-mirrors/meevjald2djoxggnzfju.webp\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 90,
-        "name": "AOMEI Backupper 8.2.0 Server - Discount 20% OFF",
-        "slug": "aomei-backupper-server-discount-20-off",
-        "cat": "Backup Tools",
-        "price": 135.2,
-        "normal_price": 169,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764925974/software-mirrors/bd7nqg5s5isacvclqkrb.webp\"]",
         "rating": 4.8
       },
       {
