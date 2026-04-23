@@ -2,6 +2,166 @@
   {
     "results": [
       {
+        "id": 95,
+        "name": "SEO SpyGlass 6.63.18 Professional - Yearly",
+        "slug": "seo-spyglass-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 129,
+        "normal_price": 129,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 143,
+        "name": "SEO SpyGlass 6.63.18 Enterprise - Yearly",
+        "slug": "seo-spyglass-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 259,
+        "normal_price": 259,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 238,
+        "name": "SEO PowerSuite R102.18 Max - Yearly",
+        "slug": "seo-powersuite-max-yearly",
+        "cat": "Web Analytics",
+        "price": 899,
+        "normal_price": 899,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/SEO-Posersuite-Software-Mirrors.com.png\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 56,
+        "name": "SEO PowerSuite R102.18 Enterprise - Yearly",
+        "slug": "seo-powersuite-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 499,
+        "normal_price": 499,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/SEO-Posersuite-Software-Mirrors.com.png\"]",
+        "rating": 4.1
+      },
+      {
+        "id": 147,
+        "name": "LinkAssistant 6.50.18 Enterprise - Yearly",
+        "slug": "linkassistant-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 259,
+        "normal_price": 259,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767717735/software-mirrors/p6rmqpegaslkozgjiar7.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 145,
+        "name": "WebSite Auditor 4.61.18 Enterprise - Yearly",
+        "slug": "website-auditor-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 359,
+        "normal_price": 359,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 40,
+        "name": "SEO PowerSuite R102.18 Professional - Yearly",
+        "slug": "seo-powersuite-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 299,
+        "normal_price": 299,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.1
+      },
+      {
+        "id": 139,
+        "name": "Rank Tracker 8.50.18 Enterprise - Yearly",
+        "slug": "rank-tracker-enterprise-yearly",
+        "cat": "Web Analytics",
+        "price": 419,
+        "normal_price": 419,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766938988/software-mirrors/fadyw3kfv3kyikn7xhgn.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 146,
+        "name": "LinkAssistant 6.50.18 Professional - Yearly",
+        "slug": "linkassistant-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 129,
+        "normal_price": 129,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767717735/software-mirrors/p6rmqpegaslkozgjiar7.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 144,
+        "name": "WebSite Auditor 4.61.18 Professional - Yearly",
+        "slug": "website-auditor-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 149,
+        "normal_price": 149,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 133,
+        "name": "Rank Tracker 8.50.18 Professional - Yearly",
+        "slug": "rank-tracker-professional-yearly",
+        "cat": "Web Analytics",
+        "price": 149,
+        "normal_price": 149,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766938988/software-mirrors/fadyw3kfv3kyikn7xhgn.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 240,
+        "name": "FreeMoCap v1.8.2",
+        "slug": "freemocap",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771521478/software-mirrors/moke32jsg0hmxlgx8uqp.webp\"]",
+        "rating": 4.1
+      },
+      {
+        "id": 215,
+        "name": "AionUI v1.9.20",
+        "slug": "aionui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 203,
+        "name": "OpenVPN 2.7.2",
+        "slug": "openvpn",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770350060/software-mirrors/crfsjyu8obxsr8xuniez.jpg\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 130,
+        "name": "Opera GX 130.0.5847.89 Offline Installer",
+        "slug": "opera-gx",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 339,
+        "name": "Kudu v1.36.0 - Free System Maintenance Tools",
+        "slug": "kudu-free-system-maintenance-tools",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
+        "rating": 4.3
+      },
+      {
         "id": 335,
         "name": "NTLite 2026.04.10966",
         "slug": "ntlite",
@@ -360,26 +520,6 @@
         "normal_price": 21.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772273134/software-mirrors/hackyjtncmkrpoqokfec.webp?width=384\"]",
         "rating": 4.3
-      },
-      {
-        "id": 240,
-        "name": "FreeMoCap v1.7.2",
-        "slug": "freemocap",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771521478/software-mirrors/moke32jsg0hmxlgx8uqp.webp\"]",
-        "rating": 4.1
-      },
-      {
-        "id": 215,
-        "name": "AionUI v1.9.19",
-        "slug": "aionui",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 214,
@@ -842,16 +982,6 @@
         "rating": 4.7
       },
       {
-        "id": 339,
-        "name": "Kudu v1.35.0 - Free System Maintenance Tools",
-        "slug": "kudu-free-system-maintenance-tools",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
-        "rating": 4.3
-      },
-      {
         "id": 75,
         "name": " Google Chrome 49.0.2623.112 For Windows XP Offline Installer ",
         "slug": "google-chrome-49-0-2623-112-for-windows-xp-offline-installer",
@@ -982,16 +1112,6 @@
         "rating": 4.8
       },
       {
-        "id": 130,
-        "name": "Opera GX 130.0.5847.58 Offline Installer",
-        "slug": "opera-gx",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
-        "rating": 4.5
-      },
-      {
         "id": 183,
         "name": "WonderFox HD Video Converter Factory Pro 28.9 Lifetime - Discount 70% OFF",
         "slug": "wonderfox-hd-video-converter-factory-pro-lifetime-discount-70-off",
@@ -1110,116 +1230,6 @@
         "normal_price": 99.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771776576/software-mirrors/jbijlu4vozlplyojg56l.webp\"]",
         "rating": 4.2
-      },
-      {
-        "id": 95,
-        "name": "SEO SpyGlass 6.63.17 Professional - Yearly",
-        "slug": "seo-spyglass-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 129,
-        "normal_price": 129,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 143,
-        "name": "SEO SpyGlass 6.63.17 Enterprise - Yearly",
-        "slug": "seo-spyglass-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 259,
-        "normal_price": 259,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765194676/software-mirrors/fhjrbshhtp1ubmmsgt7x.webp\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 147,
-        "name": "LinkAssistant 6.50.17 Enterprise - Yearly",
-        "slug": "linkassistant-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 259,
-        "normal_price": 259,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767717735/software-mirrors/p6rmqpegaslkozgjiar7.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 146,
-        "name": "LinkAssistant 6.50.17 Professional - Yearly",
-        "slug": "linkassistant-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 129,
-        "normal_price": 129,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767717735/software-mirrors/p6rmqpegaslkozgjiar7.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 139,
-        "name": "Rank Tracker 8.50.17 Enterprise - Yearly",
-        "slug": "rank-tracker-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 419,
-        "normal_price": 419,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766938988/software-mirrors/fadyw3kfv3kyikn7xhgn.webp\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 133,
-        "name": "Rank Tracker 8.50.17 Professional - Yearly",
-        "slug": "rank-tracker-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 149,
-        "normal_price": 149,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766938988/software-mirrors/fadyw3kfv3kyikn7xhgn.webp\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 238,
-        "name": "SEO PowerSuite R102.17 Max - Yearly",
-        "slug": "seo-powersuite-max-yearly",
-        "cat": "Web Analytics",
-        "price": 899,
-        "normal_price": 899,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/SEO-Posersuite-Software-Mirrors.com.png\"]",
-        "rating": 4.2
-      },
-      {
-        "id": 56,
-        "name": "SEO PowerSuite R102.17 Enterprise - Yearly",
-        "slug": "seo-powersuite-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 499,
-        "normal_price": 499,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/SEO-Posersuite-Software-Mirrors.com.png\"]",
-        "rating": 4.1
-      },
-      {
-        "id": 40,
-        "name": "SEO PowerSuite R102.17 Professional - Yearly",
-        "slug": "seo-powersuite-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 299,
-        "normal_price": 299,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGnJar4Kgd_lIkB1364K3h0p6F5X9pwfS3zXXeuVhmZ-V6kPjvOzOkpOMz5MSEXnhs0AbI5ojnoz4LNw8lqxugYt4TecH6UHLuvd02CVRsdVKOWEJcEtXvbszqhg-nh1UFdlWncCG8_dACshiYABfginWywArIxBKFJZ_MDLe1sdaVI8D6fdh6H5GndQQ/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.1
-      },
-      {
-        "id": 145,
-        "name": "WebSite Auditor 4.61.17 Enterprise - Yearly",
-        "slug": "website-auditor-enterprise-yearly",
-        "cat": "Web Analytics",
-        "price": 359,
-        "normal_price": 359,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 144,
-        "name": "WebSite Auditor 4.61.17 Professional - Yearly",
-        "slug": "website-auditor-professional-yearly",
-        "cat": "Web Analytics",
-        "price": 149,
-        "normal_price": 149,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767707104/software-mirrors/mk06tgynjoptsubk6fk2.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 239,
@@ -2110,16 +2120,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770307102/software-mirrors/pkoybctycuecdf4n4ug7.webp\"]",
         "rating": 4.3
-      },
-      {
-        "id": 203,
-        "name": "OpenVPN 2.7.1",
-        "slug": "openvpn",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770350060/software-mirrors/crfsjyu8obxsr8xuniez.jpg\"]",
-        "rating": 4.6
       },
       {
         "id": 227,
