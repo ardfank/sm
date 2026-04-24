@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 126,
+        "name": "Driver Easy  7.1.1.3510  (1 PC / 1 Year) - Discount 20% OFF",
+        "slug": "driver-easy-1-computer-license-1-year-discount-20-off",
+        "cat": "Utilities",
+        "price": 23.96,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 278,
+        "name": "CCleaner Free v7.07.1313 - Offline Installer",
+        "slug": "ccleaner-free-offline-installer",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772184336/software-mirrors/ukm02zc6g5fctrrshm5h.webp\"]",
+        "rating": 4
+      },
+      {
         "id": 194,
         "name": "Postman 12.7.5",
         "slug": "postman",
@@ -2622,16 +2642,6 @@
         "rating": 4.7
       },
       {
-        "id": 278,
-        "name": "CCleaner Free v7.06.1270 - Offline Installer",
-        "slug": "ccleaner-free-offline-installer",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772184336/software-mirrors/ukm02zc6g5fctrrshm5h.webp\"]",
-        "rating": 4
-      },
-      {
         "id": 345,
         "name": "Strix v0.8.3 - AI Penetration Testing Tools",
         "slug": "strix-ai-penetration-testing-tools",
@@ -3570,16 +3580,6 @@
         "normal_price": 59.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU9zRTrtOm53PcYRJc3ISLpqfGeRYQZeDhFIS-AhtycOjEP4c3aiUR4zMqK83U8Weuw3nc3i8j91Vik0KIC5qUNyeNmObIkFbRCVkRFEj0RkS2FLw14MtH6fIP5gObTAeqB40pOUvTxoAuZhs9YtUgCJhzkWMSWKHqJj__uTGxRI9Fk2PDGzaaxluUw6hr/s500-rw/macx-dvd-ripper-pro-lifetime-software-mirrors.png\"]",
         "rating": 4.8
-      },
-      {
-        "id": 126,
-        "name": "Driver Easy  7.1.1.3510  (1 PC / 1 Year) - Discount 20% OFF",
-        "slug": "driver-easy-1-computer-license-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 23.96,
-        "normal_price": 29.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 273,
