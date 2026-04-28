@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.26",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 335,
+        "name": "NTLite 2026.04.10973",
+        "slug": "ntlite",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 351,
+        "name": "Onyx AI v3.2.12 Desktop App",
+        "slug": "onyx-ai",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 307,
         "name": "Kernel SQL Database Recovery 25.0 - Technician License - Discount 25% Off",
         "slug": "kernel-sql-database-recovery-technician-license-discount-25-off",
@@ -22,16 +52,6 @@
         "rating": 4.7
       },
       {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.25",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 197,
         "name": "AOMEI FoneTool 3.6.0 Professional (1 Year / 5 PCs) - Discount 20% OFF",
         "slug": "aomei-fonetool-professional-1-year-5-pcs-discount-20-off",
@@ -50,16 +70,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 335,
-        "name": "NTLite 2026.04.10970",
-        "slug": "ntlite",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 363,
@@ -290,16 +300,6 @@
         "normal_price": 67.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmzwMAiqyc6aGeTYmnvDLDZsB-FajdA66GZQ1WkYyOEGOmQhpyvFbC7ZvaOEB5O_h_qYTNHzW4r23JT4DdD-pnWVxXPpMscgJnaodyELm91kBnzC2n-Ra12Er43TJAir3ZvpnHX_LTu9U/s500-rw/sm.png\"]",
         "rating": 3.7
-      },
-      {
-        "id": 351,
-        "name": "Onyx AI v3.2.11 Desktop App",
-        "slug": "onyx-ai",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 59,
