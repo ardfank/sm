@@ -2,6 +2,86 @@
   {
     "results": [
       {
+        "id": 58,
+        "name": "Glarysoft Software Update Pro 6.64.0.64 - Discount 50% Off",
+        "slug": "glarysoft-software-update-pro-discount-50-off",
+        "cat": "Utilities",
+        "price": 14.97,
+        "normal_price": 29.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw_j5YwID8DVoc_4XPnQHnhUVBxBFaiwP__socVXl1iHJnrKdWmPZVXCQh9KOP5oHppbjS87bAXfjSJS71c3df3KJYbykJk-ij3c001LakYsNNcy5saM5uKdT0x218pekB0SFBkKxlcWbJlAhBNVZil2HGT5UOx2E_ncyXxIeFFtauEoi0iDbrpcI5fUKn/s500-rw/glarysoft-software-update-pro-software-mirrors.jpg\"]",
+        "rating": 3.3
+      },
+      {
+        "id": 190,
+        "name": "Reaper 7.70",
+        "slug": "reaper",
+        "cat": "Media Player",
+        "price": 60,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769947960/software-mirrors/npfjdcnihd6m6xphnbzq.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 50,
+        "name": "Brave Browser Release v1.89.145 (Chromium 147.0.7727.137) Offline Installer",
+        "slug": "brave-browser-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 175,
+        "name": "HyperSnap 9.8.0",
+        "slug": "hypersnap",
+        "cat": "Image Editor",
+        "price": 49.95,
+        "normal_price": 49.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769436596/software-mirrors/p3jqwvlekoazahkxtjci.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 194,
+        "name": "Postman 12.8.3",
+        "slug": "postman",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 338,
+        "name": "OpenAI Codex App 26.422.71525 for macOS",
+        "slug": "openai-codex-app-for-macos",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 215,
+        "name": "AionUI v1.9.22",
+        "slug": "aionui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 130,
+        "name": "Opera GX 130.0.5847.108 Offline Installer",
+        "slug": "opera-gx",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
+        "rating": 4.5
+      },
+      {
         "id": 195,
         "name": "Opera One 131.0.5877.5 Offline Installer",
         "slug": "opera-one-offline-installer",
@@ -150,26 +230,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765471138/software-mirrors/nj0soq3syvif32mkuyjh.webp\"]",
         "rating": 4.2
-      },
-      {
-        "id": 194,
-        "name": "Postman 12.8.1",
-        "slug": "postman",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 338,
-        "name": "OpenAI Codex App 26.422.62136 for macOS",
-        "slug": "openai-codex-app-for-macos",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 203,
@@ -393,7 +453,7 @@
       },
       {
         "id": 198,
-        "name": "WinRAR 7.20",
+        "name": "WinRAR 7.21",
         "slug": "winrar",
         "cat": "Utilities",
         "price": 0,
@@ -419,16 +479,6 @@
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776183369/software-mirrors/eiijg5ue9ipdwx5wodfg.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 175,
-        "name": "HyperSnap 9.7.7",
-        "slug": "hypersnap",
-        "cat": "Image Editor",
-        "price": 49.95,
-        "normal_price": 49.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769436596/software-mirrors/p3jqwvlekoazahkxtjci.webp\"]",
         "rating": 4.7
       },
       {
@@ -509,16 +559,6 @@
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775308341/software-mirrors/dfmf9hcureg5fovbfbzn.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 215,
-        "name": "AionUI v1.9.21",
-        "slug": "aionui",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
         "rating": 4.6
       },
       {
@@ -752,16 +792,6 @@
         "rating": 4.1
       },
       {
-        "id": 130,
-        "name": "Opera GX 130.0.5847.89 Offline Installer",
-        "slug": "opera-gx",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
-        "rating": 4.5
-      },
-      {
         "id": 232,
         "name": "Q-Dir 12.61",
         "slug": "q-dir",
@@ -930,16 +960,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765992942/software-mirrors/m2onhipzxq1jn7vlppav.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765992803/software-mirrors/v0qclygexokwc1xas1yh.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 50,
-        "name": "Brave Browser Release v1.89.141 (Chromium 147.0.7727.102) Offline Installer",
-        "slug": "brave-browser-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
-        "rating": 4.9
       },
       {
         "id": 337,
@@ -1790,16 +1810,6 @@
         "normal_price": 32.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764735463/software-mirrors/jwuarnwq4ne3ktppxnks.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764734583/software-mirrors/nf2xkeltf9gdjn7eflvn.webp\"]",
         "rating": 3.8
-      },
-      {
-        "id": 190,
-        "name": "Reaper 7.69",
-        "slug": "reaper",
-        "cat": "Media Player",
-        "price": 60,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769947960/software-mirrors/npfjdcnihd6m6xphnbzq.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 242,
@@ -3620,16 +3630,6 @@
         "normal_price": 249,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765543885/software-mirrors/uysx0sbsmxvqs9hwdz4c.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNM7iKtJRFjfiiGV1i59r0Jt0jdBE1AQf0LITbqZyHZRFekqAwTujJ7Ou_k9DHK5lwoQI8tUSxND-XlSwPNH-LgpDRXtPDO6pcSccYqUc_cyDNeDDJv99zmS_2eaQoXcnYV0QHhumdd6F52J8i3aSolJbSCrnX-fIUPXq1ok_wuMlAxnr8NTFg5m879vex/s1600-rw/classi.qzz.io.png\"]",
         "rating": 4.6
-      },
-      {
-        "id": 58,
-        "name": "Glarysoft Software Update Pro 6.64.0.64 - Discount 50% Off",
-        "slug": "glarysoft-software-update-pro-discount-50-off",
-        "cat": "Utilities",
-        "price": 14.97,
-        "normal_price": 29.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw_j5YwID8DVoc_4XPnQHnhUVBxBFaiwP__socVXl1iHJnrKdWmPZVXCQh9KOP5oHppbjS87bAXfjSJS71c3df3KJYbykJk-ij3c001LakYsNNcy5saM5uKdT0x218pekB0SFBkKxlcWbJlAhBNVZil2HGT5UOx2E_ncyXxIeFFtauEoi0iDbrpcI5fUKn/s500-rw/glarysoft-software-update-pro-software-mirrors.jpg\"]",
-        "rating": 3.3
       },
       {
         "id": 112,
