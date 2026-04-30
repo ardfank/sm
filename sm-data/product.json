@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.27",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
         "id": 7,
         "name": "RoboTask 10.6 (business license) Discount 20% OFF",
         "slug": "robotask-business-license-discount-20-off",
@@ -290,16 +300,6 @@
         "normal_price": 19.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Clqgi1rK7JXSHeynHPeApJteinnmSzgXhAwlgeXY7eHkVKEpgsFSSQl8ggq26xexuJg05Hh-PYQssTncyGDzwlbP6GVa38bVbY3rAa4y5rLJCDOEMhvDV4AD5Iaa_CGcrOsOEHK7a-U/s1600-rw/software-mirrors.png\"]",
         "rating": 4.4
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.26",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 335,
