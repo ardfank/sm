@@ -2,6 +2,46 @@
   {
     "results": [
       {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.29",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 193,
+        "name": "Ollama 0.22.1",
+        "slug": "ollama",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 99,
+        "name": "Visual Studio Code (VSCode) 1.118.1",
+        "slug": "visual-studio-code",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765353640/software-mirrors/z5ksoesbedomymohrwde.webp\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 116,
+        "name": "RegRun Security Suite 18.20.2026.429",
+        "slug": "regrun-security-suite",
+        "cat": "Antivirus",
+        "price": 83.19,
+        "normal_price": 83.19,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765990681/software-mirrors/fqeb6wuqptktdsjv8tf6.webp\"]",
+        "rating": 3.4
+      },
+      {
         "id": 112,
         "name": "Internet Download Manager 6.42 Build 63",
         "slug": "internet-download-manager",
@@ -222,16 +262,6 @@
         "rating": 4.4
       },
       {
-        "id": 99,
-        "name": "Visual Studio Code (VSCode) 1.118.0",
-        "slug": "visual-studio-code",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765353640/software-mirrors/z5ksoesbedomymohrwde.webp\"]",
-        "rating": 4.9
-      },
-      {
         "id": 107,
         "name": "NoxPlayer 7.0.6.2",
         "slug": "noxplayer",
@@ -240,16 +270,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765654570/software-mirrors/lnb7fqwck9x2lwpz9fb8.webp\"]",
         "rating": 4.2
-      },
-      {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.27",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 7,
@@ -380,16 +400,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
         "rating": 4.6
-      },
-      {
-        "id": 193,
-        "name": "Ollama 0.22.0",
-        "slug": "ollama",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 26,
@@ -990,16 +1000,6 @@
         "normal_price": 49.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
         "rating": 4
-      },
-      {
-        "id": 88,
-        "name": "AOMEI Backupper 8.3.0 Professional (1 Year Upgrade) - Discount 30% OFF",
-        "slug": "aomei-backupper-professional-1year-upgrade-discount-20-off",
-        "cat": "Backup Tools",
-        "price": 27.97,
-        "normal_price": 39.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764875634/software-mirrors/wvfsdhdqvuduw2xqapdq.webp\"]",
-        "rating": 4.7
       }
     ],
     "success": true
