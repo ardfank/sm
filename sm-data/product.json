@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 109,
+        "name": "Malwarebytes 5.5.5.253 Offline Installer",
+        "slug": "malwarebytes-offline-installer",
+        "cat": "Antivirus",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765708149/software-mirrors/nifg4soyvbb9eagsmohy.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 338,
+        "name": "OpenAI Codex App 26.429.20946 for macOS",
+        "slug": "openai-codex-app-for-macos",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 215,
+        "name": "AionUI v1.9.24",
+        "slug": "aionui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 190,
         "name": "Reaper 7.71",
         "slug": "reaper",
@@ -272,16 +302,6 @@
         "rating": 4.1
       },
       {
-        "id": 215,
-        "name": "AionUI v1.9.23",
-        "slug": "aionui",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
-        "rating": 4.6
-      },
-      {
         "id": 23,
         "name": "Movavi Video Suite 2026 26.0.0",
         "slug": "movavi-video-suite-2026",
@@ -399,16 +419,6 @@
         "price": 49.95,
         "normal_price": 49.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769436596/software-mirrors/p3jqwvlekoazahkxtjci.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 338,
-        "name": "OpenAI Codex App 26.422.71525 for macOS",
-        "slug": "openai-codex-app-for-macos",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
         "rating": 4.7
       },
       {
@@ -990,16 +1000,6 @@
         "normal_price": 699,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776617320/software-mirrors/uzpabm4nq29brngjiump.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 378,
-        "name": "AOMEI Backupper 8.3.0 Technician (Lifetime / Unlimited PCs) - Discount 80% Off",
-        "slug": "aomei-backupper-technician-lifetime-unlimited-pcs-discount-80-off",
-        "cat": "Backup Tools",
-        "price": 160,
-        "normal_price": 799,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776615991/software-mirrors/ldjfv6hjyeqcldmkbund.webp\"]",
-        "rating": 4.7
       }
     ],
     "success": true
