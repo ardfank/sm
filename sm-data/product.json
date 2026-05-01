@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 338,
+        "name": "OpenAI Codex App 26.429.30905 for macOS",
+        "slug": "openai-codex-app-for-macos",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 203,
         "name": "OpenVPN 2.7.4",
         "slug": "openvpn",
@@ -20,16 +30,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765708149/software-mirrors/nifg4soyvbb9eagsmohy.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 338,
-        "name": "OpenAI Codex App 26.429.20946 for macOS",
-        "slug": "openai-codex-app-for-macos",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 215,
@@ -83,7 +83,7 @@
       },
       {
         "id": 67,
-        "name": "Incomedia WebSite X5 Evo 2026.1.7.1< - Discount 20% OFF",
+        "name": "Incomedia WebSite X5 Evo 2026.1.7.1 - Discount 20% OFF",
         "slug": "incomedia-website-x5-evo-discount-20-off",
         "cat": "Developer Tools",
         "price": 92.64,
@@ -93,7 +93,7 @@
       },
       {
         "id": 69,
-        "name": "WebSite X5 Pro 2026.1.7.1< - Discount 20% OFF",
+        "name": "WebSite X5 Pro 2026.1.7.1 - Discount 20% OFF",
         "slug": "website-x5-pro-discount-20-off",
         "cat": "Developer Tools",
         "price": 185.33,
@@ -103,7 +103,7 @@
       },
       {
         "id": 87,
-        "name": "Incomedia WebSite X5 Agency 2026.1.7.1< - Discount 20% OFF",
+        "name": "Incomedia WebSite X5 Agency 2026.1.7.1 - Discount 20% OFF",
         "slug": "incomedia-website-x5-agency-discount-20-off",
         "cat": "Developer Tools",
         "price": 326.66,
