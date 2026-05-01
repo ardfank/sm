@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 166,
+        "name": "Glarysoft File Recovery PRO 1.30.0.30 - Lifetime License - Discount 50% OFF",
+        "slug": "glarysoft-file-recovery-pro-lifetime-license-discount-50-off",
+        "cat": "Utilities",
+        "price": 49.98,
+        "normal_price": 99.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769093359/software-mirrors/by2t89kgmatlw4mx25la.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 182,
         "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.4.29",
         "slug": "openclaw-formerly-moltbot-clawd-bot",
@@ -990,16 +1000,6 @@
         "normal_price": 79.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 371,
-        "name": "AOMEI Backupper 8.3.0 Workstation (Yearly / 1 PC) - Discount 30% Off",
-        "slug": "aomei-backupper-workstation-yearly-1-pc-discount-30-off",
-        "cat": "Backup Tools",
-        "price": 34.97,
-        "normal_price": 49.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776613193/software-mirrors/raeriisca1itwyoah0uz.webp\"]",
-        "rating": 4
       }
     ],
     "success": true
