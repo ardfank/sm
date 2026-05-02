@@ -2,6 +2,66 @@
   {
     "results": [
       {
+        "id": 251,
+        "name": "ManyCam Windows 9.2.0.4 / Mac 9.1.0.5 Standard (Annual) - Discount 25% OFF",
+        "slug": "manycam-windows-mac-standard-annual-discount-25-off",
+        "cat": "Multimedia",
+        "price": 44.25,
+        "normal_price": 59,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771626395/software-mirrors/gr78t1erieycbdl4ruwp.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 19,
+        "name": "ManyCam Windows 9.2.0.4 / Mac 9.1.0.5 Studio Annual - Discount 25% OFF",
+        "slug": "manycam-studio-annual-discount-25-off",
+        "cat": "Multimedia",
+        "price": 74.25,
+        "normal_price": 99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdmHnr86JvPB2uoFz3yYhOGNn3t13MxW5ZO7bsYxHrxv_qhwBuuWF0bBCFuMLqCj9wP1UjHODt-yhirezB2dXpKI4209wEOkUF3cGFgNfbgCTvvQ3aKV4MrCmPHc_dtFBu3ddNHyiHHqjtXBawjOW8yl91YEy0_kYSifAvnHTSAwNsuERJxOVqdZsyOzIE/s400-rw/classi.qzz.io.jpg\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 1,
+        "name": "ManyCam Windows 9.2.0.4 / Mac 9.1.0.5 Premium Annual - Discount 25% OFF",
+        "slug": "manycam-premium-annual-discount-25",
+        "cat": "Multimedia",
+        "price": 89.25,
+        "normal_price": 119,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765279773/software-mirrors/a0opkxanfrnqxpy5jx6t.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 252,
+        "name": "ManyCam Windows 9.2.0.4 / Mac 9.1.0.5 Enterprise (10 users / Annual) - Discount 45% OFF",
+        "slug": "manycam-windows-mac-enterprise-10-users-annual-discount-45-off",
+        "cat": "Multimedia",
+        "price": 654.5,
+        "normal_price": 1190,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771626395/software-mirrors/gr78t1erieycbdl4ruwp.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 253,
+        "name": "ManyCam Windows 9.2.0.4 / Mac 9.1.0.5 Enterprise (5 users / Annual) - Discount 45% OFF",
+        "slug": "manycam-windows-mac-enterprise-5-users-annual-discount-45-off",
+        "cat": "Multimedia",
+        "price": 327.25,
+        "normal_price": 595,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771626395/software-mirrors/gr78t1erieycbdl4ruwp.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 339,
+        "name": "Kudu v1.40.0 - Free System Maintenance Tools",
+        "slug": "kudu-free-system-maintenance-tools",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
+        "rating": 4.3
+      },
+      {
         "id": 76,
         "name": "LibreOffice 26.2.3 Final",
         "slug": "libreoffice-final",
@@ -370,16 +430,6 @@
         "normal_price": 29.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s1600-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s1600-rw/Classi.Qzz.Io.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 339,
-        "name": "Kudu v1.39.0 - Free System Maintenance Tools",
-        "slug": "kudu-free-system-maintenance-tools",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
-        "rating": 4.3
       },
       {
         "id": 186,
@@ -950,56 +1000,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769445419/software-mirrors/rufvg5hchjhp8c0lpafh.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 142,
-        "name": "CapCut APK For Android 17.6.0",
-        "slug": "capcut-apk-for-android",
-        "cat": "Video Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767634443/software-mirrors/ohru8dccvyq5iahcaupj.jpg\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 121,
-        "name": "FrostWire 7.0.4-build-331",
-        "slug": "frostwire-bittorent-client",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766079983/software-mirrors/kwqkzovl02d3caalktiy.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 14,
-        "name": "Grub4Dos GUI Installer 1.1",
-        "slug": "grub4dos-gui-installer-1-1",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinRq9PiuaTyNjF9rj2UZBEp7noqxxZOVnR9mvisjr57KGwlSA5mZFliUOxSSlUd4IWTf17OqZgQ6kj1iA0-gWY8NSmge3vCpmwA1MvaC5QaIh8iLptCVdm6M6pc9htPWJ_5CUHSlZifE_bjqLESJrXub-VjiofhwM5ByWVdSZF9ElIIKtWpasvI3Q1F86J/s1600-rw/Classi.qzz.io.jpg\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 126,
-        "name": "Driver Easy  7.1.1.3510  (1 PC / 1 Year) - Discount 20% OFF",
-        "slug": "driver-easy-1-computer-license-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 23.96,
-        "normal_price": 29.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 278,
-        "name": "CCleaner Free v7.07.1313 - Offline Installer",
-        "slug": "ccleaner-free-offline-installer",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772184336/software-mirrors/ukm02zc6g5fctrrshm5h.webp\"]",
-        "rating": 4
       }
     ],
     "success": true
