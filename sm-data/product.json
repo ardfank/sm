@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 318,
+        "name": "OpenCode v1.14.32",
+        "slug": "opencode",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 200,
+        "name": "Universal USB Installer 2.0.3.5",
+        "slug": "universal-usb-installer",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770299439/software-mirrors/brvdllfgejxjxzgobclq.webp\"]",
+        "rating": 4.4
+      },
+      {
         "id": 251,
         "name": "ManyCam Windows 9.2.0.4 / Mac 9.1.0.5 Standard (Annual) - Discount 25% OFF",
         "slug": "manycam-windows-mac-standard-annual-discount-25-off",
@@ -160,16 +180,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769947960/software-mirrors/npfjdcnihd6m6xphnbzq.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 318,
-        "name": "OpenCode v1.14.31",
-        "slug": "opencode",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
-        "rating": 4.4
       },
       {
         "id": 124,
@@ -990,16 +1000,6 @@
         "normal_price": 22.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKQFvYy4B8bt7IhAH9vjWCqNtNvgArxORULGmE3EksfpZRGt9E0SpvGJ79u2N9AN5syS7fKiQEcqMUy3_u_CJFfyaXvglUsbUdIWud3IM858LvSVn1AecEdDNeowDuLLnHwJN4OrfFGIvT6GUUiTo8wXmZkKezz49LY4GCUyBS69GvlfcnMKW6y_Ep4kU/s500-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiLJNQe4VdkF-ljwSLqsbKyD8iMJ3qrhJMWIq1-IiaZenuEBytuo_FjU6zQ-KQ97cDySWMLbqS8w7tGxSPfH4Z-2TCC7yBUwma-1wzMLurFlCGn2CkV_d_NJpCkVU4SOg7Or4wZHUuwx4AIzTCFc3WQ29MpeylEteHSqvOrqUy606I6Mne0WhGpUW/s500-rw/classi.qzz.png\"]",
         "rating": 3.9
-      },
-      {
-        "id": 176,
-        "name": "KMPlayer 2026.4.24.27 For Windows 64bit",
-        "slug": "kmplayer",
-        "cat": "Media Player",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769445419/software-mirrors/rufvg5hchjhp8c0lpafh.webp\"]",
-        "rating": 4.5
       }
     ],
     "success": true
