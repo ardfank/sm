@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 313,
+        "name": "Spybot – Search & Destroy 2.9.85.5 Technician Edition - Discount 20% OFF",
+        "slug": "spybot-search-destroy-technician-edition-discount-20-off",
+        "cat": "Antivirus",
+        "price": 55.2,
+        "normal_price": 69,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764735463/software-mirrors/jwuarnwq4ne3ktppxnks.webp\"]",
+        "rating": 4.2
+      },
+      {
         "id": 201,
         "name": "YUMI exFAT 1.0.3.8",
         "slug": "yumi-exfat",
@@ -48,7 +58,7 @@
         "cat": "Antivirus",
         "price": 0,
         "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765708149/software-mirrors/nifg4soyvbb9eagsmohy.webp\"]",
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEYcWp6Kj5OvdN8NaC0N3SQsmhQr9_X-Cx5F8cKDRya5uC3Yx_6wRGySvYg5W6Ag5eChr9cTlb6zWA78F1qM4VZ6VPG0qbOd0g5jFAQ-GOTSm-HPksTje8HocmIT2Y743LjakGeuhcOUvA9hDtggbUIF9FvTtva-dZM9Wfsm4CnWyilPxh5AeekugnOfbX/s1600/software-mirrors.webp\"]",
         "rating": 4.8
       },
       {
@@ -989,16 +999,6 @@
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771521478/software-mirrors/moke32jsg0hmxlgx8uqp.webp\"]",
-        "rating": 4.1
-      },
-      {
-        "id": 341,
-        "name": "Nuclear Music Player v1.34.1",
-        "slug": "nuclear-music-player",
-        "cat": "Media Player",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774262388/software-mirrors/wlqpjs1g5spfxotzhg2u.webp\"]",
         "rating": 4.1
       }
     ],
