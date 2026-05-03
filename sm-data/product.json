@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 390,
+        "name": "Kdenlive 26.04.0",
+        "slug": "kdenlive",
+        "cat": "Video Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclPMPM3ZG1PqPotsnF5SxUP9X6puHLApmOmWyYZZAJtwYTFR1eyGRQnEgpA9nIycXul2MMduBtQqh1yGxWqfQxBvA2D2Y4V4Ns8ow2Wed82HRFqtwcqwt5Rx-u1gvEHBi5muNre8arYJKh8hzMj60jwTNg_J7RxA8TBj_EdKxwccY0DMZ9BsvpOQoVk42/s1600/software-mirrors.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 363,
+        "name": "Multica v0.2.24",
+        "slug": "multica",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776091326/software-mirrors/fm7msqyhadauf0hs0oim.webp\"]",
+        "rating": 4.5
+      },
+      {
         "id": 389,
         "name": "Affinity by Canva 3.2.0.4351",
         "slug": "affinity-by-canva",
@@ -150,16 +170,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764557757/software-mirrors/siujuiolwy8c0quuamde.jpg\"]",
         "rating": 5
-      },
-      {
-        "id": 363,
-        "name": "Multica v0.2.23",
-        "slug": "multica",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776091326/software-mirrors/fm7msqyhadauf0hs0oim.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 313,
@@ -990,16 +1000,6 @@
         "normal_price": 99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772634125/software-mirrors/z9ozswab4lzebpozmy99.webp\"]",
         "rating": 4.3
-      },
-      {
-        "id": 294,
-        "name": "Kernel Windows Data Recovery 17.0 - Discount 20% OFF - Technician License",
-        "slug": "kernel-windows-data-recovery-discount-20-off-technician-license",
-        "cat": "Backup Tools",
-        "price": 159.2,
-        "normal_price": 199,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772634125/software-mirrors/z9ozswab4lzebpozmy99.webp\"]",
-        "rating": 4.2
       }
     ],
     "success": true
