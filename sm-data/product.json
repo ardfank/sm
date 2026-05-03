@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 389,
+        "name": "Affinity by Canva 3.2.0.4351",
+        "slug": "affinity-by-canva",
+        "cat": "Image Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4SoMKSQpTxroMnVtFlkyObXdtFDgpK04Bo6AmV54ZjAVPlWkvpPQjhlN7uJGTxLar38SEq37jfOJiEo505XlnWIEX8SQXO9Jj-hOcpf5V0eMq4hc0mK9ya6GalxAFZNBmanpbgFUX_hmC1sChtyfxyB6-Fbf9RGfNbNmTjLiHk-kBRJafOqPT7IpMCHtX/s1600/software-mirrors.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 290,
         "name": "AnyViewer 5.6.0 free for Windows",
         "slug": "anyviewer-free-for-windows",
@@ -990,16 +1000,6 @@
         "normal_price": 199,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772634125/software-mirrors/z9ozswab4lzebpozmy99.webp\"]",
         "rating": 4.2
-      },
-      {
-        "id": 360,
-        "name": "Telegram v6.7.8 Desktop App",
-        "slug": "telegram-desktop-app",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775308341/software-mirrors/dfmf9hcureg5fovbfbzn.webp\"]",
-        "rating": 4.6
       }
     ],
     "success": true
