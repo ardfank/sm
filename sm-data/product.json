@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 388,
+        "name": "ShareX 20.0.4",
+        "slug": "sharex",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1777788855/software-mirrors/ia322qfkafzcpzjihvd6.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 234,
+        "name": "JRiver Media Center 35.0.74",
+        "slug": "jriver-media-center",
+        "cat": "Media Player",
+        "price": 124.98,
+        "normal_price": 124.98,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771353677/software-mirrors/s3bsqdmbus6xljhx88co.jpg\"]",
+        "rating": 4.6
+      },
+      {
         "id": 182,
         "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.5.2",
         "slug": "openclaw-formerly-moltbot-clawd-bot",
@@ -980,26 +1000,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775394385/software-mirrors/ittpqdactjjnrkfhbzat.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 61,
-        "name": "MacX DVD Ripper Pro V6.8.4 (Lifetime)",
-        "slug": "macx-dvd-ripper-pro-lifetime",
-        "cat": "Multimedia",
-        "price": 59.95,
-        "normal_price": 59.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU9zRTrtOm53PcYRJc3ISLpqfGeRYQZeDhFIS-AhtycOjEP4c3aiUR4zMqK83U8Weuw3nc3i8j91Vik0KIC5qUNyeNmObIkFbRCVkRFEj0RkS2FLw14MtH6fIP5gObTAeqB40pOUvTxoAuZhs9YtUgCJhzkWMSWKHqJj__uTGxRI9Fk2PDGzaaxluUw6hr/s500-rw/macx-dvd-ripper-pro-lifetime-software-mirrors.png\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 356,
-        "name": "Driver Booster 13.4.0 PRO (1 year / 1 PC) - Only $14.97",
-        "slug": "driver-booster-13-pro-1-year-1-pc",
-        "cat": "Utilities",
-        "price": 14.97,
-        "normal_price": 24.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKQFvYy4B8bt7IhAH9vjWCqNtNvgArxORULGmE3EksfpZRGt9E0SpvGJ79u2N9AN5syS7fKiQEcqMUy3_u_CJFfyaXvglUsbUdIWud3IM858LvSVn1AecEdDNeowDuLLnHwJN4OrfFGIvT6GUUiTo8wXmZkKezz49LY4GCUyBS69GvlfcnMKW6y_Ep4kU/s500-rw/Classi.qzz.io.jpg\"]",
-        "rating": 4
       }
     ],
     "success": true
