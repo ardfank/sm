@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 315,
+        "name": "MacBooster 8 PRO (1 Year - 3 Macs) - Discount 62% OFF",
+        "slug": "macbooster-8-pro-1-year-3-macs-discount-62-off",
+        "cat": "Utilities",
+        "price": 49.95,
+        "normal_price": 129.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773230435/software-mirrors/aqntfbptrxbfcrg90fhz.webp\"]",
+        "rating": 4.1
+      },
+      {
         "id": 168,
         "name": "Wise Data Recovery Pro 6.2.2.520 (1 Year / 1 PC) - Discount 40% OFF",
         "slug": "wise-data-recovery-pro-1-year-1-pc-discount-40-off",
@@ -990,16 +1000,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769015321/software-mirrors/crusmpgosnol1uwxppii.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 265,
-        "name": "Homedale 1.17 for macOS",
-        "slug": "homedale-for-macos",
-        "cat": "Monitoring Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771856777/software-mirrors/sd5llyge8odxb7vm0he2.webp\"]",
-        "rating": 4
       }
     ],
     "success": true
