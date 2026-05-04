@@ -2,6 +2,56 @@
   {
     "results": [
       {
+        "id": 353,
+        "name": "OpenNext Cloudflare 1.19.6",
+        "slug": "opennext-cloudflare",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775824665/software-mirrors/j7xphevjbpjhmredrqwk.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 59,
+        "name": "Cursor 3.2.21",
+        "slug": "cursor",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 341,
+        "name": "Nuclear Music Player v1.35.0",
+        "slug": "nuclear-music-player",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774262388/software-mirrors/wlqpjs1g5spfxotzhg2u.webp\"]",
+        "rating": 4.1
+      },
+      {
+        "id": 194,
+        "name": "Postman 12.9.0",
+        "slug": "postman",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 169,
+        "name": "Wise Data Recovery Pro 6.2.2.520 (1 Year / 3 PCs) - Discount 40% OFF",
+        "slug": "wise-data-recovery-pro-1-year-3-pcs-discount-40-off",
+        "cat": "Backup Tools",
+        "price": 59.99,
+        "normal_price": 99.98,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769281515/software-mirrors/jt0vqmtjyownpem0srh9.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 363,
         "name": "Multica v0.2.25",
         "slug": "multica",
@@ -362,16 +412,6 @@
         "rating": 4.8
       },
       {
-        "id": 353,
-        "name": "OpenNext Cloudflare 1.19.5",
-        "slug": "opennext-cloudflare",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775824665/software-mirrors/j7xphevjbpjhmredrqwk.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 263,
         "name": "calibre 9.8.0",
         "slug": "calibre",
@@ -420,16 +460,6 @@
         "normal_price": 24.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765779790/software-mirrors/ftwcietovxktlsar6sea.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 194,
-        "name": "Postman 12.8.4",
-        "slug": "postman",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 95,
@@ -702,16 +732,6 @@
         "rating": 4.2
       },
       {
-        "id": 59,
-        "name": "Cursor 3.2.16",
-        "slug": "cursor",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
-        "rating": 4.6
-      },
-      {
         "id": 26,
         "name": "Presenti AI V1.35 - 500,000 Credits Discount 20% OFF",
         "slug": "presenti-ai-500-000-credits-discount-20-off",
@@ -963,7 +983,7 @@
       },
       {
         "id": 198,
-        "name": "WinRAR 7.21",
+        "name": "WinRAR 7.22",
         "slug": "winrar",
         "cat": "Utilities",
         "price": 0,
@@ -980,26 +1000,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3ay-x7-NtYjS-7HtmFwYOnYqsTZHSU-BBZJc-GtaV09QSeY-J_qlkXrozzFqrsgQcU8EuLL38bKNh8YOUxZFSaqUZkRtiy_W0Eusu0rwd5ogMk9Slwc25JnLplHVCfPamna-HbwghPo/s1600/ccc.JPG\"]",
         "rating": 4.9
-      },
-      {
-        "id": 364,
-        "name": "Voicebox v0.5.0",
-        "slug": "voicebox",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776183369/software-mirrors/eiijg5ue9ipdwx5wodfg.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 164,
-        "name": "Revo Uninstaller 2.6.8 Free Download",
-        "slug": "revo-uninstaller-free-download",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769015321/software-mirrors/crusmpgosnol1uwxppii.webp\"]",
-        "rating": 4.7
       }
     ],
     "success": true
