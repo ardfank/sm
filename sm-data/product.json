@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 289,
+        "name": "Anyviewer Professional - 1 Year - Discount 20% OFF",
+        "slug": "anyviewer-professional-1-year-discount-20-off",
+        "cat": "Internet Tools",
+        "price": 34.37,
+        "normal_price": 42.96,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772360073/software-mirrors/qjx9znfgbfcjumwyzmom.webp\"]",
+        "rating": 4.4
+      },
+      {
         "id": 291,
         "name": "AnyViewer 3.5.0 free for macOS",
         "slug": "anyviewer-free-for-macos",
@@ -990,16 +1000,6 @@
         "normal_price": 59.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9c_HV4hAZl5KEGeEIhO1cZxfp0TrmF6LXbo0CBT0UhhHZ9HmIOdWk3H1AtWHh5AxsSV-6CRFNVmL2IcWT23io6d_ZT7RoZSzpDQ8ONnx3kjAhcqQF0n6vaUXNeqDGRKtkleNC9lwCNCDXxljJxUMmIPtZyUXpPdpRbVwQdCmv0jvoqScK1C_ELWo4koCR/s500-c-rw/macx-dvd-ripper-pro-for-windows-lifetime-software-mirrors.png\"]",
         "rating": 4.8
-      },
-      {
-        "id": 45,
-        "name": "WinX DVD Ripper Platinum v8.22.3 (Lifetime License + Free Gift) - Discount 55% OFF",
-        "slug": "winx-dvd-ripper-platinum-discount-50-off",
-        "cat": "Multimedia",
-        "price": 29.95,
-        "normal_price": 67.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmzwMAiqyc6aGeTYmnvDLDZsB-FajdA66GZQ1WkYyOEGOmQhpyvFbC7ZvaOEB5O_h_qYTNHzW4r23JT4DdD-pnWVxXPpMscgJnaodyELm91kBnzC2n-Ra12Er43TJAir3ZvpnHX_LTu9U/s500-rw/sm.png\"]",
-        "rating": 3.7
       }
     ],
     "success": true
