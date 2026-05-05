@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 171,
+        "name": "Wise Folder Hider Pro 5.0.9.239 (1 year subscription / 3PCs) - Discount 40% OFF",
+        "slug": "wise-folder-hider-pro-1-year-subscription-3pcs-discount-40-off",
+        "cat": "Utilities",
+        "price": 17.97,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769331656/software-mirrors/nxn4slhtvu6sgj2dqkeo.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 318,
         "name": "OpenCode v1.14.37",
         "slug": "opencode",
@@ -990,16 +1000,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765352807/software-mirrors/h0vguhqxrgsm74kjuxs3.webp\"]",
         "rating": 5
-      },
-      {
-        "id": 239,
-        "name": "EarthView 7.16.0",
-        "slug": "earthview",
-        "cat": "Internet Tools",
-        "price": 25,
-        "normal_price": 25,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771513798/software-mirrors/cwuf30aa7l2w9zbvad8g.webp\"]",
-        "rating": 4.2
       }
     ],
     "success": true
