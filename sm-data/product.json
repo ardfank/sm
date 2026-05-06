@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 335,
+        "name": "NTLite 2026.05.10992",
+        "slug": "ntlite",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 193,
+        "name": "Ollama 0.23.1",
+        "slug": "ollama",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 395,
+        "name": "InstallerClean v1.7.0",
+        "slug": "installerclean",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778034123/software-mirrors/mmgzq5dlvdtfriy80n8h.webp\"]",
+        "rating": 4.2
+      },
+      {
         "id": 316,
         "name": "PhoneRescue for iOS 4.3.0 (Windows - 1 Year Subs) - Discount 20% OFF",
         "slug": "phonerescue-for-ios-windows-1-year-subs-discount-20-off",
@@ -220,16 +250,6 @@
         "normal_price": 79.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769281515/software-mirrors/jt0vqmtjyownpem0srh9.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 193,
-        "name": "Ollama 0.23.0",
-        "slug": "ollama",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 192,
@@ -932,16 +952,6 @@
         "rating": 4.4
       },
       {
-        "id": 335,
-        "name": "NTLite 2026.04.10973",
-        "slug": "ntlite",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
-        "rating": 4.5
-      },
-      {
         "id": 351,
         "name": "Onyx AI v3.2.12 Desktop App",
         "slug": "onyx-ai",
@@ -989,16 +999,6 @@
         "price": 19.95,
         "normal_price": 19.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s400-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s400-rw/Classi.Qzz.Io.webp\"]",
-        "rating": 4
-      },
-      {
-        "id": 127,
-        "name": "Movavi Video Editor 2026 26.14.0 (1 Year Subscription) - Discount 15% OFF",
-        "slug": "movavi-video-editor-2026-1-year-subscription-discount-15-off",
-        "cat": "Video Editor",
-        "price": 42.46,
-        "normal_price": 49.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s600-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s600-rw/Classi.Qzz.Io.webp\"]",
         "rating": 4
       }
     ],
