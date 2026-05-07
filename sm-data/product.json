@@ -2,6 +2,16 @@
   {
     "results": [
       {
+        "id": 172,
+        "name": "Wise Duplicate Finder 2.1.9.71 (1 year subscription / 3 PCs) - Discount 20% OFF",
+        "slug": "wise-duplicate-finder-1-year-subscription-3-pcs-discount-20-off",
+        "cat": "Utilities",
+        "price": 15.96,
+        "normal_price": 19.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769332547/software-mirrors/iydlvgrueqywgv9yrtoj.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 59,
         "name": "Cursor 3.3.12",
         "slug": "cursor",
@@ -990,16 +1000,6 @@
         "normal_price": 19.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Clqgi1rK7JXSHeynHPeApJteinnmSzgXhAwlgeXY7eHkVKEpgsFSSQl8ggq26xexuJg05Hh-PYQssTncyGDzwlbP6GVa38bVbY3rAa4y5rLJCDOEMhvDV4AD5Iaa_CGcrOsOEHK7a-U/s1600-rw/software-mirrors.png\"]",
         "rating": 4.4
-      },
-      {
-        "id": 351,
-        "name": "Onyx AI v3.2.12 Desktop App",
-        "slug": "onyx-ai",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
-        "rating": 4.6
       }
     ],
     "success": true
