@@ -2,6 +2,66 @@
   {
     "results": [
       {
+        "id": 335,
+        "name": "NTLite 2026.05.10996",
+        "slug": "ntlite",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 318,
+        "name": "OpenCode v1.14.40",
+        "slug": "opencode",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 353,
+        "name": "OpenNext Cloudflare 1.19.7",
+        "slug": "opennext-cloudflare",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775824665/software-mirrors/j7xphevjbpjhmredrqwk.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 352,
+        "name": "Next.js 16.2.5",
+        "slug": "next-js",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774792542/software-mirrors/frc9dbgbzvyorljb3bvg.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 59,
+        "name": "Cursor 3.3.16",
+        "slug": "cursor",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 337,
+        "name": "ChatGPT MacOS App (06 May 2026)",
+        "slug": "chatgpt-macos-app",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773966741/software-mirrors/gbshc1bgproshcnhc2oo.webp\"]",
+        "rating": 4.6
+      },
+      {
         "id": 172,
         "name": "Wise Duplicate Finder 2.1.9.71 (1 year subscription / 3 PCs) - Discount 20% OFF",
         "slug": "wise-duplicate-finder-1-year-subscription-3-pcs-discount-20-off",
@@ -10,16 +70,6 @@
         "normal_price": 19.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769332547/software-mirrors/iydlvgrueqywgv9yrtoj.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 59,
-        "name": "Cursor 3.3.12",
-        "slug": "cursor",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
-        "rating": 4.6
       },
       {
         "id": 99,
@@ -102,16 +152,6 @@
         "rating": 3.8
       },
       {
-        "id": 335,
-        "name": "NTLite 2026.05.10992",
-        "slug": "ntlite",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
-        "rating": 4.5
-      },
-      {
         "id": 193,
         "name": "Ollama 0.23.1",
         "slug": "ollama",
@@ -180,16 +220,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775394385/software-mirrors/ittpqdactjjnrkfhbzat.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 318,
-        "name": "OpenCode v1.14.39",
-        "slug": "opencode",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
-        "rating": 4.4
       },
       {
         "id": 194,
@@ -280,16 +310,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766240967/software-mirrors/erzmicbqjkxpynqox9du.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 353,
-        "name": "OpenNext Cloudflare 1.19.6",
-        "slug": "opennext-cloudflare",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775824665/software-mirrors/j7xphevjbpjhmredrqwk.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 341,
@@ -980,26 +1000,6 @@
         "normal_price": 499,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765899208/software-mirrors/m7mzccicmuwrm38zpdwa.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 31,
-        "name": "RoboTask 10.6 (personal license) Discount 20% OFF",
-        "slug": "robotask-personal-license-discount-20-off",
-        "cat": "Utilities",
-        "price": 119.2,
-        "normal_price": 149,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765543885/software-mirrors/uysx0sbsmxvqs9hwdz4c.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNM7iKtJRFjfiiGV1i59r0Jt0jdBE1AQf0LITbqZyHZRFekqAwTujJ7Ou_k9DHK5lwoQI8tUSxND-XlSwPNH-LgpDRXtPDO6pcSccYqUc_cyDNeDDJv99zmS_2eaQoXcnYV0QHhumdd6F52J8i3aSolJbSCrnX-fIUPXq1ok_wuMlAxnr8NTFg5m879vex/s1600-rw/classi.qzz.io.png\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 148,
-        "name": "IObit Malware Fighter 13.2.0 PRO (1 year subscription / 1 PCs) - Discount 20% OFF",
-        "slug": "iobit-malware-fighter-pro-1-year-subscription-1-pcs-discount-20-off",
-        "cat": "Antivirus",
-        "price": 15.96,
-        "normal_price": 19.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Clqgi1rK7JXSHeynHPeApJteinnmSzgXhAwlgeXY7eHkVKEpgsFSSQl8ggq26xexuJg05Hh-PYQssTncyGDzwlbP6GVa38bVbY3rAa4y5rLJCDOEMhvDV4AD5Iaa_CGcrOsOEHK7a-U/s1600-rw/software-mirrors.png\"]",
-        "rating": 4.4
       }
     ],
     "success": true
