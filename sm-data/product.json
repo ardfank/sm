@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 396,
+        "name": "DeepSeek TUI v0.8.16",
+        "slug": "deepseek-tui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778154407/software-mirrors/zalakqc1g2io1ymrn83c.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 321,
+        "name": "IObit Super Pack - Exclusive 91% OFF (IObit Uninstaller + Malware Fighter + Advanced SystemCare + Software Updater + Driver Booster)",
+        "slug": "iobit-super-pack-exclusive-91-off-iobit-uninstaller-malware-fighter-advanced-systemcare-software-updater-driver-booster",
+        "cat": "Utilities",
+        "price": 27.4,
+        "normal_price": 349.08,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773564630/software-mirrors/wwzyofcxvorqsjyqzhch.webp\"]",
+        "rating": 4.8
+      },
+      {
         "id": 363,
         "name": "Multica v0.2.27",
         "slug": "multica",
@@ -980,26 +1000,6 @@
         "normal_price": 259,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772900294/software-mirrors/rmk9zjaot7qfybqdpmi9.webp\"]",
         "rating": 4.4
-      },
-      {
-        "id": 118,
-        "name": "Mozilla Firefox Stable 150.0.1",
-        "slug": "mozilla-firefox",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766022669/software-mirrors/fslvptdzgd3fodi7avwy.webp\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 103,
-        "name": "AVG AntiVirus Free Edition 26.4.10932 Offline Installer",
-        "slug": "avg-antivirus-free-edition-offline-installer",
-        "cat": "Antivirus",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765471138/software-mirrors/nj0soq3syvif32mkuyjh.webp\"]",
-        "rating": 4.2
       }
     ],
     "success": true
