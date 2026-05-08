@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 363,
+        "name": "Multica v0.2.28",
+        "slug": "multica",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776091326/software-mirrors/fm7msqyhadauf0hs0oim.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 397,
+        "name": "SolitaireOK 1.21",
+        "slug": "solitaireok",
+        "cat": "Games",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778243609/software-mirrors/gsxlbpijdfbjfqh4lkrq.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 325,
+        "name": "RankDots Agency (monthly billing) - Discount 20% Off",
+        "slug": "rankdots-agency-monthly-billing-discount-20-off",
+        "cat": "Web Analytics",
+        "price": 135.2,
+        "normal_price": 169,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvLcdXv9q7Xo1oZgntXEs-fE_iR3pAlq7FllZ_b7UMfRw1V_HYQFBIrnUp62k6Tdj7KFSE5sU04FASTROyDj2aSGvmLtmdUZKxyNU-_411dRDy4azxK_jYOo6pfSJ2xhVOc9UTHuMonjT95m5brYDvX17esCNo4y9HgJhejB1Fs8YzmzY3Woow7xZVhU/s512-rw/RankDots.png\"]",
+        "rating": 4.2
+      },
+      {
         "id": 360,
         "name": "Telegram v6.8.1 Desktop App",
         "slug": "telegram-desktop-app",
@@ -320,16 +350,6 @@
         "normal_price": 349.08,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773564630/software-mirrors/wwzyofcxvorqsjyqzhch.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 363,
-        "name": "Multica v0.2.27",
-        "slug": "multica",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776091326/software-mirrors/fm7msqyhadauf0hs0oim.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 170,
@@ -980,26 +1000,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765654570/software-mirrors/lnb7fqwck9x2lwpz9fb8.webp\"]",
         "rating": 4.2
-      },
-      {
-        "id": 7,
-        "name": "RoboTask 10.6 (business license) Discount 20% OFF",
-        "slug": "robotask-business-license-discount-20-off",
-        "cat": "Utilities",
-        "price": 199.2,
-        "normal_price": 249,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765543885/software-mirrors/uysx0sbsmxvqs9hwdz4c.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNM7iKtJRFjfiiGV1i59r0Jt0jdBE1AQf0LITbqZyHZRFekqAwTujJ7Ou_k9DHK5lwoQI8tUSxND-XlSwPNH-LgpDRXtPDO6pcSccYqUc_cyDNeDDJv99zmS_2eaQoXcnYV0QHhumdd6F52J8i3aSolJbSCrnX-fIUPXq1ok_wuMlAxnr8NTFg5m879vex/s1600-rw/classi.qzz.io.png\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 58,
-        "name": "Glarysoft Software Update Pro 6.64.0.64 - Discount 50% Off",
-        "slug": "glarysoft-software-update-pro-discount-50-off",
-        "cat": "Utilities",
-        "price": 14.97,
-        "normal_price": 29.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw_j5YwID8DVoc_4XPnQHnhUVBxBFaiwP__socVXl1iHJnrKdWmPZVXCQh9KOP5oHppbjS87bAXfjSJS71c3df3KJYbykJk-ij3c001LakYsNNcy5saM5uKdT0x218pekB0SFBkKxlcWbJlAhBNVZil2HGT5UOx2E_ncyXxIeFFtauEoi0iDbrpcI5fUKn/s500-rw/glarysoft-software-update-pro-software-mirrors.jpg\"]",
-        "rating": 3.3
       }
     ],
     "success": true
