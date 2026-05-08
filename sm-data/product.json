@@ -2,6 +2,46 @@
   {
     "results": [
       {
+        "id": 327,
+        "name": "RankDots Enterprise (monthly billing) - Discount 20% Off",
+        "slug": "rankdots-enterprise-monthly-billing-discount-20-off",
+        "cat": "Web Analytics",
+        "price": 239.2,
+        "normal_price": 299,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvLcdXv9q7Xo1oZgntXEs-fE_iR3pAlq7FllZ_b7UMfRw1V_HYQFBIrnUp62k6Tdj7KFSE5sU04FASTROyDj2aSGvmLtmdUZKxyNU-_411dRDy4azxK_jYOo6pfSJ2xhVOc9UTHuMonjT95m5brYDvX17esCNo4y9HgJhejB1Fs8YzmzY3Woow7xZVhU/s512-rw/RankDots.png\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 50,
+        "name": "Brave Browser Release v1.90.121 (Chromium 148.0.7778.96) Offline Installer",
+        "slug": "brave-browser-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 59,
+        "name": "Cursor 3.3.22",
+        "slug": "cursor",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 193,
+        "name": "Ollama 0.23.2",
+        "slug": "ollama",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
+        "rating": 4.7
+      },
+      {
         "id": 182,
         "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.5.7",
         "slug": "openclaw-formerly-moltbot-clawd-bot",
@@ -272,16 +312,6 @@
         "rating": 4.8
       },
       {
-        "id": 59,
-        "name": "Cursor 3.3.16",
-        "slug": "cursor",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
-        "rating": 4.6
-      },
-      {
         "id": 337,
         "name": "ChatGPT MacOS App (06 May 2026)",
         "slug": "chatgpt-macos-app",
@@ -370,16 +400,6 @@
         "normal_price": 62.45,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsvLOQcsdFvj8slryCuCLGs50_oZTX2wWHsUu2exIIZntuuslRpHCG70gs0cBX8cFPVHRrJlfNo9hJVSLdjp3kgtpHqcLHP36ykHW9etS6cI6ilavoFr5lOtH-TlT_pLABlUtaobcRzzwswX8Yfhffx5TgwlaOU1tSV6_PVorwv8ivcm1oK5KPrzAZLqI4/s1600-rw/aiseesoft-screen-recorder-classi.qzz.io.png\"]",
         "rating": 3.8
-      },
-      {
-        "id": 193,
-        "name": "Ollama 0.23.1",
-        "slug": "ollama",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770019948/software-mirrors/bibhl1slyivqewg12cm6.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 395,
@@ -952,16 +972,6 @@
         "rating": 3.3
       },
       {
-        "id": 50,
-        "name": "Brave Browser Release v1.89.145 (Chromium 147.0.7727.137) Offline Installer",
-        "slug": "brave-browser-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
-        "rating": 4.9
-      },
-      {
         "id": 175,
         "name": "HyperSnap 9.8.0",
         "slug": "hypersnap",
@@ -989,16 +999,6 @@
         "price": 59.95,
         "normal_price": 59.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772036563/software-mirrors/mhk9hxrjuvb9tk2quadl.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 272,
-        "name": "AOMEI FastRecovery 4.9.5 Professional (Lifetime Upgrades / 2 Computers) - Discount 30% OFF",
-        "slug": "aomei-fastrecovery-professional-lifetime-upgrades-2-computers-discount-30-off",
-        "cat": "Backup Tools",
-        "price": 48.97,
-        "normal_price": 69.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772036563/software-mirrors/mhk9hxrjuvb9tk2quadl.webp?width=384\"]",
         "rating": 4.5
       }
     ],
