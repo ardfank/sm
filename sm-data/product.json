@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 399,
+        "name": "Mp3tag v3.34.1",
+        "slug": "mp3tag",
+        "cat": "Multimedia",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778255528/software-mirrors/mfx0ubpya3scoahov1be.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 398,
+        "name": "Vivaldi 7.9.3970.64",
+        "slug": "vivaldi",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778247236/software-mirrors/iqxlvw0dziu6ttglealt.webp\"]",
+        "rating": 4.8
+      },
+      {
         "id": 363,
         "name": "Multica v0.2.28",
         "slug": "multica",
@@ -980,26 +1000,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772191328/software-mirrors/tfrxa6eyiilqhvadrmcg.webp\"]",
         "rating": 4.1
-      },
-      {
-        "id": 232,
-        "name": "Q-Dir 12.62",
-        "slug": "q-dir",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771305542/software-mirrors/yklcamljtlb0pbjmds0i.webp\"]",
-        "rating": 4.4
-      },
-      {
-        "id": 107,
-        "name": "NoxPlayer 7.0.6.2",
-        "slug": "noxplayer",
-        "cat": "Emulator",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765654570/software-mirrors/lnb7fqwck9x2lwpz9fb8.webp\"]",
-        "rating": 4.2
       }
     ],
     "success": true
