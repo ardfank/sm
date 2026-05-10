@@ -2,6 +2,36 @@
   {
     "results": [
       {
+        "id": 59,
+        "name": "Cursor 3.3.30",
+        "slug": "cursor",
+        "cat": "Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 402,
+        "name": "FreeCellOK 1.06",
+        "slug": "freecellok",
+        "cat": "Games",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-uNE_bAktIMcFT78Fj__jYRFhTLLPMGIN4kz44Awf8gLrW9irMex57ii-WfbwGOfsHL6_9s12B2Om0h6gGLKnQ2vzXYTt1Njmjz1Q4VX67Mi7cHstcpOAZII_SWrqF_Tci0tVnArcicGXyjRRo4ephKDgNkMl1tPRKxKDKbZcytC_hI4NVsGYAZhEY_-q/s512/software-mirrors.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 401,
+        "name": "QuickTextPaste 9.51",
+        "slug": "quicktextpaste",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778386523/software-mirrors/yitxckviwwuqq3syi4vf.webp\"]",
+        "rating": 4.5
+      },
+      {
         "id": 102,
         "name": "RecoveryFox AI v1.0 (LIFETIME) - Discount 15% OFF",
         "slug": "recoveryfox-ai",
@@ -160,16 +190,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
         "rating": 4.9
-      },
-      {
-        "id": 59,
-        "name": "Cursor 3.3.27",
-        "slug": "cursor",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
-        "rating": 4.6
       },
       {
         "id": 194,
@@ -980,26 +1000,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEYcWp6Kj5OvdN8NaC0N3SQsmhQr9_X-Cx5F8cKDRya5uC3Yx_6wRGySvYg5W6Ag5eChr9cTlb6zWA78F1qM4VZ6VPG0qbOd0g5jFAQ-GOTSm-HPksTje8HocmIT2Y743LjakGeuhcOUvA9hDtggbUIF9FvTtva-dZM9Wfsm4CnWyilPxh5AeekugnOfbX/s1600/software-mirrors.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 124,
-        "name": "Any Video Converter Pro V9.2.0 For Windows - Discount 40% Off",
-        "slug": "any-video-converter-pro-for-windows-discount-40-off",
-        "cat": "Multimedia",
-        "price": 49.95,
-        "normal_price": 79.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766254143/software-mirrors/pbtqnkjtfbrnbbroq30v.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 191,
-        "name": "Shotcut 26.4.30",
-        "slug": "shotcut",
-        "cat": "Video Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769966339/software-mirrors/mnb6rqwbjsxvvcrjkmpa.webp\"]",
-        "rating": 4.3
       }
     ],
     "success": true
