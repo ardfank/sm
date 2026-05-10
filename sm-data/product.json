@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 404,
+        "name": "ChrisPC Free VideoTube Downloader 15.26.0509 for Windows",
+        "slug": "chrispc-free-videotube-downloader-for-windows",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778426777/software-mirrors/bv4ign7e1eowkbir8akm.webp\"]",
+        "rating": 4
+      },
+      {
+        "id": 403,
+        "name": "VidMate 6.0102 APK for Android",
+        "slug": "vidmate-apk-for-android",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778425069/software-mirrors/urrhwkinf8iv9qrjbntd.webp\"]",
+        "rating": 3.6
+      },
+      {
         "id": 324,
         "name": "RankDots Starter (monthly billing) - Discount 20% Off",
         "slug": "rankdots-starter-monthly-billing-discount-20-off",
@@ -978,26 +998,6 @@
         "cat": "Antivirus",
         "price": 55.2,
         "normal_price": 69,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764735463/software-mirrors/jwuarnwq4ne3ktppxnks.webp\"]",
-        "rating": 4.2
-      },
-      {
-        "id": 201,
-        "name": "YUMI exFAT 1.0.3.8",
-        "slug": "yumi-exfat",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770300382/software-mirrors/wr5jftykatoo0cod5rdx.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 314,
-        "name": "Spybot – Search & Destroy 2.9.85.5 Corporate Edition - Discount 20% OFF",
-        "slug": "spybot-search-destroy-corporate-edition-discount-20-off",
-        "cat": "Antivirus",
-        "price": 39.99,
-        "normal_price": 49.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764735463/software-mirrors/jwuarnwq4ne3ktppxnks.webp\"]",
         "rating": 4.2
       }
