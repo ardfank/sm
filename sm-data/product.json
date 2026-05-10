@@ -2,6 +2,26 @@
   {
     "results": [
       {
+        "id": 396,
+        "name": "DeepSeek TUI v0.8.26",
+        "slug": "deepseek-tui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778154407/software-mirrors/zalakqc1g2io1ymrn83c.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 239,
+        "name": "EarthView 7.16.1",
+        "slug": "earthview",
+        "cat": "Internet Tools",
+        "price": 25,
+        "normal_price": 25,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771513798/software-mirrors/cwuf30aa7l2w9zbvad8g.webp\"]",
+        "rating": 4.2
+      },
+      {
         "id": 404,
         "name": "ChrisPC Free VideoTube Downloader 15.26.0509 for Windows",
         "slug": "chrispc-free-videotube-downloader-for-windows",
@@ -110,16 +130,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclPMPM3ZG1PqPotsnF5SxUP9X6puHLApmOmWyYZZAJtwYTFR1eyGRQnEgpA9nIycXul2MMduBtQqh1yGxWqfQxBvA2D2Y4V4Ns8ow2Wed82HRFqtwcqwt5Rx-u1gvEHBi5muNre8arYJKh8hzMj60jwTNg_J7RxA8TBj_EdKxwccY0DMZ9BsvpOQoVk42/s1600/software-mirrors.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 396,
-        "name": "DeepSeek TUI v0.8.24",
-        "slug": "deepseek-tui",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778154407/software-mirrors/zalakqc1g2io1ymrn83c.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 338,
@@ -990,16 +1000,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764557757/software-mirrors/siujuiolwy8c0quuamde.jpg\"]",
         "rating": 5
-      },
-      {
-        "id": 313,
-        "name": "Spybot – Search & Destroy 2.9.85.5 Technician Edition - Discount 20% OFF",
-        "slug": "spybot-search-destroy-technician-edition-discount-20-off",
-        "cat": "Antivirus",
-        "price": 55.2,
-        "normal_price": 69,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764735463/software-mirrors/jwuarnwq4ne3ktppxnks.webp\"]",
-        "rating": 4.2
       }
     ],
     "success": true
