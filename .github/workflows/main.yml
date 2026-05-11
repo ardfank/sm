@@ -1,7 +1,7 @@
 name: DB to JSON
 on:
   schedule:
-    - cron: "46 * * * *"
+    - cron: "6 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -22,6 +22,7 @@ jobs:
           wrangler d1 execute toko-suhada --remote --command="SELECT id,name,slug,cat,price,normal_price,img,rating FROM produk ORDER BY created_at DESC" --json > sm-data/temp-product.json
           jq 'map(del(.meta))' sm-data/temp-product.json > sm-data/product.json
           rm -f sm-data/temp-product.json
+          wrangler kv key put products --path sm-data/product.json --namespace-id 51146deea0d548e0aee8dcaa439709f4 --remote
           ls -latrh sm-data/
       - name: Blog
         env:
@@ -30,6 +31,7 @@ jobs:
           wrangler d1 execute toko-suhada --remote --command="SELECT id,title,slug,post,img FROM blog ORDER BY created_at DESC" --json > sm-data/temp-blog.json
           jq 'map(del(.meta))' sm-data/temp-blog.json > sm-data/blog.json
           rm -f sm-data/temp-blog.json
+          wrangler kv key put blogs --path sm-data/blog.json --namespace-id 51146deea0d548e0aee8dcaa439709f4 --remote
           ls -latrh sm-data/
       - name: Commit
         run: |
