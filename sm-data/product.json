@@ -2,8 +2,58 @@
   {
     "results": [
       {
+        "id": 123,
+        "name": "CapCut For Windows 8.5.0.3590 Offline Installer",
+        "slug": "capcut-for-windows",
+        "cat": "Video Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766240967/software-mirrors/erzmicbqjkxpynqox9du.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 181,
+        "name": "Cloudflare WARP 2026.4.1350.0",
+        "slug": "cloudflare-warp",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769573052/software-mirrors/yt7kmy2icjpqo8u6mse9.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 335,
+        "name": "NTLite 2026.05.11004",
+        "slug": "ntlite",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 142,
+        "name": "CapCut APK For Android 17.7.0",
+        "slug": "capcut-apk-for-android",
+        "cat": "Video Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767634443/software-mirrors/ohru8dccvyq5iahcaupj.jpg\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 64,
+        "name": "uBlock Origin 1.71.0 for Firefox, Chrome, Edge and Opera",
+        "slug": "ublock-origin-for-firefox-chrome-edge-and-opera",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAsSxWWykEn2wr38dDqTjqPGB7TQYg_1SuLU2rStyKM6b6VK4qvQ5miOgxNXkfcqUau28B7Tn8XfOOYZnB4YvxZGh7ynsVMnr9D8tLBq3hdRbyVx5JCBHxsghor4KaLuAXoSYlCn2cKwKC/s500-rw/uBlock_Origin-software-mirrors.jpg\"]",
+        "rating": 5
+      },
+      {
         "id": 407,
-        "name": "Claude Desktop 1.6608.2",
+        "name": "Claude Desktop universal",
         "slug": "claude-desktop",
         "cat": "Developer Tools",
         "price": 0,
@@ -330,16 +380,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
         "rating": 4.7
-      },
-      {
-        "id": 335,
-        "name": "NTLite 2026.05.11000",
-        "slug": "ntlite",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 30,
@@ -1692,16 +1732,6 @@
         "rating": 4.5
       },
       {
-        "id": 142,
-        "name": "CapCut APK For Android 17.6.0",
-        "slug": "capcut-apk-for-android",
-        "cat": "Video Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767634443/software-mirrors/ohru8dccvyq5iahcaupj.jpg\"]",
-        "rating": 4.8
-      },
-      {
         "id": 121,
         "name": "FrostWire 7.0.4-build-331",
         "slug": "frostwire-bittorent-client",
@@ -2892,16 +2922,6 @@
         "rating": 3.7
       },
       {
-        "id": 181,
-        "name": "Cloudflare WARP 2026.3.851.0",
-        "slug": "cloudflare-warp",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769573052/software-mirrors/yt7kmy2icjpqo8u6mse9.webp\"]",
-        "rating": 4.6
-      },
-      {
         "id": 53,
         "name": "DriverMax 17.11.12 (1 year Subscription) - Discount 75% OFF",
         "slug": "drivermax-1-year-subscription-75-off",
@@ -3482,16 +3502,6 @@
         "rating": 4.5
       },
       {
-        "id": 123,
-        "name": "CapCut For Windows 8.3.0.3497 Offline Installer",
-        "slug": "capcut-for-windows",
-        "cat": "Video Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766240967/software-mirrors/erzmicbqjkxpynqox9du.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 159,
         "name": "Wise Care 365 7.3.5.722 Pro (1 year subscription / 3 PCs) - Discount 40% OFF",
         "slug": "wise-care-365-pro-1-year-subscription-3-pcs-discount-40-off",
@@ -3920,16 +3930,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772360073/software-mirrors/qjx9znfgbfcjumwyzmom.webp\"]",
         "rating": 4.4
-      },
-      {
-        "id": 64,
-        "name": "uBlock Origin 1.70.0 for Firefox, Chrome, Edge and Opera",
-        "slug": "ublock-origin-for-firefox-chrome-edge-and-opera",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAsSxWWykEn2wr38dDqTjqPGB7TQYg_1SuLU2rStyKM6b6VK4qvQ5miOgxNXkfcqUau28B7Tn8XfOOYZnB4YvxZGh7ynsVMnr9D8tLBq3hdRbyVx5JCBHxsghor4KaLuAXoSYlCn2cKwKC/s500-rw/uBlock_Origin-software-mirrors.jpg\"]",
-        "rating": 5
       },
       {
         "id": 62,
