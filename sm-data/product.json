@@ -2,34 +2,1154 @@
   {
     "results": [
       {
+        "id": 453,
+        "name": "FluffyChat v2.6.0 APK for Android",
+        "slug": "fluffychat-apk-for-android",
+        "cat": "Social Networking",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1780311347/software-mirrors/yvuakaybuzojhdnxyega.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 59,
+        "name": "Cursor 3.6.31",
+        "slug": "cursor",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 71,
+        "name": "RankDots Business (monthly billing) Discount 20% OFF",
+        "slug": "rankdots-business-monthly-billing-discount-20-off",
+        "cat": "Web Analytics",
+        "price": 79.2,
+        "normal_price": 99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvLcdXv9q7Xo1oZgntXEs-fE_iR3pAlq7FllZ_b7UMfRw1V_HYQFBIrnUp62k6Tdj7KFSE5sU04FASTROyDj2aSGvmLtmdUZKxyNU-_411dRDy4azxK_jYOo6pfSJ2xhVOc9UTHuMonjT95m5brYDvX17esCNo4y9HgJhejB1Fs8YzmzY3Woow7xZVhU/s512-rw/RankDots.png\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 34,
+        "name": "Spybot Search & Destroy 2.9.85.5 Home Edition - Discount 10% OFF",
+        "slug": "spybot-home-edition-discount-10-off",
+        "cat": "Antivirus",
+        "price": 17.09,
+        "normal_price": 18.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764735463/software-mirrors/jwuarnwq4ne3ktppxnks.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764734583/software-mirrors/nf2xkeltf9gdjn7eflvn.webp\"]",
+        "rating": 3.6
+      },
+      {
+        "id": 230,
+        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Standard (yearly plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-standard-yearly-plan-discount-20-off",
+        "cat": "Office Tools",
+        "price": 89.1,
+        "normal_price": 99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771165745/software-mirrors/nb3ss7dq25aw6nxrbsnm.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 44,
+        "name": "WinX Media Master [5-in-1] (DVD Ripper Platinum + MediaTrans + DVD Copy Pro + Winxvideo AI ) Discount 58% OFF",
+        "slug": "winx-media-master-5-in-1-dvd-ripper-platinum-mediatrans-dvd-copy-pro-winxvideo-ai-discount-58-off",
+        "cat": "Multimedia",
+        "price": 89.95,
+        "normal_price": 218.8,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmzwMAiqyc6aGeTYmnvDLDZsB-FajdA66GZQ1WkYyOEGOmQhpyvFbC7ZvaOEB5O_h_qYTNHzW4r23JT4DdD-pnWVxXPpMscgJnaodyELm91kBnzC2n-Ra12Er43TJAir3ZvpnHX_LTu9U/s500-rw/sm.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWcjXPBBAMW_9zRcSbSAZIEaKAKscW51Md_q3t5XerIx5JfElrSj2qjY3xotoHqZwRyCL7U1gT40dDl-vcIQVQ0ozSgmScu5TJO0eXr2QKkkOqBpfB14iKEunhsZuoOzfcb4n2l82pEvO2/s500-rw/sm.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6WZEGH72IzNWV1CqloGNANRzR2nJH9ZkmrOfF4VvD5KGXOUndeZDgs3ZJSiG-0447D3Zug1yIGq9raq9CsxkYuS87g1oSUFtoiZkCxA33DlsMlq-7sNgjfi3PIN0Sscuu5ttKMlu2jR0aFFfEQJaam4TJWKzPGGv7qwCHnjb8m6LVENRV2lX0hGJHRg0/s1600-rw/1703455678_winxvideo-ai.png\"]",
+        "rating": 4
+      },
+      {
+        "id": 335,
+        "name": "NTLite 2026.05.11090",
+        "slug": "ntlite",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 55,
+        "name": "Notepad++ release 8.9.6.2",
+        "slug": "notepad-plus-plus",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765352807/software-mirrors/h0vguhqxrgsm74kjuxs3.webp\"]",
+        "rating": 5
+      },
+      {
+        "id": 192,
+        "name": "DBeaver 26.1.0 Community Edition",
+        "slug": "dbeaver-community-edition",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769994017/software-mirrors/jlqe2tqlpw5gvhb3yhpj.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 110,
+        "name": "Aiarty Image Tool Bundle (Lifetime) - Discount 50% Off",
+        "slug": "aiarty-image-tool-bundle-lifetime-discount-50-off",
+        "cat": "Graphic Design",
+        "price": 129,
+        "normal_price": 264,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765713315/software-mirrors/obdivsb26h4keomlfrcc.jpg\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 452,
+        "name": "VideoProc Converter AI 8.11 (Premium 365 | 3 PCs) - Discount 50% Off",
+        "slug": "videoproc-converter-ai-premium-365-3-pcs-discount-50-off",
+        "cat": "Video Converter",
+        "price": 29.9,
+        "normal_price": 59.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766300491/software-mirrors/xlhbxczwsgfsy2jmg6ao.jpg\"]",
+        "rating": 4.5
+      },
+      {
         "id": 439,
-        "name": "optimizerDuck v2.14.0",
+        "name": "optimizerDuck v2.18.1",
         "slug": "optimizerduck",
-        "cat": "System Optimization",
+        "cat": "Utilities",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779695173/software-mirrors/q1wfqqavjy2vbpa8rals.webp\"]",
         "rating": 4.1
       },
       {
-        "id": 355,
-        "name": "Advanced SystemCare 19 PRO (1 YEAR, 1 PC) - Only $11.99",
-        "slug": "advanced-systemcare-19-pro-1-year-1-pc-only-11-99",
-        "cat": "System Optimization",
-        "price": 11.99,
-        "normal_price": 29.99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEszGnSAZIMkbm8bh8zn52ncXithHY9Xc7yE13ntwmb0-4QWBaRiSwZXGQyupccGEiz6QkW-3K5ejuOJENNBr8_tk6dVaKNF6ErquTEEuv1C_unmEdL_ZZTiHUYR572H77EOeshw6CujTOYhEcEcu4atroJU1yn8f8bxDTU0_roeWnua2bIcD6bHUDnbu6/s1600-rw/advanced-systemcare-software-mirrors.png\"]",
+        "id": 334,
+        "name": "WhatsApp 2.26.21.73 APK for Android",
+        "slug": "whatsapp-apk-for-android",
+        "cat": "Social Networking",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773687735/software-mirrors/i4fnoy9hp8vqmljpky3h.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 215,
+        "name": "AionUI v2.1.8",
+        "slug": "aionui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 66,
+        "name": "RankDots Business (annual billing) Discount 20% OFF",
+        "slug": "rankdots-business-annual-billing-discount-20-off",
+        "cat": "Web Analytics",
+        "price": 950.4,
+        "normal_price": 1188,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvLcdXv9q7Xo1oZgntXEs-fE_iR3pAlq7FllZ_b7UMfRw1V_HYQFBIrnUp62k6Tdj7KFSE5sU04FASTROyDj2aSGvmLtmdUZKxyNU-_411dRDy4azxK_jYOo6pfSJ2xhVOc9UTHuMonjT95m5brYDvX17esCNo4y9HgJhejB1Fs8YzmzY3Woow7xZVhU/s512-rw/RankDots.png\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 451,
+        "name": "DVD-Cloner V22.40.1495 Platinum - Discount 20% Off",
+        "slug": "dvd-cloner-platinum-discount-20-off",
+        "cat": "Utilities",
+        "price": 63.99,
+        "normal_price": 79.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1780226861/software-mirrors/z8bizol5z96kuycpl6zj.jpg\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 450,
+        "name": "DVD-Cloner V22.40.1495 - Discount 20% Off",
+        "slug": "dvd-cloner",
+        "cat": "Utilities",
+        "price": 47.99,
+        "normal_price": 59.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1780226861/software-mirrors/z8bizol5z96kuycpl6zj.jpg\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 318,
+        "name": "OpenCode v1.15.13",
+        "slug": "opencode",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 20,
+        "name": "Picture Collage Maker 4.1.4 - Discount 20% OFF",
+        "slug": "picture-collage-maker-discount-20-off",
+        "cat": "Graphic Design",
+        "price": 23.92,
+        "normal_price": 29.9,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771336278/software-mirrors/mwz24buqwbkpy7hr6yxa.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 182,
+        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.5.28",
+        "slug": "openclaw-formerly-moltbot-clawd-bot",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 22,
+        "name": "Picture Collage Maker 3.7.3 For Mac - Discount 20% OFF",
+        "slug": "picture-collage-maker-for-mac-discount-20-off",
+        "cat": "Graphic Design",
+        "price": 31.92,
+        "normal_price": 39.9,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771334117/software-mirrors/dgdpectfpp5ogbzxivjp.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 228,
+        "name": "ABBYY FineReader PDF for Mac Release 5 Update 5 (yearly plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-for-mac-yearly-plan-discount-20-off",
+        "cat": "Office Tools",
+        "price": 62.1,
+        "normal_price": 69,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771162816/software-mirrors/ltdc6wqxveuvxx0qtsjn.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 338,
+        "name": "OpenAI Codex App 26.527.31326 for macOS",
+        "slug": "openai-codex-app-for-macos",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 449,
+        "name": "Easy GIF Animator 7.3 Pro - Discount 20% OFF",
+        "slug": "easy-gif-animator-pro-discount-20-off",
+        "cat": "Graphic Design",
+        "price": 47.96,
+        "normal_price": 59.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1780122287/software-mirrors/txpeclv6cf0cpggt3lem.webp\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 227,
+        "name": "ABBYY FineReader PDF for Mac Release 5 Update 5 (3-year plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-for-mac-3-year-plan-discount-20-off",
+        "cat": "Office Tools",
+        "price": 148.8,
+        "normal_price": 186,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771162816/software-mirrors/ltdc6wqxveuvxx0qtsjn.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 448,
+        "name": "Easy GIF Animator 7.3 Personal - Discount 20% OFF",
+        "slug": "easy-gif-animator-personal-discount-20-off",
+        "cat": "Graphic Design",
+        "price": 23.96,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1780122287/software-mirrors/txpeclv6cf0cpggt3lem.webp\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 21,
+        "name": "Picture Collage Maker 4.1.4 PRO - Discount 20% OFF",
+        "slug": "picture-collage-maker-pro-discount-20-off",
+        "cat": "Graphic Design",
+        "price": 31.92,
+        "normal_price": 39.9,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771336278/software-mirrors/mwz24buqwbkpy7hr6yxa.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 351,
+        "name": "Onyx AI v4.0.3 Desktop App",
+        "slug": "onyx-ai",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 187,
+        "name": "LM Studio 0.4.15-2",
+        "slug": "lm-studio",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769882717/software-mirrors/gocq1ltmipqcoc22koyr.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 204,
+        "name": "Quick CPU 6.5.0.0",
+        "slug": "quick-cpu",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770370214/software-mirrors/wycm03fprrysndtkwjim.jpg\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 36,
+        "name": "ChatGPT Atlas Browser 1.2026.126.0 for Mac",
+        "slug": "chatgpt-atlas-browser-for-mac",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLpEKzUo4mHNH0JLZqgBTuM5qD_hmKoKu8Jswy9MqHch3RRDn6sybZhHkucxR2MHJxwPG7YBUylFxAsXhsCb2mEydF3LSf829mfsYpvCUGK2hDRqQLJ73-bbO2_JI25bcmQNMmkK0fDtnkg9jMEgjmKO7PJ4TU_0uWqfa9Eqf9cVW6o8trstlZcWU4oFWp/s500-rw/Classi.Qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgajLZAMJhovAjAvcEbZs1nPpcuaC2YsJtm-9KUnvqqG0BEDRUQJQz2VbXm8df4QJSJ5tvdAUpMnQN6pmE-6jn1Uw-g1n4Bb4FagUk6girVnzeo0osjfaNCTxqlP4WFG4KGr0U4IZgo3JSSn-ziP-s4_Nx-28kugOiAmgl0dN3zHxDLTxQGOwBEMzc6H9og/s500-rw/Classi.Qzz.io.webp\"]",
+        "rating": 4
+      },
+      {
+        "id": 184,
+        "name": "PRTG Network Monitor 26.1.118.1380",
+        "slug": "prtg-network-monitor",
+        "cat": "Monitoring Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769709693/software-mirrors/yzm9wiezqcnavdfcdla2.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 404,
+        "name": "ChrisPC Free VideoTube Downloader 15.26.0529 for Windows",
+        "slug": "chrispc-free-videotube-downloader-for-windows",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778426777/software-mirrors/bv4ign7e1eowkbir8akm.webp\"]",
+        "rating": 4
+      },
+      {
+        "id": 99,
+        "name": "Visual Studio Code (VSCode) 1.122.1",
+        "slug": "visual-studio-code",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765353640/software-mirrors/z5ksoesbedomymohrwde.webp\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 342,
+        "name": "PentAGI 2.1.0",
+        "slug": "pentagi",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774292849/software-mirrors/gqjgw5h8g6rsw9snrys8.webp\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 398,
+        "name": "Vivaldi 8.0.4033.35",
+        "slug": "vivaldi",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778247236/software-mirrors/iqxlvw0dziu6ttglealt.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 194,
+        "name": "Postman 12.12.6",
+        "slug": "postman",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 173,
+        "name": "WinSCP 6.5.6",
+        "slug": "winscp",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769342516/software-mirrors/tjnzoybejav4qckkok3j.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 218,
+        "name": "Jan AI 0.8.1",
+        "slug": "jan-ai",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770824307/software-mirrors/z6qkrnwrp9chwsqsp9pi.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 186,
+        "name": "Rufus 4.14",
+        "slug": "rufus",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769863979/software-mirrors/duwur9fcdkix4v5w7q3s.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 97,
+        "name": "Steam Game Idler v5.3.0",
+        "slug": "steam-game-idler",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765265729/software-mirrors/pjk89jnttzkexnmuvezn.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 341,
+        "name": "Nuclear Music Player v1.38.0",
+        "slug": "nuclear-music-player",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774262388/software-mirrors/wlqpjs1g5spfxotzhg2u.webp\"]",
+        "rating": 4.1
+      },
+      {
+        "id": 339,
+        "name": "Kudu v1.43.0 - Free System Maintenance Tools",
+        "slug": "kudu-free-system-maintenance-tools",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 363,
+        "name": "Multica v0.3.12",
+        "slug": "multica",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776091326/software-mirrors/fm7msqyhadauf0hs0oim.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 249,
+        "name": "Driver Easy  7.1.2.0  (30 PCs / 1 Year) - Discount 20% OFF",
+        "slug": "driver-easy-30-pcs-1-year-discount-20-off",
+        "cat": "Driver Tools",
+        "price": 215.96,
+        "normal_price": 269.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 248,
+        "name": "Driver Easy  7.1.2.0  (100 PCs / 1 Year) - Discount 20% OFF",
+        "slug": "driver-easy-100-pcs-1-year-discount-20-off",
+        "cat": "Driver Tools",
+        "price": 636,
+        "normal_price": 795,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 247,
+        "name": "Driver Easy  7.1.2.0  (50 PCs / 1 Year) - Discount 20% OFF",
+        "slug": "driver-easy-50-pcs-1-year-discount-20-off",
+        "cat": "Driver Tools",
+        "price": 319.96,
+        "normal_price": 399.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 246,
+        "name": "Driver Easy  7.1.2.0  (10 PCs / 1 Year) - Discount 20% OFF",
+        "slug": "driver-easy-10-pcs-1-year-discount-20-off",
+        "cat": "Driver Tools",
+        "price": 79.96,
+        "normal_price": 99.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 245,
+        "name": "Driver Easy  7.1.2.0  (5 PCs / 1 Year) - Discount 20% OFF",
+        "slug": "driver-easy-5-pcs-1-year-discount-20-off",
+        "cat": "Driver Tools",
+        "price": 47.96,
+        "normal_price": 59.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 135,
+        "name": "Driver Easy  7.1.2.0  (3 PCs / 1 Year) - Discount 20% OFF",
+        "slug": "driver-easy-3-computers-license-1-year-discount-20-off",
+        "cat": "Driver Tools",
+        "price": 23.96,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 126,
+        "name": "Driver Easy  7.1.2.0  (1 PC / 1 Year) - Discount 20% OFF",
+        "slug": "driver-easy-1-computer-license-1-year-discount-20-off",
+        "cat": "Driver Tools",
+        "price": 23.96,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 80,
+        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Corporate (yearly plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-corporate-yearly-plan-discount-10-off",
+        "cat": "Office Tools",
+        "price": 148,
+        "normal_price": 165,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 431,
+        "name": "Archon CLI v0.4.1",
+        "slug": "archon-cli",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779524395/software-mirrors/bx2xzl8idimnwxezzqgy.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 79,
+        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Corporate (3-year plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-corporate-3-year-plan-discount-10-off",
+        "cat": "Office Tools",
+        "price": 401.4,
+        "normal_price": 446,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 407,
+        "name": "Claude Desktop 1.9659.2",
+        "slug": "claude-desktop",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778560159/software-mirrors/iwbzprqfvz5khtjkt6yo.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 311,
+        "name": "HandBrake 1.11.1",
+        "slug": "handbrake",
+        "cat": "Video Converter",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773072208/software-mirrors/u6zkw5q11ocaw9gjudmm.webp\"]",
         "rating": 4.5
       },
       {
         "id": 50,
-        "name": "Brave Browser Release v1.90.124 (Chromium 148.0.7778.179) Offline Installer",
+        "name": "Brave Browser Release v1.90.128 (Chromium 148.0.7778.217) Offline Installer",
         "slug": "brave-browser-offline-installer",
         "cat": "Browser",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40oi_jWLuvbI7HRcf40hEuzGyOeVy7f7DkAnSgvzVi6OruD324LuiDiiTDERXLGV9ZpUatQFm56pSndXLOsY7sO0P2ZDNSl2pNTf7mksMCDAWzH9M414TsxhhF2zV3IemEmHwa9fsfqk/s500-rw/Brave-software-mirrors.png\"]",
         "rating": 4.9
+      },
+      {
+        "id": 78,
+        "name": "Advanced SystemCare Ultimate 18.3.0 (1 year subscription / 3 PCs) - Discount 50% OFF",
+        "slug": "advanced-systemcare-ultimate-18-1-year-subscription-3-pcs-discount-50-off",
+        "cat": "Utilities",
+        "price": 23.99,
+        "normal_price": 49.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764618078/software-mirrors/mx5tbhdjvrwdjpnfehaj.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 345,
+        "name": "Strix v1.0.2 - AI Penetration Testing Tools",
+        "slug": "strix-ai-penetration-testing-tools",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774449602/software-mirrors/spe6mw2yonqd3pi1bce8.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 343,
+        "name": "Resend CLI v2.3.0",
+        "slug": "resend-cli",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774410883/software-mirrors/m7bbltwz2yrhpgwiq4nw.gif\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 411,
+        "name": "ProgDVB 7.71.5 Free",
+        "slug": "progdvb-free",
+        "cat": "Multimedia",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778695231/software-mirrors/pups12w1pmcfrpvhktup.webp\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 15,
+        "name": "HDD LLF Low Level Format Tool v5.6",
+        "slug": "free-hdd-llf-low-level-format-tool",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773672466/software-mirrors/ofdsxnilhifsmihp1gcn.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv0wIi7-I5QhmicHoxCFWgUx3v3MY1mVX2MvpIwu4QDkdab5MZXUtTp02YMMQG3u1rmZuAM5MfmRTBAv7hyOaTD2dX9tZTAbwVqGeTP8cx1oPOtsz0nBRq5u5TkFhdzot-J53cEM9THfI/s1600-rw/HDD-Low-Level-Format-Tool-4.40.Software-MIrrors.com.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnrfj6Eglax9ip6xrUCmEPPvlEH05E9gArO-0SSULAPA-dUt6pkCuqND77iYlastryhU7kznw1slg7N_Zcvwj_VyOUWccvfWve-iSdXJ9cWVooj8Tzn47ls3NoBkPiaQgKCuzi8uh21w/s1600-rw/screenshot-hdd-low-level-format-small.png\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 195,
+        "name": "Opera One 132.0.5905.11 Offline Installer",
+        "slug": "opera-one-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 130,
+        "name": "Opera GX 131.0.5877.111 Offline Installer",
+        "slug": "opera-gx",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 400,
+        "name": "WhatsApp 2.26.21.19 for Mac",
+        "slug": "whatsapp-for-mac",
+        "cat": "Social Networking",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEjSu3rBCnlNx1wRy_nAOMQSH2E4NjCaP3uBo7IWzSN_bkirLZEvIHt4uWHmgexgrjg9xaeU4cgIfBAwU3Ch6lN-gmSrpky6C_eNfx7DYa26AewJHEEgvc51SRn4Voh7ff6DNP3hgU34ikvkoVb5PeLgpBVO3KHEkJ-P5I_RHlUv7NDx3CuB2QcAEK4Oytc1=w512\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 395,
+        "name": "InstallerClean v1.8.2",
+        "slug": "installerclean",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778034123/software-mirrors/mmgzq5dlvdtfriy80n8h.webp\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 39,
+        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 - Discount 20% OFF",
+        "slug": "copernic-desktop-cloud-search-discount-20-off",
+        "cat": "Utilities",
+        "price": 23.19,
+        "normal_price": 28.99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYzxAXy7khBXrwHAWyZmYYbid_MJHLzfhR_637UgPuZ_ClfbFihSckeI3Hn5oIN5hXMcH5XCZi4erO2qoIeDCgTFHgNa69cgAhIe_v7C9MLuhUa8B_W7CBINvzqJYqss5NoKe8FSg4SWT_82ZZ17KI3LdawzLPNbV_47F52hhBOusB0O9jXzrBzF-8hXQ0/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 142,
+        "name": "CapCut APK For Android 17.9.0",
+        "slug": "capcut-apk-for-android",
+        "cat": "Video Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767634443/software-mirrors/ohru8dccvyq5iahcaupj.jpg\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 406,
+        "name": "Beeper 4.2.876",
+        "slug": "beeper",
+        "cat": "Social Networking",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778499246/software-mirrors/n2iaj0koxdyz5qlpaxhg.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 123,
+        "name": "CapCut For Windows 8.7.0.3685 Offline Installer",
+        "slug": "capcut-for-windows",
+        "cat": "Video Editor",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766240967/software-mirrors/erzmicbqjkxpynqox9du.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 359,
+        "name": "Krita 5.3.2 / 6.0.2",
+        "slug": "krita",
+        "cat": "Graphic Design",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775064383/software-mirrors/hctuxi4usvwtrsakjgof.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 263,
+        "name": "calibre 9.9.0",
+        "slug": "calibre",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771835943/software-mirrors/nwq1z8elunwsksns6kpj.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 347,
+        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 Advanced 2 years - Discount 20% OFF",
+        "slug": "copernic-desktop-cloud-search-advanced-2-years-discount-20-off",
+        "cat": "Utilities",
+        "price": 69.59,
+        "normal_price": 86.99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 447,
+        "name": "Project AIRI v0.10.2",
+        "slug": "project-airi",
+        "cat": "Entertainment",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779942405/software-mirrors/lspfgmfoip3djtghm2yo.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 26,
+        "name": "Presenti AI v1.37 - 500,000 Credits Discount 20% OFF",
+        "slug": "presenti-ai-500-000-credits-discount-20-off",
+        "cat": "Office Tools",
+        "price": 47.2,
+        "normal_price": 59,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSf5KmbKuVf-r3blD_gmrqnIULM847OtBcqBO7SHtxH6g9uJrO81hmn19I2ZzHQIYvpx6KQ2W1ZbYXg3r2x2boZZGN6yingC66OaXmz4ycS_iBdKLaE9WDJfzH43aYNBQHYQU5FFXhcae9uu736OjVc8UTvEJlSpacyGSR6jLEa8euC9PrEzRMas39XLTP/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB2qXB1KACplepb2kCvI3sK62SZjxBrWKxmn7oqoGZJWSlGeFCWgPzbrKYhODLnFjc-Kwwpa-I8aEX1Ct2ZE_CMoEcWnhW1erzHmk03tuensjcQVnJA6F_AzuSIWwNImsv6HebN-oVT5hKaxesB01XbWT5lkgDb-955RUE4x3nSGeL5_ZmGceGuDMxI5IW/s500-rw/Classi.qzz.io.jpg\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 93,
+        "name": "Presenti Team Professional v1.37 (Yearly Subscription) - Discount 20% OFF",
+        "slug": "presenti-team-professional-yearly-subscription-discount-20-off",
+        "cat": "Office Tools",
+        "price": 43.2,
+        "normal_price": 48,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSf5KmbKuVf-r3blD_gmrqnIULM847OtBcqBO7SHtxH6g9uJrO81hmn19I2ZzHQIYvpx6KQ2W1ZbYXg3r2x2boZZGN6yingC66OaXmz4ycS_iBdKLaE9WDJfzH43aYNBQHYQU5FFXhcae9uu736OjVc8UTvEJlSpacyGSR6jLEa8euC9PrEzRMas39XLTP/s600-rw/classi.qzz.io.png\"]",
+        "rating": 4
+      },
+      {
+        "id": 229,
+        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Standard (3-year plan) - Discount 10% OFF",
+        "slug": "abbyy-finereader-pdf-standard-3-year-plan-discount-20-off",
+        "cat": "Office Tools",
+        "price": 240.3,
+        "normal_price": 267,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771165745/software-mirrors/nb3ss7dq25aw6nxrbsnm.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 278,
+        "name": "CCleaner Free v7.08.1355 - Offline Installer",
+        "slug": "ccleaner-free-offline-installer",
+        "cat": "Utilities",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772184336/software-mirrors/ukm02zc6g5fctrrshm5h.webp\"]",
+        "rating": 4
+      },
+      {
+        "id": 91,
+        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 - Elite 1 year - Discount 20% OFF",
+        "slug": "copernic-desktop-cloud-search-elite-1-year-discount-20-off",
+        "cat": "Utilities",
+        "price": 69.59,
+        "normal_price": 86.99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYzxAXy7khBXrwHAWyZmYYbid_MJHLzfhR_637UgPuZ_ClfbFihSckeI3Hn5oIN5hXMcH5XCZi4erO2qoIeDCgTFHgNa69cgAhIe_v7C9MLuhUa8B_W7CBINvzqJYqss5NoKe8FSg4SWT_82ZZ17KI3LdawzLPNbV_47F52hhBOusB0O9jXzrBzF-8hXQ0/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 396,
+        "name": "DeepSeek TUI v0.8.47",
+        "slug": "deepseek-tui",
+        "cat": "Developer Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778154407/software-mirrors/zalakqc1g2io1ymrn83c.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 181,
+        "name": "Cloudflare WARP 2026.4.1390.0",
+        "slug": "cloudflare-warp",
+        "cat": "Internet Tools",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769573052/software-mirrors/yt7kmy2icjpqo8u6mse9.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 105,
+        "name": "AnyUnlock 2.2.4 for Windows - Full Toolkit - 1-Year Subscription / 5 Devices (Discount 20% OFF)",
+        "slug": "anyunlock-for-windows-full-toolkit-1-year-subscription-5-devices-discount-20-off",
+        "cat": "Utilities",
+        "price": 47.99,
+        "normal_price": 59.99,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765529693/software-mirrors/hzsrakwul7rc4o2p3uys.jpg\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 329,
+        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 - Advanced (3 years) - Discount 20% OFF",
+        "slug": "copernic-desktop-cloud-search-advanced-3-years-discount-20-off",
+        "cat": "Utilities",
+        "price": 79.19,
+        "normal_price": 98.99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 176,
+        "name": "KMPlayer 2026.5.26.13 For Windows 64bit",
+        "slug": "kmplayer",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769445419/software-mirrors/rufvg5hchjhp8c0lpafh.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 118,
+        "name": "Mozilla Firefox Stable 151.0.2",
+        "slug": "mozilla-firefox",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766022669/software-mirrors/fslvptdzgd3fodi7avwy.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 266,
+        "name": "GOM Player 2.3.119",
+        "slug": "gom-player",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771918892/software-mirrors/olda6fiadpzpakmi28ww.webp\"]",
+        "rating": 4.4
+      },
+      {
+        "id": 103,
+        "name": "AVG AntiVirus Free Edition 26.5.10994a Offline Installer",
+        "slug": "avg-antivirus-free-edition-offline-installer",
+        "cat": "Antivirus",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765471138/software-mirrors/nj0soq3syvif32mkuyjh.webp\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 346,
+        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 Elite 2 years - Discount 20% OFF",
+        "slug": "copernic-desktop-cloud-search-elite-2-years-discount-20-off",
+        "cat": "Utilities",
+        "price": 147.19,
+        "normal_price": 183.99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 72,
+        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 - Advanced 1 year - Discount 20% OFF",
+        "slug": "copernic-desktop-cloud-search-advanced-discount-20-off",
+        "cat": "Utilities",
+        "price": 31.99,
+        "normal_price": 39.99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYzxAXy7khBXrwHAWyZmYYbid_MJHLzfhR_637UgPuZ_ClfbFihSckeI3Hn5oIN5hXMcH5XCZi4erO2qoIeDCgTFHgNa69cgAhIe_v7C9MLuhUa8B_W7CBINvzqJYqss5NoKe8FSg4SWT_82ZZ17KI3LdawzLPNbV_47F52hhBOusB0O9jXzrBzF-8hXQ0/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 283,
+        "name": "Revo Uninstaller Pro 5.5.0 Portable - 2 year - Discount 50% OFF",
+        "slug": "revo-uninstaller-pro-portable-2-year-discount-50-off",
+        "cat": "Utilities",
+        "price": 22.47,
+        "normal_price": 44.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764700012/software-mirrors/stdutl3zaf8ljaokv0rk.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 282,
+        "name": "Revo Uninstaller Pro 5.5.0 Portable - 1 year - Discount 50% OFF",
+        "slug": "revo-uninstaller-pro-portable-1-year-discount-50-off",
+        "cat": "Utilities",
+        "price": 14.97,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764700012/software-mirrors/stdutl3zaf8ljaokv0rk.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 81,
+        "name": "Revo Uninstaller Pro 5.5.0 - 1 year - Discount 50% OFF",
+        "slug": "revo-uninstaller-pro-5-1-year-discount-50-off",
+        "cat": "Utilities",
+        "price": 12.47,
+        "normal_price": 24.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764700012/software-mirrors/stdutl3zaf8ljaokv0rk.webp\"]",
+        "rating": 4
+      },
+      {
+        "id": 104,
+        "name": "Revo Uninstaller Pro 5.5.0 - 2 years - Discount 50% OFF",
+        "slug": "revo-uninstaller-pro-5-2-years-discount-50-off",
+        "cat": "Utilities",
+        "price": 19.98,
+        "normal_price": 39.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764700012/software-mirrors/stdutl3zaf8ljaokv0rk.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 348,
+        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 Basic 2 years - Discount 20% OFF",
+        "slug": "copernic-desktop-cloud-search-basic-2-years-discount-20-off",
+        "cat": "Utilities",
+        "price": 44.79,
+        "normal_price": 55.99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 108,
+        "name": "MEmu Android Emulator 9.5.3 Offline Installer",
+        "slug": "memu-android-emulator-offline-installer",
+        "cat": "Android Emulator",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765706625/software-mirrors/sb0c1vmb4fqfbvovdrrb.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 392,
+        "name": "qBittorrent v5.2.1",
+        "slug": "qbittorrent",
+        "cat": "File Sharing",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1777969690/software-mirrors/aaxer8orffvwag7zwvmt.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 446,
+        "name": "PixelPlayer 0.7.0-beta",
+        "slug": "pixelplayer",
+        "cat": "Media Player",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779807610/software-mirrors/guy4nhbfu1mivb1pwkdc.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 96,
+        "name": "MakeMKV 1.18.3",
+        "slug": "makemkv",
+        "cat": "Video Converter",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765258285/software-mirrors/wavzdsks0srxq8pfubta.webp\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 445,
+        "name": "DiskGenius 6.2.0.1821 Professional Edition (1 Year License)",
+        "slug": "diskgenius-professional-edition-1-year-license",
+        "cat": "Utilities",
+        "price": 99.9,
+        "normal_price": 99.9,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779781179/software-mirrors/uyibcierwnvyplq2lbav.jpg\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 444,
+        "name": "DiskGenius 6.2.0.1821 Professional Edition (Lifetime - 1 PC) - Discount 20% Off",
+        "slug": "diskgenius-professional-edition-lifetime-1-pc-discount-20-off",
+        "cat": "Utilities",
+        "price": 103.92,
+        "normal_price": 129.9,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779781179/software-mirrors/uyibcierwnvyplq2lbav.jpg\"]",
+        "rating": 4.8
+      },
+      {
+        "id": 49,
+        "name": "Copernic Business Server Search 3.3.4.18014 / 8.3.4.18014 Discount 20% OFF",
+        "slug": "copernic-business-server-search-discount-20-off",
+        "cat": "Utilities",
+        "price": 719.2,
+        "normal_price": 899,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipeYDfLVcy3jgFZm7PV10kgGs96t-FuMh8nkIe_QRdgMVi5dtg6znAIsM5_m0kxM8djOVpHifitiYv_UPFNpEVO81F3oyCwdYs-KVl-EZ1qxOMHUslg0YQaokO2tE-w4mWDpEQu1p1CCJdKZ4qo_cOvxdbFQLgLcrCO9-7d77QdBiP8OW4V4cUNqyxWGrY/s500-rw/software-mirrors.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5pszn5LXjU5Z8i6fy9Z2H8JKBr5YdZvYOO2A3jENknLjvkT4vW67MfpnGerzcYl_q2fe9VOSXbe3SWt0pIDbZJNKmnWF_37SF_nJOCGoiO2PHZlHpFRrvBSbnjqEWi64SuI8XUcHX6ctm0grsr3OQn5RH1O3sk_3R5BJp_e8tg7-Nzk4uIJqgfEh_agD_/s500-rw/software-mirrors.jpg\"]",
+        "rating": 4.9
+      },
+      {
+        "id": 175,
+        "name": "HyperSnap 9.8.1",
+        "slug": "hypersnap",
+        "cat": "Screen Capture",
+        "price": 49.95,
+        "normal_price": 49.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769436596/software-mirrors/p3jqwvlekoazahkxtjci.webp\"]",
+        "rating": 4.7
+      },
+      {
+        "id": 116,
+        "name": "RegRun Security Suite 18.30.2026.525",
+        "slug": "regrun-security-suite",
+        "cat": "Antivirus",
+        "price": 83.19,
+        "normal_price": 83.19,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765990681/software-mirrors/fqeb6wuqptktdsjv8tf6.webp\"]",
+        "rating": 3.4
+      },
+      {
+        "id": 171,
+        "name": "Wise Folder Hider Pro 5.1.1.244 (1 year subscription / 3PCs) - Discount 40% OFF",
+        "slug": "wise-folder-hider-pro-1-year-subscription-3pcs-discount-40-off",
+        "cat": "Utilities",
+        "price": 17.97,
+        "normal_price": 29.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769331656/software-mirrors/nxn4slhtvu6sgj2dqkeo.webp\"]",
+        "rating": 4.6
+      },
+      {
+        "id": 330,
+        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 - Elite (3 years) - Discount 20% OFF",
+        "slug": "copernic-desktop-cloud-search-elite-3-years-discount-20-off",
+        "cat": "Utilities",
+        "price": 172.79,
+        "normal_price": 215.99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYzxAXy7khBXrwHAWyZmYYbid_MJHLzfhR_637UgPuZ_ClfbFihSckeI3Hn5oIN5hXMcH5XCZi4erO2qoIeDCgTFHgNa69cgAhIe_v7C9MLuhUa8B_W7CBINvzqJYqss5NoKe8FSg4SWT_82ZZ17KI3LdawzLPNbV_47F52hhBOusB0O9jXzrBzF-8hXQ0/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 328,
+        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 Basic 3 years - Discount 20% OFF",
+        "slug": "copernic-desktop-cloud-search-basic-3-years-discount-20-off",
+        "cat": "Utilities",
+        "price": 51.99,
+        "normal_price": 64.99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 443,
+        "name": "Driver Genius Platinum 25.0.0.140 (2 year + 60 day / 3 PCs) - Discount 20% Off",
+        "slug": "driver-genius-platinum-2-year-60-day-3-pcs-discount-20-off",
+        "cat": "Driver Tools",
+        "price": 43.31,
+        "normal_price": 50.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779723728/software-mirrors/gsmytgx18xcxqpymumus.webp\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 442,
+        "name": "Driver Genius Platinum 25.0.0.140 (1 year + 60 day / 3 PCs) - Discount 20% Off",
+        "slug": "driver-genius-platinum-1-year-60-day-3-pcs-discount-20-off",
+        "cat": "Driver Tools",
+        "price": 30.56,
+        "normal_price": 35.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779723728/software-mirrors/gsmytgx18xcxqpymumus.webp\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 440,
+        "name": "Driver Genius 25.0.0.140 Pro (1 year / 3 PCs) - Discount 20% Off",
+        "slug": "driver-genius-pro-1-year-3-pcs-discount-20-off",
+        "cat": "Driver Tools",
+        "price": 22.06,
+        "normal_price": 25.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779723728/software-mirrors/gsmytgx18xcxqpymumus.webp\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 441,
+        "name": "Driver Genius 25.0.0.140 Pro (2 year / 3 PCs) - Discount 20% Off",
+        "slug": "driver-genius-pro-2-year-3-pcs-discount-20-off",
+        "cat": "Driver Tools",
+        "price": 32.26,
+        "normal_price": 37.95,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779723728/software-mirrors/gsmytgx18xcxqpymumus.webp\"]",
+        "rating": 4.2
+      },
+      {
+        "id": 196,
+        "name": "Opera Air 131.0.5877.102 Offline Installer",
+        "slug": "opera-air-offline-installer",
+        "cat": "Browser",
+        "price": 0,
+        "normal_price": 0,
+        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770110355/software-mirrors/qeexqa268vrhjborfks4.webp\"]",
+        "rating": 4.5
+      },
+      {
+        "id": 54,
+        "name": "Movavi Video Editor 2026 26.16.0",
+        "slug": "movavi-video-editor-2026",
+        "cat": "Video Editor",
+        "price": 19.95,
+        "normal_price": 19.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s400-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s400-rw/Classi.Qzz.Io.webp\"]",
+        "rating": 4
+      },
+      {
+        "id": 127,
+        "name": "Movavi Video Editor 2026 26.16.0 (1 Year Subscription) - Discount 15% OFF",
+        "slug": "movavi-video-editor-2026-1-year-subscription-discount-15-off",
+        "cat": "Video Editor",
+        "price": 42.46,
+        "normal_price": 49.95,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s600-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s600-rw/Classi.Qzz.Io.webp\"]",
+        "rating": 4
+      },
+      {
+        "id": 320,
+        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 Basic 1 year - Discount 20% OFF",
+        "slug": "copernic-desktop-cloud-search-basic-1-year-discount-20-off",
+        "cat": "Utilities",
+        "price": 23.19,
+        "normal_price": 28.99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
+        "rating": 4.3
+      },
+      {
+        "id": 355,
+        "name": "Advanced SystemCare 19 PRO (1 YEAR, 1 PC) - Only $11.99",
+        "slug": "advanced-systemcare-19-pro-1-year-1-pc-only-11-99",
+        "cat": "Utilities",
+        "price": 11.99,
+        "normal_price": 29.99,
+        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEszGnSAZIMkbm8bh8zn52ncXithHY9Xc7yE13ntwmb0-4QWBaRiSwZXGQyupccGEiz6QkW-3K5ejuOJENNBr8_tk6dVaKNF6ErquTEEuv1C_unmEdL_ZZTiHUYR572H77EOeshw6CujTOYhEcEcu4atroJU1yn8f8bxDTU0_roeWnua2bIcD6bHUDnbu6/s1600-rw/advanced-systemcare-software-mirrors.png\"]",
+        "rating": 4.5
       },
       {
         "id": 438,
@@ -52,16 +1172,6 @@
         "rating": 4.2
       },
       {
-        "id": 398,
-        "name": "Vivaldi 8.0.4033.34",
-        "slug": "vivaldi",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778247236/software-mirrors/iqxlvw0dziu6ttglealt.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 419,
         "name": "ShadowBroker v0.9.81",
         "slug": "shadowbroker",
@@ -80,26 +1190,6 @@
         "normal_price": 25,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771513798/software-mirrors/cwuf30aa7l2w9zbvad8g.webp\"]",
         "rating": 4.2
-      },
-      {
-        "id": 396,
-        "name": "DeepSeek TUI v0.8.42",
-        "slug": "deepseek-tui",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778154407/software-mirrors/zalakqc1g2io1ymrn83c.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 215,
-        "name": "AionUI v2.1.1",
-        "slug": "aionui",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770602325/software-mirrors/zlcjlpblajakax6of5o7.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 388,
@@ -162,16 +1252,6 @@
         "rating": 3.5
       },
       {
-        "id": 182,
-        "name": "OpenClaw (formerly Moltbot/ClawdBot) 2026.5.22",
-        "slug": "openclaw-formerly-moltbot-clawd-bot",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769755759/software-mirrors/fubqlkkpqutyltl58njh.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769586624/software-mirrors/bxwsymi9lnsx3vl681qh.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 94,
         "name": "Balabolka (version 2.15.0.916)",
         "slug": "balabolka",
@@ -192,26 +1272,6 @@
         "rating": 4.4
       },
       {
-        "id": 59,
-        "name": "Cursor 3.5.33",
-        "slug": "cursor",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEgfRha1zOdzvvyEOBvwXpYvaBJagyW_CSPOlAIPnBS13fgxs60tqivP2lGknb7BPEY8HyODCAwtvnzoHPhhiCZWiYfp79plAgdHPGwe8EH_GG7SeIvmI0wAaeJsKqmorSr_rItR20a88FcHElTvuchl8YKuv2imDqyR09zuDcif0OqTO2bPxx4_9IY7BQxt=s500-rw\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 338,
-        "name": "OpenAI Codex App 26.519.41501 for macOS",
-        "slug": "openai-codex-app-for-macos",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773833571/software-mirrors/pnnxqc2xmcrkqbn78bns.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 432,
         "name": "Usagi Engine v1.0.0",
         "slug": "usagi-engine",
@@ -220,26 +1280,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779553113/software-mirrors/xwpeqebsdfxazijppsa6.webp\"]",
         "rating": 4
-      },
-      {
-        "id": 341,
-        "name": "Nuclear Music Player v1.37.4",
-        "slug": "nuclear-music-player",
-        "cat": "Media Player",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774262388/software-mirrors/wlqpjs1g5spfxotzhg2u.webp\"]",
-        "rating": 4.1
-      },
-      {
-        "id": 334,
-        "name": "WhatsApp 2.26.20.71 APK for Android",
-        "slug": "whatsapp-apk-for-android",
-        "cat": "Social Network",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773687735/software-mirrors/i4fnoy9hp8vqmljpky3h.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 232,
@@ -255,7 +1295,7 @@
         "id": 209,
         "name": "Light Image Resizer 7.6.3.172 Corporate - Discount 25% OFF",
         "slug": "light-image-resizer-corporate-discount-25-off",
-        "cat": "Design",
+        "cat": "Utilities",
         "price": 125.25,
         "normal_price": 167,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770457121/software-mirrors/f2yeyjwbqjozoxb8an7z.webp\"]",
@@ -265,7 +1305,7 @@
         "id": 208,
         "name": "Light Image Resizer 7.6.3.172 Pro - Discount 25% OFF",
         "slug": "light-image-resizer-discount-25-off",
-        "cat": "Design",
+        "cat": "Utilities",
         "price": 18.74,
         "normal_price": 24.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770457121/software-mirrors/f2yeyjwbqjozoxb8an7z.webp\"]",
@@ -280,36 +1320,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769935279/software-mirrors/eojiyajnr2eposuhnopo.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 318,
-        "name": "OpenCode v1.15.10",
-        "slug": "opencode",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773507292/software-mirrors/teg5jajyxxmscstrhrqo.webp\"]",
-        "rating": 4.4
-      },
-      {
-        "id": 431,
-        "name": "Archon CLI v0.3.12",
-        "slug": "archon-cli",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779524395/software-mirrors/bx2xzl8idimnwxezzqgy.webp\"]",
-        "rating": 4.4
-      },
-      {
-        "id": 404,
-        "name": "ChrisPC Free VideoTube Downloader 15.26.0523 for Windows",
-        "slug": "chrispc-free-videotube-downloader-for-windows",
-        "cat": "Downloader",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778426777/software-mirrors/bv4ign7e1eowkbir8akm.webp\"]",
-        "rating": 4
       },
       {
         "id": 67,
@@ -342,16 +1352,6 @@
         "rating": 4.8
       },
       {
-        "id": 407,
-        "name": "Claude Desktop 1.8555.2",
-        "slug": "claude-desktop",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778560159/software-mirrors/iwbzprqfvz5khtjkt6yo.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 428,
         "name": "Streambert v.2.5.0",
         "slug": "streambert",
@@ -362,30 +1362,10 @@
         "rating": 4.5
       },
       {
-        "id": 194,
-        "name": "Postman 12.11.5",
-        "slug": "postman",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770043821/software-mirrors/fyp4wcop1zixoypauqmd.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 187,
-        "name": "LM Studio 0.4.14-4",
-        "slug": "lm-studio",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769882717/software-mirrors/gocq1ltmipqcoc22koyr.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 11,
         "name": "Aiseesoft Screen Recorder 3.2.6 for Windows - Discount 20% OFF",
         "slug": "aiseesoft-screen-recorder-discount-20-off",
-        "cat": "Utilities",
+        "cat": "Screen Capture",
         "price": 49.96,
         "normal_price": 62.45,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsvLOQcsdFvj8slryCuCLGs50_oZTX2wWHsUu2exIIZntuuslRpHCG70gs0cBX8cFPVHRrJlfNo9hJVSLdjp3kgtpHqcLHP36ykHW9etS6cI6ilavoFr5lOtH-TlT_pLABlUtaobcRzzwswX8Yfhffx5TgwlaOU1tSV6_PVorwv8ivcm1oK5KPrzAZLqI4/s1600-rw/aiseesoft-screen-recorder-classi.qzz.io.png\"]",
@@ -402,26 +1382,6 @@
         "rating": 4.4
       },
       {
-        "id": 195,
-        "name": "Opera One 131.0.5877.97 Offline Installer",
-        "slug": "opera-one-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770050946/software-mirrors/gjpascu4kljtx2qboxgl.jpg\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 400,
-        "name": "WhatsApp 2.26.20.23 for Mac",
-        "slug": "whatsapp-for-mac",
-        "cat": "Social Network",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEjSu3rBCnlNx1wRy_nAOMQSH2E4NjCaP3uBo7IWzSN_bkirLZEvIHt4uWHmgexgrjg9xaeU4cgIfBAwU3Ch6lN-gmSrpky6C_eNfx7DYa26AewJHEEgvc51SRn4Voh7ff6DNP3hgU34ikvkoVb5PeLgpBVO3KHEkJ-P5I_RHlUv7NDx3CuB2QcAEK4Oytc1=w512\"]",
-        "rating": 4.4
-      },
-      {
         "id": 430,
         "name": "Fincept Terminal v4.0.3",
         "slug": "fincept-terminal",
@@ -430,26 +1390,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/a/AVvXsEg-B8ERg25fI6ZO4zNX4pwTugYgM-JK1bw5ttF6AJVzKVCz7GYX-2pzzDGfP7tX9t4cz7KhqH7JUNibhvko5CNi0XAgRNwDFiEDvDjnwVos5VZCFBRB37AE2QK29lf3aHctWHHRH38RRoAuRg6TKhkBFCaopckl_g7VgJA5s_Yyl8ymfDbF-maN0EtdkGde=w512\"]",
         "rating": 4.4
-      },
-      {
-        "id": 363,
-        "name": "Multica v0.3.6",
-        "slug": "multica",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776091326/software-mirrors/fm7msqyhadauf0hs0oim.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 335,
-        "name": "NTLite 2026.05.11014",
-        "slug": "ntlite",
-        "cat": "System Optimization",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773760713/software-mirrors/a4y21pl1cbivuhkwg6z8.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 429,
@@ -485,7 +1425,7 @@
         "id": 74,
         "name": "IObit Advanced SystemCare 19.4.0 PRO (2 year subscription / 3 PC) Discount 70% OFF",
         "slug": "iobit-advanced-systemcare-19-pro-2-year-subscription-3-pc-black-friday-discount-70-off",
-        "cat": "System Optimization",
+        "cat": "Utilities",
         "price": 24.99,
         "normal_price": 179,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764528623/software-mirrors/j6x1iih70dspwg6y9vap.png\"]",
@@ -495,7 +1435,7 @@
         "id": 41,
         "name": "IObit Advanced SystemCare 19.4.0 PRO (1 year subscription / 3 PC) Discount 77% OFF",
         "slug": "iobit-advanced-systemcare-19-pro-1-year-subscription-3-pc-discount-20-off",
-        "cat": "System Optimization",
+        "cat": "Utilities",
         "price": 19.99,
         "normal_price": 89.97,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEszGnSAZIMkbm8bh8zn52ncXithHY9Xc7yE13ntwmb0-4QWBaRiSwZXGQyupccGEiz6QkW-3K5ejuOJENNBr8_tk6dVaKNF6ErquTEEuv1C_unmEdL_ZZTiHUYR572H77EOeshw6CujTOYhEcEcu4atroJU1yn8f8bxDTU0_roeWnua2bIcD6bHUDnbu6/s1600-rw/classi.qzz.io.png\",\"https://secure.2checkout.com/images/merchant/184260348236f9554fe9375772ff966e/products/26_ASC16_boxshot_left_size256.png\"]",
@@ -505,21 +1445,11 @@
         "id": 128,
         "name": "Advanced SystemCare 19.4.0 PRO (1 year subscription / 1 PC) Discount 45% OFF",
         "slug": "advanced-systemcare-pro-1-year-subscription-1-pc-discount-45-off",
-        "cat": "System Optimization",
+        "cat": "Utilities",
         "price": 15.99,
         "normal_price": 29.99,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEszGnSAZIMkbm8bh8zn52ncXithHY9Xc7yE13ntwmb0-4QWBaRiSwZXGQyupccGEiz6QkW-3K5ejuOJENNBr8_tk6dVaKNF6ErquTEEuv1C_unmEdL_ZZTiHUYR572H77EOeshw6CujTOYhEcEcu4atroJU1yn8f8bxDTU0_roeWnua2bIcD6bHUDnbu6/s1600-rw/advanced-systemcare-software-mirrors.png\"]",
         "rating": 4
-      },
-      {
-        "id": 218,
-        "name": "Jan AI 0.8.0",
-        "slug": "jan-ai",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770824307/software-mirrors/z6qkrnwrp9chwsqsp9pi.webp\"]",
-        "rating": 4.3
       },
       {
         "id": 37,
@@ -532,16 +1462,6 @@
         "rating": 4.4
       },
       {
-        "id": 81,
-        "name": "Revo Uninstaller Pro 5.4.7 - 1 year - Discount 50% OFF",
-        "slug": "revo-uninstaller-pro-5-1-year-discount-50-off",
-        "cat": "Utilities",
-        "price": 12.47,
-        "normal_price": 24.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764700012/software-mirrors/stdutl3zaf8ljaokv0rk.webp\"]",
-        "rating": 4
-      },
-      {
         "id": 427,
         "name": "FoneTool Unlocker 2.5.0 Professional - Discount 30% OFF",
         "slug": "fonetool-unlocker-discount-30-off",
@@ -550,36 +1470,6 @@
         "normal_price": 59.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779380872/software-mirrors/p0f4nvgnr3xseqpujrxo.webp\"]",
         "rating": 4
-      },
-      {
-        "id": 104,
-        "name": "Revo Uninstaller Pro 5.4.7 - 2 years - Discount 50% OFF",
-        "slug": "revo-uninstaller-pro-5-2-years-discount-50-off",
-        "cat": "Utilities",
-        "price": 19.98,
-        "normal_price": 39.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764700012/software-mirrors/stdutl3zaf8ljaokv0rk.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 406,
-        "name": "Beeper 4.2.860",
-        "slug": "beeper",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778499246/software-mirrors/n2iaj0koxdyz5qlpaxhg.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 118,
-        "name": "Mozilla Firefox Stable 151.0.1",
-        "slug": "mozilla-firefox",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766022669/software-mirrors/fslvptdzgd3fodi7avwy.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 231,
@@ -600,16 +1490,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766054908/software-mirrors/oqfakdlrgdbbok41uz03.webp\"]",
         "rating": 4.8
-      },
-      {
-        "id": 130,
-        "name": "Opera GX 131.0.5877.84 Offline Installer",
-        "slug": "opera-gx",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766661586/software-mirrors/h1ynowscnjjiore0xpby.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 156,
@@ -642,26 +1522,6 @@
         "rating": 4.1
       },
       {
-        "id": 351,
-        "name": "Onyx AI v3.3.7 Desktop App",
-        "slug": "onyx-ai",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774760243/software-mirrors/zwzzfqq4s1nqkbn2m4vc.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 99,
-        "name": "Visual Studio Code (VSCode) 1.121.0",
-        "slug": "visual-studio-code",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765353640/software-mirrors/z5ksoesbedomymohrwde.webp\"]",
-        "rating": 4.9
-      },
-      {
         "id": 333,
         "name": "KMPlayer 4202210 For Android APK 32bit",
         "slug": "kmplayer-for-android-apk-32bit",
@@ -669,16 +1529,6 @@
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773684322/software-mirrors/e8er2fzhhsfmbbcadzdn.webp\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 78,
-        "name": "Advanced SystemCare Ultimate 18.2.0 (1 year subscription / 3 PCs) - Discount 50% OFF",
-        "slug": "advanced-systemcare-ultimate-18-1-year-subscription-3-pcs-discount-50-off",
-        "cat": "System Optimization",
-        "price": 23.99,
-        "normal_price": 49.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764618078/software-mirrors/mx5tbhdjvrwdjpnfehaj.png\"]",
         "rating": 4.3
       },
       {
@@ -712,30 +1562,10 @@
         "rating": 4.6
       },
       {
-        "id": 97,
-        "name": "Steam Game Idler v5.0.15",
-        "slug": "steam-game-idler",
-        "cat": "Games",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765265729/software-mirrors/pjk89jnttzkexnmuvezn.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 339,
-        "name": "Kudu v1.41.0 - Free System Maintenance Tools",
-        "slug": "kudu-free-system-maintenance-tools",
-        "cat": "System Optimization",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773952859/software-mirrors/rjzpf1l2aybssjo3eam1.gif\"]",
-        "rating": 4.3
-      },
-      {
         "id": 425,
         "name": "OpenToonz V1.7.1",
         "slug": "opentoonz",
-        "cat": "Multimedia",
+        "cat": "Graphic Design",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779289365/software-mirrors/n05yme2vxebj2cn0uf2d.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779289382/software-mirrors/zfagnufuv4hiklkke5c5.jpg\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1779289403/software-mirrors/q52aksnlixvxlx0g2u7c.jpg\"]",
@@ -745,7 +1575,7 @@
         "id": 210,
         "name": "PhotoLikr 2026.0.0.11 Pro - Discount 25% Off",
         "slug": "photolikr-pro-discount-25-off",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 14.18,
         "normal_price": 18.9,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770472261/software-mirrors/x6vwnf16j4ylmfdfezmp.webp\"]",
@@ -902,36 +1732,6 @@
         "rating": 4.7
       },
       {
-        "id": 196,
-        "name": "Opera Air 131.0.5877.71 Offline Installer",
-        "slug": "opera-air-offline-installer",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770110355/software-mirrors/qeexqa268vrhjborfks4.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 123,
-        "name": "CapCut For Windows 8.6.0.3667 Offline Installer",
-        "slug": "capcut-for-windows",
-        "cat": "Video Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766240967/software-mirrors/erzmicbqjkxpynqox9du.webp\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 266,
-        "name": "GOM Player 2.3.117",
-        "slug": "gom-player",
-        "cat": "Media Player",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771918892/software-mirrors/olda6fiadpzpakmi28ww.webp\"]",
-        "rating": 4.4
-      },
-      {
         "id": 423,
         "name": "Glarysoft File Recovery Pro 1.30.0.30 - Annually - Discount 50% OFF",
         "slug": "glarysoft-file-recovery-pro-annually-discount-50-off",
@@ -1002,26 +1802,6 @@
         "rating": 4.3
       },
       {
-        "id": 26,
-        "name": "Presenti AI v1.36 - 500,000 Credits Discount 20% OFF",
-        "slug": "presenti-ai-500-000-credits-discount-20-off",
-        "cat": "Office Tools",
-        "price": 47.2,
-        "normal_price": 59,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSf5KmbKuVf-r3blD_gmrqnIULM847OtBcqBO7SHtxH6g9uJrO81hmn19I2ZzHQIYvpx6KQ2W1ZbYXg3r2x2boZZGN6yingC66OaXmz4ycS_iBdKLaE9WDJfzH43aYNBQHYQU5FFXhcae9uu736OjVc8UTvEJlSpacyGSR6jLEa8euC9PrEzRMas39XLTP/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB2qXB1KACplepb2kCvI3sK62SZjxBrWKxmn7oqoGZJWSlGeFCWgPzbrKYhODLnFjc-Kwwpa-I8aEX1Ct2ZE_CMoEcWnhW1erzHmk03tuensjcQVnJA6F_AzuSIWwNImsv6HebN-oVT5hKaxesB01XbWT5lkgDb-955RUE4x3nSGeL5_ZmGceGuDMxI5IW/s500-rw/Classi.qzz.io.jpg\"]",
-        "rating": 4.2
-      },
-      {
-        "id": 93,
-        "name": "Presenti Team Professional v1.36 (Yearly Subscription) - Discount 20% OFF",
-        "slug": "presenti-team-professional-yearly-subscription-discount-20-off",
-        "cat": "Office Tools",
-        "price": 43.2,
-        "normal_price": 48,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSf5KmbKuVf-r3blD_gmrqnIULM847OtBcqBO7SHtxH6g9uJrO81hmn19I2ZzHQIYvpx6KQ2W1ZbYXg3r2x2boZZGN6yingC66OaXmz4ycS_iBdKLaE9WDJfzH43aYNBQHYQU5FFXhcae9uu736OjVc8UTvEJlSpacyGSR6jLEa8euC9PrEzRMas39XLTP/s600-rw/classi.qzz.io.png\"]",
-        "rating": 4
-      },
-      {
         "id": 289,
         "name": "Anyviewer Professional - 1 Year - Discount 20% OFF",
         "slug": "anyviewer-professional-1-year-discount-20-off",
@@ -1055,7 +1835,7 @@
         "id": 151,
         "name": "Aiarty Image Matting V2.7 for Mac (Standard - 3 Macs) - Discount 20% OFF",
         "slug": "aiarty-image-matting-for-mac-standard-3-macs-discount-20-off",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 55.2,
         "normal_price": 69,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764957164/software-mirrors/fmakxlv10wowhmx18qte.webp\"]",
@@ -1065,7 +1845,7 @@
         "id": 114,
         "name": "ActivePresenter 10.5.0 Pro - Discount 20% Off",
         "slug": "activepresenter-10-pro-discount-20-off",
-        "cat": "Screen Recorder",
+        "cat": "Screen Capture",
         "price": 449.1,
         "normal_price": 499,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765899208/software-mirrors/m7mzccicmuwrm38zpdwa.webp\"]",
@@ -1142,16 +1922,6 @@
         "rating": 4
       },
       {
-        "id": 192,
-        "name": "DBeaver 26.0.5 Community Edition",
-        "slug": "dbeaver-community-edition",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769994017/software-mirrors/jlqe2tqlpw5gvhb3yhpj.webp\"]",
-        "rating": 4.6
-      },
-      {
         "id": 134,
         "name": "AIMP for Android 4.30.1728",
         "slug": "aimp-for-android-v4-25-1665",
@@ -1165,7 +1935,7 @@
         "id": 129,
         "name": "Aiarty Image Matting V2.7 for Mac (Lifetime) - Discount 20% OFF",
         "slug": "aiarty-image-matting-for-mac-lifetime-discount-20-off",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 87.2,
         "normal_price": 109,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764957164/software-mirrors/fmakxlv10wowhmx18qte.webp\"]",
@@ -1185,7 +1955,7 @@
         "id": 92,
         "name": "Aiarty Image Matting V2.7 (Lifetime - 3 PCs) - Discount 20% OFF",
         "slug": "aiarty-image-matting-lifetime-3-pcs-discount-20-off",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 87.2,
         "normal_price": 109,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764957164/software-mirrors/fmakxlv10wowhmx18qte.webp\"]",
@@ -1195,7 +1965,7 @@
         "id": 150,
         "name": "Aiarty Image Matting V2.7 (Standard - 3 PCs) - Discount 20% OFF",
         "slug": "aiarty-image-matting-standard-3-pcs-discount-20-off",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 55.2,
         "normal_price": 69,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764957164/software-mirrors/fmakxlv10wowhmx18qte.webp?width=384\"]",
@@ -1225,7 +1995,7 @@
         "id": 152,
         "name": "Aiarty Image Matting V2.7 (Commercial license) - Discount 20% OFF",
         "slug": "aiarty-image-matting-commercial-license",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 1599.2,
         "normal_price": 1999,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764957164/software-mirrors/fmakxlv10wowhmx18qte.webp\"]",
@@ -1245,7 +2015,7 @@
         "id": 153,
         "name": "Aiarty Image Matting V2.7 for Mac (Commercial license) - Discount 20% Off",
         "slug": "aiarty-image-matting-for-mac-commercial-license-discount-20-off",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 1599.2,
         "normal_price": 1999,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764957164/software-mirrors/fmakxlv10wowhmx18qte.webp\"]",
@@ -1265,7 +2035,7 @@
         "id": 418,
         "name": "IObit Software Updater 8.5.0 PRO (2 Years Subscription / 3 PCs) - Discount 20% Off",
         "slug": "iobit-software-updater-pro-2-years-subscription-3-pcs-discount-20-off",
-        "cat": "System Optimization",
+        "cat": "Utilities",
         "price": 15.99,
         "normal_price": 19.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778905685/software-mirrors/isfnerxudfonpi1jhlmm.webp\"]",
@@ -1275,7 +2045,7 @@
         "id": 417,
         "name": "IObit Software Updater 8.5.0 PRO (1 year / 1 PC) - Discount 40% Off",
         "slug": "iobit-software-updater-pro-1-year-1-pc-discount-40-off",
-        "cat": "System Optimization",
+        "cat": "Utilities",
         "price": 9.58,
         "normal_price": 19.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778905685/software-mirrors/isfnerxudfonpi1jhlmm.webp\"]",
@@ -1285,7 +2055,7 @@
         "id": 416,
         "name": "IObit Software Updater 8.5.0 PRO (1 year subscription / 3 PCs) - Discount 57% Off",
         "slug": "iobit-software-updater-pro-1-year-subscription-3-pcs-discount-57-off",
-        "cat": "System Optimization",
+        "cat": "System Maintenance",
         "price": 10.38,
         "normal_price": 29.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778905685/software-mirrors/isfnerxudfonpi1jhlmm.webp\"]",
@@ -1295,7 +2065,7 @@
         "id": 415,
         "name": "IObit Software Updater 8.5.0 - (3 Months Subscription / 3 PCs) - Discount 20% Off",
         "slug": "iobit-software-updater-3-months-subscription-3-pcs-discount-20-off",
-        "cat": "System Optimization",
+        "cat": "System Maintenance",
         "price": 7.19,
         "normal_price": 8.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778905685/software-mirrors/isfnerxudfonpi1jhlmm.webp\"]",
@@ -1305,7 +2075,7 @@
         "id": 414,
         "name": "IObit Software Updater 8.5.0 - Free",
         "slug": "iobit-software-updater-free",
-        "cat": "System Optimization",
+        "cat": "System Maintenance",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778905685/software-mirrors/isfnerxudfonpi1jhlmm.webp\"]",
@@ -1325,7 +2095,7 @@
         "id": 405,
         "name": "GTweak 5.5.0",
         "slug": "gtweak",
-        "cat": "System Optimization",
+        "cat": "System Maintenance",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEe_ssbhEk6X2B1Bt5hsRCXEjkaSrfRbxiP2-Id_wRbqdksc9jHWixSRwscY0jGqtEv4nM2JkEmJgWR8JIWR9h_VlItHv4ENBGrPCNFkxJJrbeMoZFFx5IAVx63DRhSZlpILXbjgvKNapnw9Z1CsK42mw9b7MS7yDL0XhQsDmMGzPHuwC8SQTEcahJivO8/s1600/software-mirrors.gif\"]",
@@ -1465,7 +2235,7 @@
         "id": 57,
         "name": "BlueStacks 5.22.166.1003 offline installer",
         "slug": "bluestacks-5-offline-installer",
-        "cat": "Emulator",
+        "cat": "Android Emulator",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764771711/software-mirrors/nyaoe3rne9jqnamdz3wf.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiT9sJIZ-EOZ7j3rkoaBhRv_ALgOZdjnGi9__-G4khfseWrRNp4kDuZTFnlMvyct5zlnpdKZRP98Nk1Unj4z_4Z3-rkUnAi9_QvTU3sEtTh9iY0XUWL7Wdb7IMVjEk-RwWP-gfoMz37lI/s500-rw/Bluestacks.software-mirrors.com.jpg\"]",
@@ -1535,7 +2305,7 @@
         "id": 389,
         "name": "Affinity by Canva 3.2.1.4425",
         "slug": "affinity-by-canva",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4SoMKSQpTxroMnVtFlkyObXdtFDgpK04Bo6AmV54ZjAVPlWkvpPQjhlN7uJGTxLar38SEq37jfOJiEo505XlnWIEX8SQXO9Jj-hOcpf5V0eMq4hc0mK9ya6GalxAFZNBmanpbgFUX_hmC1sChtyfxyB6-Fbf9RGfNbNmTjLiHk-kBRJafOqPT7IpMCHtX/s1600/software-mirrors.webp\"]",
@@ -1552,16 +2322,6 @@
         "rating": 4
       },
       {
-        "id": 411,
-        "name": "ProgDVB 7.71.3 Free",
-        "slug": "progdvb-free",
-        "cat": "Multimedia",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778695231/software-mirrors/pups12w1pmcfrpvhktup.webp\"]",
-        "rating": 4.3
-      },
-      {
         "id": 292,
         "name": "AnyViewer 4.1.0 free APK for Android",
         "slug": "anyviewer-free-apk-for-android",
@@ -1572,20 +2332,10 @@
         "rating": 4.4
       },
       {
-        "id": 395,
-        "name": "InstallerClean v1.8.1",
-        "slug": "installerclean",
-        "cat": "System Optimization",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778034123/software-mirrors/mmgzq5dlvdtfriy80n8h.webp\"]",
-        "rating": 4.2
-      },
-      {
         "id": 410,
         "name": "PixiEditor 2.1.1.4",
         "slug": "pixieditor",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnipBkHSF7eeSRPDgiFX3VDbT2RmXn7ccTDaVQ_Uo8vD-BP0ePvbyZ0Aj0DVCwWsxnFoY5qd5LlAROFq6POwPJwED4D4Y7umVN2y9GWTUu4jSRiI_B2J99eNNz0zTWjx38ayf9nZ9UDCzad2qShL2n5dbQWhEORxh0VoM3H5v4L3R9DS0zFNWGrWdy9H9x/s16000/software-mirrors.gif\"]",
@@ -1595,7 +2345,7 @@
         "id": 409,
         "name": "Brush v0.3.0",
         "slug": "brush",
-        "cat": "Image Editor",
+        "cat": "Graphic Design",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778677814/software-mirrors/qr4dsssatrri4v4r5dk7.webp\"]",
@@ -1662,54 +2412,14 @@
         "rating": 4.5
       },
       {
-        "id": 54,
-        "name": "Movavi Video Editor 2026 26.15.0",
-        "slug": "movavi-video-editor-2026",
-        "cat": "Video Editor",
-        "price": 19.95,
-        "normal_price": 19.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s400-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s400-rw/Classi.Qzz.Io.webp\"]",
-        "rating": 4
-      },
-      {
-        "id": 127,
-        "name": "Movavi Video Editor 2026 26.15.0 (1 Year Subscription) - Discount 15% OFF",
-        "slug": "movavi-video-editor-2026-1-year-subscription-discount-15-off",
-        "cat": "Video Editor",
-        "price": 42.46,
-        "normal_price": 49.95,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s600-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s600-rw/Classi.Qzz.Io.webp\"]",
-        "rating": 4
-      },
-      {
         "id": 360,
         "name": "Telegram v6.8.2 Desktop App",
         "slug": "telegram-desktop-app",
-        "cat": "Social Network",
+        "cat": "Social Networking",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775308341/software-mirrors/dfmf9hcureg5fovbfbzn.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 181,
-        "name": "Cloudflare WARP 2026.4.1350.0",
-        "slug": "cloudflare-warp",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769573052/software-mirrors/yt7kmy2icjpqo8u6mse9.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 142,
-        "name": "CapCut APK For Android 17.7.0",
-        "slug": "capcut-apk-for-android",
-        "cat": "Video Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1767634443/software-mirrors/ohru8dccvyq5iahcaupj.jpg\"]",
-        "rating": 4.8
       },
       {
         "id": 64,
@@ -1720,16 +2430,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAsSxWWykEn2wr38dDqTjqPGB7TQYg_1SuLU2rStyKM6b6VK4qvQ5miOgxNXkfcqUau28B7Tn8XfOOYZnB4YvxZGh7ynsVMnr9D8tLBq3hdRbyVx5JCBHxsghor4KaLuAXoSYlCn2cKwKC/s500-rw/uBlock_Origin-software-mirrors.jpg\"]",
         "rating": 5
-      },
-      {
-        "id": 36,
-        "name": "ChatGPT Atlas Browser 1.2026.119.1 for Mac",
-        "slug": "chatgpt-atlas-browser-for-mac",
-        "cat": "Browser",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLpEKzUo4mHNH0JLZqgBTuM5qD_hmKoKu8Jswy9MqHch3RRDn6sybZhHkucxR2MHJxwPG7YBUylFxAsXhsCb2mEydF3LSf829mfsYpvCUGK2hDRqQLJ73-bbO2_JI25bcmQNMmkK0fDtnkg9jMEgjmKO7PJ4TU_0uWqfa9Eqf9cVW6o8trstlZcWU4oFWp/s500-rw/Classi.Qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgajLZAMJhovAjAvcEbZs1nPpcuaC2YsJtm-9KUnvqqG0BEDRUQJQz2VbXm8df4QJSJ5tvdAUpMnQN6pmE-6jn1Uw-g1n4Bb4FagUk6girVnzeo0osjfaNCTxqlP4WFG4KGr0U4IZgo3JSSn-ziP-s4_Nx-28kugOiAmgl0dN3zHxDLTxQGOwBEMzc6H9og/s500-rw/Classi.Qzz.io.webp\"]",
-        "rating": 4
       },
       {
         "id": 397,
@@ -1792,20 +2492,10 @@
         "rating": 4
       },
       {
-        "id": 55,
-        "name": "Notepad++ release 8.9.6",
-        "slug": "notepad-plus-plus",
-        "cat": "Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765352807/software-mirrors/h0vguhqxrgsm74kjuxs3.webp\"]",
-        "rating": 5
-      },
-      {
         "id": 403,
         "name": "VidMate 6.0102 APK for Android",
         "slug": "vidmate-apk-for-android",
-        "cat": "Downloader",
+        "cat": "Internet Tools",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1778425069/software-mirrors/urrhwkinf8iv9qrjbntd.webp\"]",
@@ -1892,16 +2582,6 @@
         "rating": 3.7
       },
       {
-        "id": 105,
-        "name": "AnyUnlock 2.2.3 for Windows - Full Toolkit - 1-Year Subscription / 5 Devices (Discount 20% OFF)",
-        "slug": "anyunlock-for-windows-full-toolkit-1-year-subscription-5-devices-discount-20-off",
-        "cat": "Utilities",
-        "price": 47.99,
-        "normal_price": 59.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765529693/software-mirrors/hzsrakwul7rc4o2p3uys.jpg\"]",
-        "rating": 4.6
-      },
-      {
         "id": 326,
         "name": "RankDots Enterprise (annual billing) - Discount 20% Off",
         "slug": "rankdots-enterprise-annual-billing-discount-20-off",
@@ -1975,7 +2655,7 @@
         "id": 319,
         "name": "IObit Smart Defrag + Software Updater + Driver Booster - 83% OFF",
         "slug": "iobit-smart-defrag-software-updater-driver-booster-83-off",
-        "cat": "Utilities",
+        "cat": "System Maintenance",
         "price": 24.95,
         "normal_price": 149.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773514644/software-mirrors/xikgcpcvwju0opfxyavy.jpg\"]",
@@ -1985,7 +2665,7 @@
         "id": 300,
         "name": "Icecream Screen Recorder 7.47 PRO - Yearly - Discount 15% OFF",
         "slug": "icecream-screen-recorder-pro-yearly-discount-25-off",
-        "cat": "Screen Recorder",
+        "cat": "Screen Capture",
         "price": 25.46,
         "normal_price": 29.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772766681/software-mirrors/ozeaklycxykgcoy5cy9a.webp\"]",
@@ -1995,7 +2675,7 @@
         "id": 299,
         "name": "Icecream Screen Recorder 7.47 PRO - Lifetime - Discount 25% OFF",
         "slug": "icecream-screen-recorder-pro-lifetime-discount-25-off",
-        "cat": "Screen Recorder",
+        "cat": "Screen Capture",
         "price": 59.95,
         "normal_price": 79.93,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772766681/software-mirrors/ozeaklycxykgcoy5cy9a.webp\"]",
@@ -2125,7 +2805,7 @@
         "id": 321,
         "name": "IObit Super Pack - Exclusive 91% OFF (IObit Uninstaller + Malware Fighter + Advanced SystemCare + Software Updater + Driver Booster)",
         "slug": "iobit-super-pack-exclusive-91-off-iobit-uninstaller-malware-fighter-advanced-systemcare-software-updater-driver-booster",
-        "cat": "System Optimization",
+        "cat": "System Maintenance",
         "price": 27.4,
         "normal_price": 349.08,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773564630/software-mirrors/wwzyofcxvorqsjyqzhch.webp\"]",
@@ -2135,7 +2815,7 @@
         "id": 170,
         "name": "Wise ImageX 1.6.1.18 (1 year subscription) - Discount 20% OFF",
         "slug": "wise-imagex-1-year-subscription-discount-20-off",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 15.96,
         "normal_price": 19.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769330462/software-mirrors/horqlpgvk4fzskspwk5w.webp\"]",
@@ -2165,7 +2845,7 @@
         "id": 317,
         "name": "PhoneRescue for iOS 4.3.0 (Mac - 1 Year Subs) - Discount 20% OFF",
         "slug": "phonerescue-for-ios-mac-1-year-subs-discount-20-off",
-        "cat": "Backup Tools",
+        "cat": "Backup and Recovery",
         "price": 39.99,
         "normal_price": 49.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773428885/software-mirrors/hnrwvcggngeytj5ostt1.webp\"]",
@@ -2185,7 +2865,7 @@
         "id": 361,
         "name": "OpenScreen v1.4.0",
         "slug": "openscreen",
-        "cat": "Screen Recorder",
+        "cat": "Screen Capture",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775324577/software-mirrors/q2bwtqsrg5zjnot4nahy.webp\"]",
@@ -2195,7 +2875,7 @@
         "id": 177,
         "name": "Aiseesoft Mac Screen Recorder 2.2.6.152197 - Discount 20% OFF",
         "slug": "aiseesoft-mac-screen-recorder-discount-20-off",
-        "cat": "Screen Recorder",
+        "cat": "Screen Capture",
         "price": 49.96,
         "normal_price": 62.45,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsvLOQcsdFvj8slryCuCLGs50_oZTX2wWHsUu2exIIZntuuslRpHCG70gs0cBX8cFPVHRrJlfNo9hJVSLdjp3kgtpHqcLHP36ykHW9etS6cI6ilavoFr5lOtH-TlT_pLABlUtaobcRzzwswX8Yfhffx5TgwlaOU1tSV6_PVorwv8ivcm1oK5KPrzAZLqI4/s1600-rw/aiseesoft-screen-recorder-classi.qzz.io.png\"]",
@@ -2205,7 +2885,7 @@
         "id": 316,
         "name": "PhoneRescue for iOS 4.3.0 (Windows - 1 Year Subs) - Discount 20% OFF",
         "slug": "phonerescue-for-ios-windows-1-year-subs-discount-20-off",
-        "cat": "Backup Tools",
+        "cat": "Backup and Recovery",
         "price": 39.99,
         "normal_price": 49.99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773428885/software-mirrors/hnrwvcggngeytj5ostt1.webp\"]",
@@ -2220,26 +2900,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1777988645/software-mirrors/otzxvsk8olg2hoo3jp3x.webp\"]",
         "rating": 4.3
-      },
-      {
-        "id": 171,
-        "name": "Wise Folder Hider Pro 5.0.9.239 (1 year subscription / 3PCs) - Discount 40% OFF",
-        "slug": "wise-folder-hider-pro-1-year-subscription-3pcs-discount-40-off",
-        "cat": "Utilities",
-        "price": 17.97,
-        "normal_price": 29.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769331656/software-mirrors/nxn4slhtvu6sgj2dqkeo.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 392,
-        "name": "qBittorrent v5.2.0",
-        "slug": "qbittorrent",
-        "cat": "Internet Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1777969690/software-mirrors/aaxer8orffvwag7zwvmt.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 12,
@@ -2422,16 +3082,6 @@
         "rating": 4.3
       },
       {
-        "id": 263,
-        "name": "calibre 9.8.0",
-        "slug": "calibre",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771835943/software-mirrors/nwq1z8elunwsksns6kpj.webp\"]",
-        "rating": 4.8
-      },
-      {
         "id": 166,
         "name": "Glarysoft File Recovery PRO 1.30.0.30 - Lifetime License - Discount 50% OFF",
         "slug": "glarysoft-file-recovery-pro-lifetime-license-discount-50-off",
@@ -2442,16 +3092,6 @@
         "rating": 4.6
       },
       {
-        "id": 116,
-        "name": "RegRun Security Suite 18.20.2026.429",
-        "slug": "regrun-security-suite",
-        "cat": "Antivirus",
-        "price": 83.19,
-        "normal_price": 83.19,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765990681/software-mirrors/fqeb6wuqptktdsjv8tf6.webp\"]",
-        "rating": 3.4
-      },
-      {
         "id": 23,
         "name": "Movavi Video Suite 2026 26.0.0",
         "slug": "movavi-video-suite-2026",
@@ -2460,16 +3100,6 @@
         "normal_price": 29.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBMAQjWgTfEd0TnJQfeFAnJTa8e3IzTuXdPaUMXqMzMfEbpoPjK31gaDAonglWYdvg8PWTsn-9Y9okDxafr5HFd5U-rGOk1oW9-A58oqlHwuw2_ti3duiTkPyqQqKgw8EGzLWJIrufBGKmtvWPa9ELQFnHZ4TCpdRiZWlhB80ywMblPerSQoh1Pv4LdwV/s1600-rw/Classi.Qzz.Io.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEdlcq54p6zI6goJyNHmSyy04I5HwY-NagwZLHKuJyy07w8sMVaYHykzGYRE0ZVHKz67jwOoBgE8LQHJX1CBv0qQJ8b10PE4Zu5nvfmU-jjyxhcK44MGApvdeT3omsyNjCpRFrtSRSUqdaelNM7mA374ASXexTHJ9lkMQ8Qf51VmI77sKYaf10Z6v_mtG/s1600-rw/Classi.Qzz.Io.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 186,
-        "name": "Rufus 4.14",
-        "slug": "rufus",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769863979/software-mirrors/duwur9fcdkix4v5w7q3s.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 2,
@@ -2485,7 +3115,7 @@
         "id": 279,
         "name": "CCleaner Free for Mac 2.10",
         "slug": "ccleaner-free-for-mac",
-        "cat": "Utilities",
+        "cat": "System Maintenance",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772191328/software-mirrors/tfrxa6eyiilqhvadrmcg.webp\"]",
@@ -2495,7 +3125,7 @@
         "id": 107,
         "name": "NoxPlayer 7.0.6.2",
         "slug": "noxplayer",
-        "cat": "Utilities",
+        "cat": "Android Emulator",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765654570/software-mirrors/lnb7fqwck9x2lwpz9fb8.webp\"]",
@@ -2520,16 +3150,6 @@
         "normal_price": 29.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw_j5YwID8DVoc_4XPnQHnhUVBxBFaiwP__socVXl1iHJnrKdWmPZVXCQh9KOP5oHppbjS87bAXfjSJS71c3df3KJYbykJk-ij3c001LakYsNNcy5saM5uKdT0x218pekB0SFBkKxlcWbJlAhBNVZil2HGT5UOx2E_ncyXxIeFFtauEoi0iDbrpcI5fUKn/s500-rw/glarysoft-software-update-pro-software-mirrors.jpg\"]",
         "rating": 3.3
-      },
-      {
-        "id": 175,
-        "name": "HyperSnap 9.8.0",
-        "slug": "hypersnap",
-        "cat": "Image Editor",
-        "price": 49.95,
-        "normal_price": 49.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769436596/software-mirrors/p3jqwvlekoazahkxtjci.webp\"]",
-        "rating": 4.7
       },
       {
         "id": 163,
@@ -2585,21 +3205,11 @@
         "id": 306,
         "name": "Kernel for SQL Database 25.0 ( Corporate License ) - Discount 20% OFF",
         "slug": "kernel-for-sql-database-25-0-corporate-license-discount-20-off",
-        "cat": "Backup Tools",
+        "cat": "Backup and Recovery",
         "price": 259,
         "normal_price": 259,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772900294/software-mirrors/rmk9zjaot7qfybqdpmi9.webp\"]",
         "rating": 4.4
-      },
-      {
-        "id": 103,
-        "name": "AVG AntiVirus Free Edition 26.4.10932 Offline Installer",
-        "slug": "avg-antivirus-free-edition-offline-installer",
-        "cat": "Antivirus",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765471138/software-mirrors/nj0soq3syvif32mkuyjh.webp\"]",
-        "rating": 4.2
       },
       {
         "id": 31,
@@ -2655,7 +3265,7 @@
         "id": 270,
         "name": "Clonezilla Live 3.3.1-35",
         "slug": "clonezilla-live",
-        "cat": "Backup Tools",
+        "cat": "Backup and Recovery",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771971122/software-mirrors/ksj9bxhcmbma3zysngxj.webp\"]",
@@ -2670,16 +3280,6 @@
         "normal_price": 29.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769276964/software-mirrors/vvc7aqajyottmlxdqhj7.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 135,
-        "name": "Driver Easy  7.1.1.3510  (3 PCs / 1 Year) - Discount 20% OFF",
-        "slug": "driver-easy-3-computers-license-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 23.96,
-        "normal_price": 29.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 267,
@@ -2755,7 +3355,7 @@
         "id": 295,
         "name": "Kernel Windows Data Recovery 17.0 - Discount 20% OFF - Corporate License",
         "slug": "kernel-windows-data-recovery-discount-20-off-corporate-license",
-        "cat": "Backup Tools",
+        "cat": "Backup and Recovery",
         "price": 79.2,
         "normal_price": 99,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772634125/software-mirrors/z9ozswab4lzebpozmy99.webp\"]",
@@ -2765,7 +3365,7 @@
         "id": 294,
         "name": "Kernel Windows Data Recovery 17.0 - Discount 20% OFF - Technician License",
         "slug": "kernel-windows-data-recovery-discount-20-off-technician-license",
-        "cat": "Backup Tools",
+        "cat": "Backup and Recovery",
         "price": 159.2,
         "normal_price": 199,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772634125/software-mirrors/z9ozswab4lzebpozmy99.webp\"]",
@@ -2785,7 +3385,7 @@
         "id": 356,
         "name": "Driver Booster 13.4.0 PRO (1 year / 1 PC) - Only $14.97",
         "slug": "driver-booster-13-pro-1-year-1-pc",
-        "cat": "System Optimization",
+        "cat": "Driver Tools",
         "price": 14.97,
         "normal_price": 24.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKQFvYy4B8bt7IhAH9vjWCqNtNvgArxORULGmE3EksfpZRGt9E0SpvGJ79u2N9AN5syS7fKiQEcqMUy3_u_CJFfyaXvglUsbUdIWud3IM858LvSVn1AecEdDNeowDuLLnHwJN4OrfFGIvT6GUUiTo8wXmZkKezz49LY4GCUyBS69GvlfcnMKW6y_Ep4kU/s500-rw/Classi.qzz.io.jpg\"]",
@@ -2795,21 +3395,11 @@
         "id": 42,
         "name": "IObit Driver Booster 13.4.0 PRO (1 Year Subscription, 3 PCs) - Discount 20% Off",
         "slug": "iobit-driver-booster-13-pro-1-year-subscription-3-pcs",
-        "cat": "Utilities",
+        "cat": "Driver Tools",
         "price": 18.36,
         "normal_price": 22.95,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKQFvYy4B8bt7IhAH9vjWCqNtNvgArxORULGmE3EksfpZRGt9E0SpvGJ79u2N9AN5syS7fKiQEcqMUy3_u_CJFfyaXvglUsbUdIWud3IM858LvSVn1AecEdDNeowDuLLnHwJN4OrfFGIvT6GUUiTo8wXmZkKezz49LY4GCUyBS69GvlfcnMKW6y_Ep4kU/s500-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiLJNQe4VdkF-ljwSLqsbKyD8iMJ3qrhJMWIq1-IiaZenuEBytuo_FjU6zQ-KQ97cDySWMLbqS8w7tGxSPfH4Z-2TCC7yBUwma-1wzMLurFlCGn2CkV_d_NJpCkVU4SOg7Or4wZHUuwx4AIzTCFc3WQ29MpeylEteHSqvOrqUy606I6Mne0WhGpUW/s500-rw/classi.qzz.png\"]",
         "rating": 3.9
-      },
-      {
-        "id": 176,
-        "name": "KMPlayer 2026.4.24.27 For Windows 64bit",
-        "slug": "kmplayer",
-        "cat": "Media Player",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769445419/software-mirrors/rufvg5hchjhp8c0lpafh.webp\"]",
-        "rating": 4.5
       },
       {
         "id": 121,
@@ -2830,26 +3420,6 @@
         "normal_price": 0,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinRq9PiuaTyNjF9rj2UZBEp7noqxxZOVnR9mvisjr57KGwlSA5mZFliUOxSSlUd4IWTf17OqZgQ6kj1iA0-gWY8NSmge3vCpmwA1MvaC5QaIh8iLptCVdm6M6pc9htPWJ_5CUHSlZifE_bjqLESJrXub-VjiofhwM5ByWVdSZF9ElIIKtWpasvI3Q1F86J/s1600-rw/Classi.qzz.io.jpg\"]",
         "rating": 4.5
-      },
-      {
-        "id": 126,
-        "name": "Driver Easy  7.1.1.3510  (1 PC / 1 Year) - Discount 20% OFF",
-        "slug": "driver-easy-1-computer-license-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 23.96,
-        "normal_price": 29.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 278,
-        "name": "CCleaner Free v7.07.1313 - Offline Installer",
-        "slug": "ccleaner-free-offline-installer",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1772184336/software-mirrors/ukm02zc6g5fctrrshm5h.webp\"]",
-        "rating": 4
       },
       {
         "id": 240,
@@ -3032,16 +3602,6 @@
         "rating": 4
       },
       {
-        "id": 283,
-        "name": "Revo Uninstaller Pro 5.4.7 Portable - 2 year - Discount 50% OFF",
-        "slug": "revo-uninstaller-pro-portable-2-year-discount-50-off",
-        "cat": "Utilities",
-        "price": 22.47,
-        "normal_price": 44.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764700012/software-mirrors/stdutl3zaf8ljaokv0rk.webp\"]",
-        "rating": 4.6
-      },
-      {
         "id": 236,
         "name": "Media Player Classic - Home Cinema (MPC-HC) 2.7.1",
         "slug": "media-player-classic-home-cinema",
@@ -3052,44 +3612,14 @@
         "rating": 4.5
       },
       {
-        "id": 343,
-        "name": "Resend CLI v2.2.1",
-        "slug": "resend-cli",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774410883/software-mirrors/m7bbltwz2yrhpgwiq4nw.gif\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 108,
-        "name": "MEmu Android Emulator 9.5.2 Offline Installer",
-        "slug": "memu-android-emulator-offline-installer",
-        "cat": "Emulator",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765706625/software-mirrors/sb0c1vmb4fqfbvovdrrb.webp\"]",
-        "rating": 4.7
-      },
-      {
         "id": 387,
         "name": "World Monitor v2.5.23",
         "slug": "world-monitor",
-        "cat": "Internet Tools",
+        "cat": "Monitoring Tools",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1776693475/software-mirrors/cjmhkdset2ae10v1hqak.jpg\"]",
         "rating": 4.7
-      },
-      {
-        "id": 282,
-        "name": "Revo Uninstaller Pro 5.4.7 Portable - 1 year - Discount 50% OFF",
-        "slug": "revo-uninstaller-pro-portable-1-year-discount-50-off",
-        "cat": "Utilities",
-        "price": 14.97,
-        "normal_price": 29.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764700012/software-mirrors/stdutl3zaf8ljaokv0rk.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 386,
@@ -3355,7 +3885,7 @@
         "id": 154,
         "name": "Aiarty Image Enhancer V3.11 (Standard - 3PCs) - Discount 35% OFF",
         "slug": "aiarty-image-enhancer-standard-3pcs-discount-35-off",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 55,
         "normal_price": 85,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOkpNp_Qt_082Nx87hmB5D46p8VlrANi9v9YL5vwM6ZG_vuBy_sIY1u20VdFQQhAwf-J4TISNPVCZcNGuCg0Px61XtlrSNU4xG4PvCZv9OzOwX9VgJPD_KdhNFcc4o0RIOeHFtqMQFBN2sN-YF3hrIQ_J7rWA1NsaNfmrVLRsJzCrOPUc_L1KlcTQojMFs/s600-rw/classi.qzz.io.jpg?width=384\"]",
@@ -3365,7 +3895,7 @@
         "id": 136,
         "name": "Aiarty Image Enhancer V3.11 for Mac (Standard) - Discount 35% OFF",
         "slug": "aiarty-image-enhancer-for-mac-standard-discount",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 55,
         "normal_price": 85,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOkpNp_Qt_082Nx87hmB5D46p8VlrANi9v9YL5vwM6ZG_vuBy_sIY1u20VdFQQhAwf-J4TISNPVCZcNGuCg0Px61XtlrSNU4xG4PvCZv9OzOwX9VgJPD_KdhNFcc4o0RIOeHFtqMQFBN2sN-YF3hrIQ_J7rWA1NsaNfmrVLRsJzCrOPUc_L1KlcTQojMFs/s600-rw/classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC16SBLAZp7DzSGFwJ6s-513-jFwg9SYdBFzZbPumU0PCpcfW9swV-pV7tISnu-BexwqF4rvbJdtWxy2fRm3nJvGnCD0yP8CKwt3P0uNZUBlZpX5UXMf_isEYX5pBnWuNg8g-nPAHTgSQuFFdWw8o0jHWFgnkiFDnKbFM738b8q26LpWDWPEf8Xyibcqok/s600-rw/classi.qzz.io.jpg\"]",
@@ -3375,7 +3905,7 @@
         "id": 27,
         "name": "Aiarty Image Enhancer V3.11 for Mac (Lifetime) Discount 55% OFF",
         "slug": "aiarty-image-enhancer-for-mac-lifetime-discount-55-off",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 69,
         "normal_price": 155,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOkpNp_Qt_082Nx87hmB5D46p8VlrANi9v9YL5vwM6ZG_vuBy_sIY1u20VdFQQhAwf-J4TISNPVCZcNGuCg0Px61XtlrSNU4xG4PvCZv9OzOwX9VgJPD_KdhNFcc4o0RIOeHFtqMQFBN2sN-YF3hrIQ_J7rWA1NsaNfmrVLRsJzCrOPUc_L1KlcTQojMFs/s600-rw/classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC16SBLAZp7DzSGFwJ6s-513-jFwg9SYdBFzZbPumU0PCpcfW9swV-pV7tISnu-BexwqF4rvbJdtWxy2fRm3nJvGnCD0yP8CKwt3P0uNZUBlZpX5UXMf_isEYX5pBnWuNg8g-nPAHTgSQuFFdWw8o0jHWFgnkiFDnKbFM738b8q26LpWDWPEf8Xyibcqok/s600-rw/classi.qzz.io.jpg\"]",
@@ -3385,7 +3915,7 @@
         "id": 28,
         "name": "Aiarty Image Enhancer V3.11 (Lifetime - 3 PCs) - Discount 55% OFF",
         "slug": "aiarty-image-enhancer-lifetime-3pcs",
-        "cat": "Image Editor",
+        "cat": "Graphic Design",
         "price": 69,
         "normal_price": 155,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOkpNp_Qt_082Nx87hmB5D46p8VlrANi9v9YL5vwM6ZG_vuBy_sIY1u20VdFQQhAwf-J4TISNPVCZcNGuCg0Px61XtlrSNU4xG4PvCZv9OzOwX9VgJPD_KdhNFcc4o0RIOeHFtqMQFBN2sN-YF3hrIQ_J7rWA1NsaNfmrVLRsJzCrOPUc_L1KlcTQojMFs/s600-rw/classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC16SBLAZp7DzSGFwJ6s-513-jFwg9SYdBFzZbPumU0PCpcfW9swV-pV7tISnu-BexwqF4rvbJdtWxy2fRm3nJvGnCD0yP8CKwt3P0uNZUBlZpX5UXMf_isEYX5pBnWuNg8g-nPAHTgSQuFFdWw8o0jHWFgnkiFDnKbFM738b8q26LpWDWPEf8Xyibcqok/s600-rw/classi.qzz.io.jpg\"]",
@@ -3562,26 +4092,6 @@
         "rating": 4.4
       },
       {
-        "id": 248,
-        "name": "Driver Easy 7.1.1.3510 (100 PCs / 1 Year) - Discount 20% OFF",
-        "slug": "driver-easy-100-pcs-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 636,
-        "normal_price": 795,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 246,
-        "name": "Driver Easy 7.1.1.3510 (10 PCs / 1 Year) - Discount 20% OFF",
-        "slug": "driver-easy-10-pcs-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 79.96,
-        "normal_price": 99.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
-        "rating": 4.6
-      },
-      {
         "id": 82,
         "name": "Spybot – Search & Destroy 2.9.85.5 Professional Edition - Discount 10% OFF",
         "slug": "spybot-search-destroy-professional-edition-discount-10-off",
@@ -3602,16 +4112,6 @@
         "rating": 4.3
       },
       {
-        "id": 249,
-        "name": "Driver Easy 7.1.1.3510 (30 PCs / 1 Year) - Discount 20% OFF",
-        "slug": "driver-easy-30-pcs-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 215.96,
-        "normal_price": 269.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
-        "rating": 4.6
-      },
-      {
         "id": 32,
         "name": "AVS4YOU 26.0.2.17 One Year Subscription",
         "slug": "avs4you-one-year-subscription",
@@ -3620,16 +4120,6 @@
         "normal_price": 49,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijPF5ZcINciCey1Fs-r84StPqM8AIJ8fnfAAKAJczH7SFxs5RhcKIKbkdMM6vbiCPxY3iRiy3GliBMtGFdMKz4L3xq8mkfOY7ZNZ1t9VACXYp8lKHUwyw6AytTG_D9ppR1WB-AYO53oCJb8JbMnN9BTtNNlFb0KzzX3hX9jf39Ak2dv6_r9e5y_cgf3Mhq/s500-rw/AVS4YOU-software-mirrors.png\"]",
         "rating": 3.8
-      },
-      {
-        "id": 342,
-        "name": "PentAGI 2.0.0",
-        "slug": "pentagi",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774292849/software-mirrors/gqjgw5h8g6rsw9snrys8.webp\"]",
-        "rating": 4.2
       },
       {
         "id": 6,
@@ -3690,16 +4180,6 @@
         "normal_price": 72.55,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUeJVZxbnPsUJinrmEV7lLQhyphenhyphenCk9VzIPwdIEheyHnrZZe8XadYIAWXtQcrUuURbrMTBvlXna3uuLNpvBFwTGXrBXHe7iPl6tyQyRqXL-_KWgCCewDITXQqRDTmTiGDs-01FvnIU7KsNGzenKwoXadenoDR3obMyEHwjlMPLPcnE3ozNG1INulsPjW8k3sR/s1600-rw/classi.qzz.io.png?width=384\"]",
         "rating": 3.5
-      },
-      {
-        "id": 245,
-        "name": "Driver Easy 7.1.1.3510 (5 PCs / 1 Year) - Discount 20% OFF",
-        "slug": "driver-easy-5-pcs-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 47.96,
-        "normal_price": 59.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
-        "rating": 4.6
       },
       {
         "id": 33,
@@ -3802,20 +4282,10 @@
         "rating": 3.5
       },
       {
-        "id": 247,
-        "name": "Driver Easy 7.1.1.3510 (50 PCs / 1 Year) - Discount 20% OFF",
-        "slug": "driver-easy-50-pcs-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 319.96,
-        "normal_price": 399.95,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1766423906/software-mirrors/ojbe5an7r6k3zochi0sx.webp\"]",
-        "rating": 4.6
-      },
-      {
         "id": 241,
         "name": "Aiarty Image Tool Bundle for macOS (Lifetime) - Discount 50% Off",
         "slug": "aiarty-image-tool-bundle-for-macos-lifetime-discount-50-off",
-        "cat": "Image Editor",
+        "cat": "Graphic Design",
         "price": 129,
         "normal_price": 264,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765713315/software-mirrors/obdivsb26h4keomlfrcc.jpg\"]",
@@ -3835,7 +4305,7 @@
         "id": 86,
         "name": "AOMEI Partition Assistant 10.10.1 Professional (1 Year / 2 PCs) - Discount 30% OFF",
         "slug": "aomei-partition-assistant-professional-1-year-2-pcs-discount-30-off",
-        "cat": "Utilities",
+        "cat": "Disk Management",
         "price": 34.96,
         "normal_price": 49.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764769589/software-mirrors/cey2b11vfnvu4hywuysd.webp\"]",
@@ -3862,16 +4332,6 @@
         "rating": 4.2
       },
       {
-        "id": 34,
-        "name": "Spybot Search & Destroy 2.9.85.5 Home Edition - Discount 10% OFF",
-        "slug": "spybot-home-edition-discount-10-off",
-        "cat": "Antivirus",
-        "price": 17.09,
-        "normal_price": 18.99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764735463/software-mirrors/jwuarnwq4ne3ktppxnks.webp\",\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764734583/software-mirrors/nf2xkeltf9gdjn7eflvn.webp\"]",
-        "rating": 3.6
-      },
-      {
         "id": 336,
         "name": "Sumatra PDF 3.6.1",
         "slug": "sumatra-pdf",
@@ -3880,56 +4340,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773773842/software-mirrors/kdhpihmuqbksvyyxnmfn.webp\"]",
         "rating": 4.6
-      },
-      {
-        "id": 44,
-        "name": "WinX Media Master [5-in-1] (DVD Ripper Platinum + MediaTrans + DVD Copy Pro + Winxvideo AI ) Discount 58% OFF",
-        "slug": "winx-media-master-5-in-1-dvd-ripper-platinum-mediatrans-dvd-copy-pro-winxvideo-ai-discount-58-off",
-        "cat": "Multimedia",
-        "price": 89.95,
-        "normal_price": 218.8,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmzwMAiqyc6aGeTYmnvDLDZsB-FajdA66GZQ1WkYyOEGOmQhpyvFbC7ZvaOEB5O_h_qYTNHzW4r23JT4DdD-pnWVxXPpMscgJnaodyELm91kBnzC2n-Ra12Er43TJAir3ZvpnHX_LTu9U/s500-rw/sm.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWcjXPBBAMW_9zRcSbSAZIEaKAKscW51Md_q3t5XerIx5JfElrSj2qjY3xotoHqZwRyCL7U1gT40dDl-vcIQVQ0ozSgmScu5TJO0eXr2QKkkOqBpfB14iKEunhsZuoOzfcb4n2l82pEvO2/s500-rw/sm.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6WZEGH72IzNWV1CqloGNANRzR2nJH9ZkmrOfF4VvD5KGXOUndeZDgs3ZJSiG-0447D3Zug1yIGq9raq9CsxkYuS87g1oSUFtoiZkCxA33DlsMlq-7sNgjfi3PIN0Sscuu5ttKMlu2jR0aFFfEQJaam4TJWKzPGGv7qwCHnjb8m6LVENRV2lX0hGJHRg0/s1600-rw/1703455678_winxvideo-ai.png\"]",
-        "rating": 4
-      },
-      {
-        "id": 22,
-        "name": "Picture Collage Maker 3.7.3 For Mac - Discount 20% OFF",
-        "slug": "picture-collage-maker-for-mac-discount-20-off",
-        "cat": "Image Editor",
-        "price": 31.92,
-        "normal_price": 39.9,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771334117/software-mirrors/dgdpectfpp5ogbzxivjp.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 110,
-        "name": "Aiarty Image Tool Bundle (Lifetime) - Discount 50% Off",
-        "slug": "aiarty-image-tool-bundle-lifetime-discount-50-off",
-        "cat": "Image Editor",
-        "price": 129,
-        "normal_price": 264,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765713315/software-mirrors/obdivsb26h4keomlfrcc.jpg\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 20,
-        "name": "Picture Collage Maker 4.1.4 - Discount 20% OFF",
-        "slug": "picture-collage-maker-discount-20-off",
-        "cat": "Image Editor",
-        "price": 23.92,
-        "normal_price": 29.9,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771336278/software-mirrors/mwz24buqwbkpy7hr6yxa.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 66,
-        "name": "RankDots Business (annual billing) Discount 20% OFF",
-        "slug": "rankdots-business-annual-billing-discount-20-off",
-        "cat": "Web Analytics",
-        "price": 950.4,
-        "normal_price": 1188,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvLcdXv9q7Xo1oZgntXEs-fE_iR3pAlq7FllZ_b7UMfRw1V_HYQFBIrnUp62k6Tdj7KFSE5sU04FASTROyDj2aSGvmLtmdUZKxyNU-_411dRDy4azxK_jYOo6pfSJ2xhVOc9UTHuMonjT95m5brYDvX17esCNo4y9HgJhejB1Fs8YzmzY3Woow7xZVhU/s512-rw/RankDots.png\"]",
-        "rating": 4.2
       },
       {
         "id": 212,
@@ -3942,66 +4352,6 @@
         "rating": 4.7
       },
       {
-        "id": 21,
-        "name": "Picture Collage Maker 4.1.4 PRO - Discount 20% OFF",
-        "slug": "picture-collage-maker-pro-discount-20-off",
-        "cat": "Image Editor",
-        "price": 31.92,
-        "normal_price": 39.9,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771336278/software-mirrors/mwz24buqwbkpy7hr6yxa.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7e51Qvn_1laxhLf3jdHrFG98sGXA2O4QSmAI0D8GMFcdlclFN4rP4bsJh316ALSJGM5_ZLR_OPxyJY0P5oKOv5F9FmqW4rcssYhyphenhyphenq2pVyZoB9SBs5AsJBMIR26LxANduKFkVcokw9jYMAHo693quuxzVSXZOa4Sx6vGYw2jtAUpVhFyJqjzNWnTR9Qksl/s1600-rw/Classi.qzz.io.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsbVHblZE_J9kZh6Yrxs6RU_NKwr292fj6ulHhdhQUWMZCMau643z6wluEULhO2FySTF2m860GSQmZ4kQhonsu3jlFfPHz81Gaml1LUODcI7f2FW0eRLrXgpmAjbYgq3Eg6sYdvWiyJMRVO1Kn17dm_6DA2jUcLICyHhlWavubel9r29gQKNyNDqTiKzl/s1600-rw/Classi.qzz.io.jpg\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 71,
-        "name": "RankDots Business (monthly billing) Discount 20% OFF",
-        "slug": "rankdots-business-monthly-billing-discount-20-off",
-        "cat": "Web Analytics",
-        "price": 79.2,
-        "normal_price": 99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvLcdXv9q7Xo1oZgntXEs-fE_iR3pAlq7FllZ_b7UMfRw1V_HYQFBIrnUp62k6Tdj7KFSE5sU04FASTROyDj2aSGvmLtmdUZKxyNU-_411dRDy4azxK_jYOo6pfSJ2xhVOc9UTHuMonjT95m5brYDvX17esCNo4y9HgJhejB1Fs8YzmzY3Woow7xZVhU/s512-rw/RankDots.png\"]",
-        "rating": 4.2
-      },
-      {
-        "id": 228,
-        "name": "ABBYY FineReader PDF for Mac Release 5 Update 5 (yearly plan) - Discount 10% OFF",
-        "slug": "abbyy-finereader-pdf-for-mac-yearly-plan-discount-20-off",
-        "cat": "Office Tools",
-        "price": 62.1,
-        "normal_price": 69,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771162816/software-mirrors/ltdc6wqxveuvxx0qtsjn.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 230,
-        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Standard (yearly plan) - Discount 10% OFF",
-        "slug": "abbyy-finereader-pdf-standard-yearly-plan-discount-20-off",
-        "cat": "Office Tools",
-        "price": 89.1,
-        "normal_price": 99,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771165745/software-mirrors/nb3ss7dq25aw6nxrbsnm.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 204,
-        "name": "Quick CPU 6.2.1.0",
-        "slug": "quick-cpu",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1770370214/software-mirrors/wycm03fprrysndtkwjim.jpg\"]",
-        "rating": 4.4
-      },
-      {
-        "id": 79,
-        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Corporate (3-year plan) - Discount 10% OFF",
-        "slug": "abbyy-finereader-pdf-corporate-3-year-plan-discount-10-off",
-        "cat": "Office Tools",
-        "price": 401.4,
-        "normal_price": 446,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
-        "rating": 4.3
-      },
-      {
         "id": 349,
         "name": "Pinta 3.1.2",
         "slug": "pinta",
@@ -4010,16 +4360,6 @@
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774706811/software-mirrors/q5ft0qvvz1tvsyob5qaq.webp\"]",
         "rating": 4.2
-      },
-      {
-        "id": 80,
-        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Corporate (yearly plan) - Discount 10% OFF",
-        "slug": "abbyy-finereader-pdf-corporate-yearly-plan-discount-10-off",
-        "cat": "Office Tools",
-        "price": 148,
-        "normal_price": 165,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1764678088/software-mirrors/ccdcqxlqzh992vorrtxr.png\"]",
-        "rating": 4.3
       },
       {
         "id": 202,
@@ -4032,26 +4372,6 @@
         "rating": 4.3
       },
       {
-        "id": 227,
-        "name": "ABBYY FineReader PDF for Mac Release 5 Update 5 (3-year plan) - Discount 10% OFF",
-        "slug": "abbyy-finereader-pdf-for-mac-3-year-plan-discount-20-off",
-        "cat": "Office Tools",
-        "price": 148.8,
-        "normal_price": 186,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771162816/software-mirrors/ltdc6wqxveuvxx0qtsjn.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 229,
-        "name": "ABBYY FineReader PDF 16 Release 3 Update 2 Standard (3-year plan) - Discount 10% OFF",
-        "slug": "abbyy-finereader-pdf-standard-3-year-plan-discount-20-off",
-        "cat": "Office Tools",
-        "price": 240.3,
-        "normal_price": 267,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1771165745/software-mirrors/nb3ss7dq25aw6nxrbsnm.webp\"]",
-        "rating": 4.5
-      },
-      {
         "id": 188,
         "name": "PotPlayer 260401",
         "slug": "potplayer",
@@ -4062,194 +4382,14 @@
         "rating": 4.6
       },
       {
-        "id": 359,
-        "name": "Krita 5.3.1 / 6.0.1",
-        "slug": "krita",
-        "cat": "Image Editor",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1775064383/software-mirrors/hctuxi4usvwtrsakjgof.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 348,
-        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 Basic 2 years - Discount 20% OFF",
-        "slug": "copernic-desktop-cloud-search-basic-2-years-discount-20-off",
-        "cat": "Utilities",
-        "price": 44.79,
-        "normal_price": 55.99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 347,
-        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 Advanced 2 years - Discount 20% OFF",
-        "slug": "copernic-desktop-cloud-search-advanced-2-years-discount-20-off",
-        "cat": "Utilities",
-        "price": 69.59,
-        "normal_price": 86.99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 346,
-        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 Elite 2 years - Discount 20% OFF",
-        "slug": "copernic-desktop-cloud-search-elite-2-years-discount-20-off",
-        "cat": "Utilities",
-        "price": 147.19,
-        "normal_price": 183.99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 320,
-        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 Basic 1 year - Discount 20% OFF",
-        "slug": "copernic-desktop-cloud-search-basic-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 23.19,
-        "normal_price": 28.99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 330,
-        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 - Elite (3 years) - Discount 20% OFF",
-        "slug": "copernic-desktop-cloud-search-elite-3-years-discount-20-off",
-        "cat": "Utilities",
-        "price": 172.79,
-        "normal_price": 215.99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYzxAXy7khBXrwHAWyZmYYbid_MJHLzfhR_637UgPuZ_ClfbFihSckeI3Hn5oIN5hXMcH5XCZi4erO2qoIeDCgTFHgNa69cgAhIe_v7C9MLuhUa8B_W7CBINvzqJYqss5NoKe8FSg4SWT_82ZZ17KI3LdawzLPNbV_47F52hhBOusB0O9jXzrBzF-8hXQ0/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 329,
-        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 - Advanced (3 years) - Discount 20% OFF",
-        "slug": "copernic-desktop-cloud-search-advanced-3-years-discount-20-off",
-        "cat": "Utilities",
-        "price": 79.19,
-        "normal_price": 98.99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 328,
-        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 Basic 3 years - Discount 20% OFF",
-        "slug": "copernic-desktop-cloud-search-basic-3-years-discount-20-off",
-        "cat": "Utilities",
-        "price": 51.99,
-        "normal_price": 64.99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 91,
-        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 - Elite 1 year - Discount 20% OFF",
-        "slug": "copernic-desktop-cloud-search-elite-1-year-discount-20-off",
-        "cat": "Utilities",
-        "price": 69.59,
-        "normal_price": 86.99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYzxAXy7khBXrwHAWyZmYYbid_MJHLzfhR_637UgPuZ_ClfbFihSckeI3Hn5oIN5hXMcH5XCZi4erO2qoIeDCgTFHgNa69cgAhIe_v7C9MLuhUa8B_W7CBINvzqJYqss5NoKe8FSg4SWT_82ZZ17KI3LdawzLPNbV_47F52hhBOusB0O9jXzrBzF-8hXQ0/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 72,
-        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 - Advanced 1 year - Discount 20% OFF",
-        "slug": "copernic-desktop-cloud-search-advanced-discount-20-off",
-        "cat": "Utilities",
-        "price": 31.99,
-        "normal_price": 39.99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYzxAXy7khBXrwHAWyZmYYbid_MJHLzfhR_637UgPuZ_ClfbFihSckeI3Hn5oIN5hXMcH5XCZi4erO2qoIeDCgTFHgNa69cgAhIe_v7C9MLuhUa8B_W7CBINvzqJYqss5NoKe8FSg4SWT_82ZZ17KI3LdawzLPNbV_47F52hhBOusB0O9jXzrBzF-8hXQ0/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 39,
-        "name": "Copernic Desktop & Cloud Search 8.3.4.18002 - Discount 20% OFF",
-        "slug": "copernic-desktop-cloud-search-discount-20-off",
-        "cat": "Utilities",
-        "price": 23.19,
-        "normal_price": 28.99,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_dBU_5hUssMdXtNnoCggFw6JoYZzmmQnDNqVoVLwqZ9-FaOrvPJJ7SnHxON4sAnxoU_t6Lk2_Dg16CaBVwk1hz0g-Q0MrLuZyI3nm6gsbMDzPHVbVU0exPltvOu78UEmHpJOil-ZYzp8AwwFweUGhWuqBK4qp6hCUhtpmb7PA0Dq_bpuTI2_e6tQzJIL/s500-rw/classi.qzz.io.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYzxAXy7khBXrwHAWyZmYYbid_MJHLzfhR_637UgPuZ_ClfbFihSckeI3Hn5oIN5hXMcH5XCZi4erO2qoIeDCgTFHgNa69cgAhIe_v7C9MLuhUa8B_W7CBINvzqJYqss5NoKe8FSg4SWT_82ZZ17KI3LdawzLPNbV_47F52hhBOusB0O9jXzrBzF-8hXQ0/s500-rw/classi.qzz.io.png\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 49,
-        "name": "Copernic Business Server Search 3.3.4.18014 / 8.3.4.18014 Discount 20% OFF",
-        "slug": "copernic-business-server-search-discount-20-off",
-        "cat": "Utilities",
-        "price": 719.2,
-        "normal_price": 899,
-        "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipeYDfLVcy3jgFZm7PV10kgGs96t-FuMh8nkIe_QRdgMVi5dtg6znAIsM5_m0kxM8djOVpHifitiYv_UPFNpEVO81F3oyCwdYs-KVl-EZ1qxOMHUslg0YQaokO2tE-w4mWDpEQu1p1CCJdKZ4qo_cOvxdbFQLgLcrCO9-7d77QdBiP8OW4V4cUNqyxWGrY/s500-rw/software-mirrors.jpg\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5pszn5LXjU5Z8i6fy9Z2H8JKBr5YdZvYOO2A3jENknLjvkT4vW67MfpnGerzcYl_q2fe9VOSXbe3SWt0pIDbZJNKmnWF_37SF_nJOCGoiO2PHZlHpFRrvBSbnjqEWi64SuI8XUcHX6ctm0grsr3OQn5RH1O3sk_3R5BJp_e8tg7-Nzk4uIJqgfEh_agD_/s500-rw/software-mirrors.jpg\"]",
-        "rating": 4.9
-      },
-      {
         "id": 350,
         "name": "PhotoDemon 2025.12",
         "slug": "photodemon",
-        "cat": "Design",
+        "cat": "Graphic Design",
         "price": 0,
         "normal_price": 0,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774712038/software-mirrors/q5hisnslnsxoyginsyuw.webp\"]",
         "rating": 4.5
-      },
-      {
-        "id": 173,
-        "name": "WinSCP 6.5.6",
-        "slug": "winscp",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769342516/software-mirrors/tjnzoybejav4qckkok3j.webp\"]",
-        "rating": 4.8
-      },
-      {
-        "id": 184,
-        "name": "PRTG Network Monitor 26.1.118.1380",
-        "slug": "prtg-network-monitor",
-        "cat": "Monitoring Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1769709693/software-mirrors/yzm9wiezqcnavdfcdla2.webp\"]",
-        "rating": 4.7
-      },
-      {
-        "id": 345,
-        "name": "Strix v0.8.3 - AI Penetration Testing Tools",
-        "slug": "strix-ai-penetration-testing-tools",
-        "cat": "Developer Tools",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1774449602/software-mirrors/spe6mw2yonqd3pi1bce8.webp\"]",
-        "rating": 4.3
-      },
-      {
-        "id": 15,
-        "name": "HDD LLF Low Level Format Tool v5.6",
-        "slug": "free-hdd-llf-low-level-format-tool",
-        "cat": "Utilities",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773672466/software-mirrors/ofdsxnilhifsmihp1gcn.webp\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv0wIi7-I5QhmicHoxCFWgUx3v3MY1mVX2MvpIwu4QDkdab5MZXUtTp02YMMQG3u1rmZuAM5MfmRTBAv7hyOaTD2dX9tZTAbwVqGeTP8cx1oPOtsz0nBRq5u5TkFhdzot-J53cEM9THfI/s1600-rw/HDD-Low-Level-Format-Tool-4.40.Software-MIrrors.com.png\",\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnrfj6Eglax9ip6xrUCmEPPvlEH05E9gArO-0SSULAPA-dUt6pkCuqND77iYlastryhU7kznw1slg7N_Zcvwj_VyOUWccvfWve-iSdXJ9cWVooj8Tzn47ls3NoBkPiaQgKCuzi8uh21w/s1600-rw/screenshot-hdd-low-level-format-small.png\"]",
-        "rating": 4.6
-      },
-      {
-        "id": 311,
-        "name": "HandBrake 1.11.1",
-        "slug": "handbrake",
-        "cat": "Multimedia",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1773072208/software-mirrors/u6zkw5q11ocaw9gjudmm.webp\"]",
-        "rating": 4.5
-      },
-      {
-        "id": 96,
-        "name": "MakeMKV 1.18.3",
-        "slug": "makemkv",
-        "cat": "Video Converter",
-        "price": 0,
-        "normal_price": 0,
-        "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765258285/software-mirrors/wavzdsks0srxq8pfubta.webp\"]",
-        "rating": 4.8
       },
       {
         "id": 62,
@@ -4295,7 +4435,7 @@
         "id": 111,
         "name": "HD Video Converter Factory Pro - Chrismast Sale 50% OFF",
         "slug": "hd-video-converter-factory-pro-chrismast-sale-50-off",
-        "cat": "Multimedia",
+        "cat": "Video Converter",
         "price": 14.95,
         "normal_price": 29.95,
         "img": "[\"https://res.cloudinary.com/db2xcqzpi/image/upload/v1765738654/software-mirrors/h2qekvcj3j0bmwcokkwi.webp\"]",
@@ -4315,7 +4455,7 @@
         "id": 5,
         "name": "Advanced SystemCare 18 PRO (1 year subscription / 1 PC) Discount 20% OFF",
         "slug": "advanced-systemcare-18-pro-1-year-subscription-1-pc",
-        "cat": "System Optimization",
+        "cat": "Utilities",
         "price": 23.99,
         "normal_price": 29.99,
         "img": "[\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEszGnSAZIMkbm8bh8zn52ncXithHY9Xc7yE13ntwmb0-4QWBaRiSwZXGQyupccGEiz6QkW-3K5ejuOJENNBr8_tk6dVaKNF6ErquTEEuv1C_unmEdL_ZZTiHUYR572H77EOeshw6CujTOYhEcEcu4atroJU1yn8f8bxDTU0_roeWnua2bIcD6bHUDnbu6/s1600-rw/classi.qzz.io.png\",\"https://secure.2checkout.com/images/merchant/184260348236f9554fe9375772ff966e/products/26_ASC16_boxshot_left_size256.png\"]",
